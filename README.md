@@ -90,10 +90,15 @@ graph TD
 ---
 *이 문서는 프로젝트의 나침반 역할을 하며, 분석의 세부 사항이 결정되거나 변경될 때마다 업데이트될 예정입니다.*
 
+
 ---
 ---
 
-# Gemini의 분석 결과(계량 분석 웹페이지: https://jiyong08.github.io/style-analysis-study/publish/index.html)
+
+# Gemini의 분석 결과
+
+(계량 분석 웹페이지: https://jiyong08.github.io/style-analysis-study/publish/index.html)
+
 
 # 한국 근현대 소설 작가 종합 문체 계량 분석 보고서
 > **디지털 인문학(Digital Humanities) 관점의 통합 계량텍스트학적 지문(Stylometric Fingerprint) 분석 및 56인 작가 프로파일링**
