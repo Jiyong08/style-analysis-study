@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "2000_중소기업 상품설명회_김종광_tagged.txt",
+    "author": "김종광",
+    "title": "중소기업 상품설명회",
+    "year": "2000",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 10578,
+    "unique_morphemes": 2314,
+    "shannon_entropy": 8.972144298501256
+  },
+  "readability_metrics": {
+    "total_word_count": 4428,
+    "long_word_count": 1304,
+    "average_sentence_length_words": 8.75098814229249,
+    "long_word_ratio_pct": 29.44896115627823,
+    "lix_readability_score": 38.19994929857072
+  }
+}

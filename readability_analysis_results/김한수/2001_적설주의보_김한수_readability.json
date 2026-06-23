@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "2001_적설주의보_김한수_tagged.txt",
+    "author": "김한수",
+    "title": "적설주의보",
+    "year": "2001",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 7357,
+    "unique_morphemes": 1773,
+    "shannon_entropy": 8.639263160437048
+  },
+  "readability_metrics": {
+    "total_word_count": 3194,
+    "long_word_count": 960,
+    "average_sentence_length_words": 10.68227424749164,
+    "long_word_ratio_pct": 30.05635566687539,
+    "lix_readability_score": 40.73862991436703
+  }
+}

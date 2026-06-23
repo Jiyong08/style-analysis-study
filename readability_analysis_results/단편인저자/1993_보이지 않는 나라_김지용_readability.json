@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1993_보이지 않는 나라_김지용_tagged.txt",
+    "author": "김지용",
+    "title": "보이지 않는 나라",
+    "year": "1993",
+    "is_excluded_from_display": true
+  },
+  "entropy_metrics": {
+    "total_morphemes": 156398,
+    "unique_morphemes": 7024,
+    "shannon_entropy": 8.71356178075046
+  },
+  "readability_metrics": {
+    "total_word_count": 64679,
+    "long_word_count": 17384,
+    "average_sentence_length_words": 6.425491754420823,
+    "long_word_ratio_pct": 26.877348134634115,
+    "lix_readability_score": 33.30283988905494
+  }
+}

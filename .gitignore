@@ -1,0 +1,10 @@
+# 1. 원문 소설 및 전처리 텍스트 데이터 무시
+raw_novel_limin/
+segmented_novel_limin/
+split_novel/
+
+# 2. 임시 파일 및 캐시 무시
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db

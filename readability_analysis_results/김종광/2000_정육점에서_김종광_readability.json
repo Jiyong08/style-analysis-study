@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "2000_정육점에서_김종광_tagged.txt",
+    "author": "김종광",
+    "title": "정육점에서",
+    "year": "2000",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 12156,
+    "unique_morphemes": 2191,
+    "shannon_entropy": 8.469328772041164
+  },
+  "readability_metrics": {
+    "total_word_count": 4951,
+    "long_word_count": 1246,
+    "average_sentence_length_words": 6.067401960784314,
+    "long_word_ratio_pct": 25.16663300343365,
+    "lix_readability_score": 31.23403496421796
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1962_7월의 아이들_최인훈_tagged.txt",
+    "author": "최인훈",
+    "title": "7월의 아이들",
+    "year": "1962",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 142,
+    "density": 0.11591836734693878,
+    "average_clustering": 0.3775272271588061,
+    "transitivity": 0.2890688259109312
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "아이",
+        "value": 0.5102040816326531
+      },
+      {
+        "word": "대장",
+        "value": 0.3877551020408163
+      },
+      {
+        "word": "생각",
+        "value": 0.26530612244897955
+      },
+      {
+        "word": "선생",
+        "value": 0.24489795918367346
+      },
+      {
+        "word": "교문",
+        "value": 0.24489795918367346
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "대장",
+        "value": 0.3574263038548752
+      },
+      {
+        "word": "아이",
+        "value": 0.30165816326530615
+      },
+      {
+        "word": "아버지",
+        "value": 0.11075680272108843
+      },
+      {
+        "word": "선생",
+        "value": 0.0873015873015873
+      },
+      {
+        "word": "교문",
+        "value": 0.07971938775510204
+      }
+    ]
+  }
+}

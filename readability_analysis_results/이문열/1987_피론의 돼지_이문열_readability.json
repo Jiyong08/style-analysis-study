@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1987_피론의 돼지_이문열_tagged.txt",
+    "author": "이문열",
+    "title": "피론의 돼지",
+    "year": "1987",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 7768,
+    "unique_morphemes": 1707,
+    "shannon_entropy": 8.538566794054205
+  },
+  "readability_metrics": {
+    "total_word_count": 3275,
+    "long_word_count": 819,
+    "average_sentence_length_words": 7.616279069767442,
+    "long_word_ratio_pct": 25.00763358778626,
+    "lix_readability_score": 32.6239126575537
+  }
+}

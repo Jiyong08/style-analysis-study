@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1935_봄봄_김유정_tagged.txt",
+    "author": "김유정",
+    "title": "봄봄",
+    "year": "1935",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 6526,
+    "unique_morphemes": 1406,
+    "shannon_entropy": 8.58362907552018
+  },
+  "readability_metrics": {
+    "total_word_count": 3049,
+    "long_word_count": 565,
+    "average_sentence_length_words": 9.835483870967742,
+    "long_word_ratio_pct": 18.530665792062972,
+    "lix_readability_score": 28.366149663030715
+  }
+}

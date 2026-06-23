@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "2001_정처 없는 이 발길_공선옥_tagged.txt",
+    "author": "공선옥",
+    "title": "정처 없는 이 발길",
+    "year": "2001",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 8631,
+    "unique_morphemes": 1632,
+    "shannon_entropy": 8.528509900620856
+  },
+  "readability_metrics": {
+    "total_word_count": 3674,
+    "long_word_count": 954,
+    "average_sentence_length_words": 9.139303482587065,
+    "long_word_ratio_pct": 25.966249319542733,
+    "lix_readability_score": 35.1055528021298
+  }
+}

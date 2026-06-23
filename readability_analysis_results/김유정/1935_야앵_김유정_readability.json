@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1935_야앵_김유정_tagged.txt",
+    "author": "김유정",
+    "title": "야앵",
+    "year": "1935",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 6765,
+    "unique_morphemes": 1438,
+    "shannon_entropy": 8.6752366558382
+  },
+  "readability_metrics": {
+    "total_word_count": 3123,
+    "long_word_count": 643,
+    "average_sentence_length_words": 10.239344262295083,
+    "long_word_ratio_pct": 20.58917707332693,
+    "lix_readability_score": 30.828521335622014
+  }
+}

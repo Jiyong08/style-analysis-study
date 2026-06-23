@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1993_시간속의 도적_채영주_tagged.txt",
+    "author": "채영주",
+    "title": "시간속의 도적",
+    "year": "1993",
+    "is_excluded_from_display": true
+  },
+  "entropy_metrics": {
+    "total_morphemes": 111168,
+    "unique_morphemes": 6844,
+    "shannon_entropy": 8.845189823818638
+  },
+  "readability_metrics": {
+    "total_word_count": 49772,
+    "long_word_count": 11788,
+    "average_sentence_length_words": 9.306656694091249,
+    "long_word_ratio_pct": 23.683999035602348,
+    "lix_readability_score": 32.9906557296936
+  }
+}

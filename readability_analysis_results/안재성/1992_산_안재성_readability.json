@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1992_산_안재성_tagged.txt",
+    "author": "안재성",
+    "title": "산",
+    "year": "1992",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 9118,
+    "unique_morphemes": 1924,
+    "shannon_entropy": 8.65419705483217
+  },
+  "readability_metrics": {
+    "total_word_count": 3817,
+    "long_word_count": 1179,
+    "average_sentence_length_words": 8.501113585746102,
+    "long_word_ratio_pct": 30.88813204086979,
+    "lix_readability_score": 39.389245626615896
+  }
+}

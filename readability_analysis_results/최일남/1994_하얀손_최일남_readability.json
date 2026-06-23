@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1994_하얀손_최일남_tagged.txt",
+    "author": "최일남",
+    "title": "하얀손",
+    "year": "1994",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 138014,
+    "unique_morphemes": 11471,
+    "shannon_entropy": 9.595045237968186
+  },
+  "readability_metrics": {
+    "total_word_count": 59275,
+    "long_word_count": 15632,
+    "average_sentence_length_words": 7.596437267717545,
+    "long_word_ratio_pct": 26.37199493884437,
+    "lix_readability_score": 33.968432206561914
+  }
+}

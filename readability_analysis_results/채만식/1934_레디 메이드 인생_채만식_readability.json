@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1934_레디 메이드 인생_채만식_tagged.txt",
+    "author": "채만식",
+    "title": "레디 메이드 인생",
+    "year": "1934",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 13455,
+    "unique_morphemes": 2408,
+    "shannon_entropy": 8.861641109709257
+  },
+  "readability_metrics": {
+    "total_word_count": 5955,
+    "long_word_count": 1286,
+    "average_sentence_length_words": 8.835311572700297,
+    "long_word_ratio_pct": 21.595298068849708,
+    "lix_readability_score": 30.430609641550006
+  }
+}

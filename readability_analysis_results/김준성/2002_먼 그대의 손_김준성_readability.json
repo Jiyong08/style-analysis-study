@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "2002_먼 그대의 손_김준성_tagged.txt",
+    "author": "김준성",
+    "title": "먼 그대의 손",
+    "year": "2002",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 20446,
+    "unique_morphemes": 2744,
+    "shannon_entropy": 8.643768800914483
+  },
+  "readability_metrics": {
+    "total_word_count": 8612,
+    "long_word_count": 2448,
+    "average_sentence_length_words": 8.124528301886793,
+    "long_word_ratio_pct": 28.425452856479332,
+    "lix_readability_score": 36.54998115836612
+  }
+}

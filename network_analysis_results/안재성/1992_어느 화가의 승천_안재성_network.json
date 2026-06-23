@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1992_어느 화가의 승천_안재성_tagged.txt",
+    "author": "안재성",
+    "title": "어느 화가의 승천",
+    "year": "1992",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 404,
+    "density": 0.32979591836734695,
+    "average_clustering": 0.5635495749185988,
+    "transitivity": 0.4860060514372163
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "그림",
+        "value": 0.8775510204081632
+      },
+      {
+        "word": "사람",
+        "value": 0.8163265306122448
+      },
+      {
+        "word": "최동식",
+        "value": 0.7551020408163265
+      },
+      {
+        "word": "이명섭",
+        "value": 0.6938775510204082
+      },
+      {
+        "word": "자신",
+        "value": 0.5714285714285714
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "그림",
+        "value": 0.4934807256235827
+      },
+      {
+        "word": "사람",
+        "value": 0.3330498866213152
+      },
+      {
+        "word": "이명섭",
+        "value": 0.15639172335600907
+      },
+      {
+        "word": "최동식",
+        "value": 0.1288973922902494
+      },
+      {
+        "word": "생각",
+        "value": 0.07525510204081633
+      }
+    ]
+  }
+}

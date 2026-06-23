@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "199-_느후스탄_박정규_tagged.txt",
+    "author": "박정규",
+    "title": "느후스탄",
+    "year": "199-",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 27380,
+    "unique_morphemes": 4067,
+    "shannon_entropy": 8.993138435729515
+  },
+  "readability_metrics": {
+    "total_word_count": 11865,
+    "long_word_count": 3256,
+    "average_sentence_length_words": 11.161806208842897,
+    "long_word_ratio_pct": 27.44205646860514,
+    "lix_readability_score": 38.603862677448035
+  }
+}

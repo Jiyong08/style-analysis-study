@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1989_고래 뱃속에서_최수철_tagged.txt",
+    "author": "최수철",
+    "title": "고래 뱃속에서",
+    "year": "1989",
+    "is_excluded_from_display": true
+  },
+  "entropy_metrics": {
+    "total_morphemes": 209963,
+    "unique_morphemes": 8878,
+    "shannon_entropy": 8.857002080462022
+  },
+  "readability_metrics": {
+    "total_word_count": 94694,
+    "long_word_count": 23241,
+    "average_sentence_length_words": 13.168404950632736,
+    "long_word_ratio_pct": 24.543265676811625,
+    "lix_readability_score": 37.71167062744436
+  }
+}

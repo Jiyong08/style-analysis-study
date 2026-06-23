@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1947_밤길_이태준_tagged.txt",
+    "author": "이태준",
+    "title": "밤길",
+    "year": "1947",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 4926,
+    "unique_morphemes": 1181,
+    "shannon_entropy": 8.45333641320552
+  },
+  "readability_metrics": {
+    "total_word_count": 2065,
+    "long_word_count": 493,
+    "average_sentence_length_words": 6.4937106918239,
+    "long_word_ratio_pct": 23.87409200968523,
+    "lix_readability_score": 30.36780270150913
+  }
+}

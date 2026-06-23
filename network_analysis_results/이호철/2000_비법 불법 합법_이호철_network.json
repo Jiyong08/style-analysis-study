@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "2000_비법 불법 합법_이호철_tagged.txt",
+    "author": "이호철",
+    "title": "비법 불법 합법",
+    "year": "2000",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 423,
+    "density": 0.34530612244897957,
+    "average_clustering": 0.5461672771826919,
+    "transitivity": 0.5367354325009048
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "상사",
+        "value": 0.7551020408163265
+      },
+      {
+        "word": "원상",
+        "value": 0.6938775510204082
+      },
+      {
+        "word": "연대장",
+        "value": 0.6530612244897959
+      },
+      {
+        "word": "소령",
+        "value": 0.6530612244897959
+      },
+      {
+        "word": "일병",
+        "value": 0.6326530612244897
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "상사",
+        "value": 0.40447845804988664
+      },
+      {
+        "word": "연대장",
+        "value": 0.24929138321995464
+      },
+      {
+        "word": "소령",
+        "value": 0.2179705215419501
+      },
+      {
+        "word": "사람",
+        "value": 0.19267290249433106
+      },
+      {
+        "word": "원상",
+        "value": 0.12301587301587302
+      }
+    ]
+  }
+}

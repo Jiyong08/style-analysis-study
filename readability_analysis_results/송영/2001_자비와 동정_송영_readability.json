@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "2001_자비와 동정_송영_tagged.txt",
+    "author": "송영",
+    "title": "자비와 동정",
+    "year": "2001",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 9477,
+    "unique_morphemes": 1671,
+    "shannon_entropy": 8.390806790972583
+  },
+  "readability_metrics": {
+    "total_word_count": 4150,
+    "long_word_count": 1081,
+    "average_sentence_length_words": 8.867521367521368,
+    "long_word_ratio_pct": 26.048192771084338,
+    "lix_readability_score": 34.91571413860571
+  }
+}

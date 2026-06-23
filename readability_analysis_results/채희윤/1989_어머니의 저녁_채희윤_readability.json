@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1989_어머니의 저녁_채희윤_tagged.txt",
+    "author": "채희윤",
+    "title": "어머니의 저녁",
+    "year": "1989",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 9874,
+    "unique_morphemes": 2248,
+    "shannon_entropy": 8.773279569100357
+  },
+  "readability_metrics": {
+    "total_word_count": 4159,
+    "long_word_count": 1288,
+    "average_sentence_length_words": 8.62863070539419,
+    "long_word_ratio_pct": 30.968982928588602,
+    "lix_readability_score": 39.59761363398279
+  }
+}

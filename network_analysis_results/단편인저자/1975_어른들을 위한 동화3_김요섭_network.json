@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1975_어른들을 위한 동화3_김요섭_tagged.txt",
+    "author": "김요섭",
+    "title": "어른들을 위한 동화3",
+    "year": "1975",
+    "is_excluded_from_display": true
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 215,
+    "density": 0.17551020408163265,
+    "average_clustering": 0.4587455507422877,
+    "transitivity": 0.34634760705289674
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "여노",
+        "value": 0.5918367346938775
+      },
+      {
+        "word": "노예",
+        "value": 0.4693877551020408
+      },
+      {
+        "word": "사람",
+        "value": 0.4693877551020408
+      },
+      {
+        "word": "구경",
+        "value": 0.3469387755102041
+      },
+      {
+        "word": "소리",
+        "value": 0.32653061224489793
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "여노",
+        "value": 0.33996193715581463
+      },
+      {
+        "word": "노예",
+        "value": 0.3030571752510528
+      },
+      {
+        "word": "주인",
+        "value": 0.14081025267249755
+      },
+      {
+        "word": "사람",
+        "value": 0.09828514739229025
+      },
+      {
+        "word": "얼굴",
+        "value": 0.07612163913184321
+      }
+    ]
+  }
+}

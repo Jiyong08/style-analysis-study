@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1984_바람부는 저녁_김성동_tagged.txt",
+    "author": "김성동",
+    "title": "바람부는 저녁",
+    "year": "1984",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 7500,
+    "unique_morphemes": 1626,
+    "shannon_entropy": 8.697170017750024
+  },
+  "readability_metrics": {
+    "total_word_count": 3175,
+    "long_word_count": 956,
+    "average_sentence_length_words": 7.505910165484633,
+    "long_word_ratio_pct": 30.11023622047244,
+    "lix_readability_score": 37.61614638595707
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1933_유정_이광수_tagged.txt",
+    "author": "이광수",
+    "title": "유정",
+    "year": "1933",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 72960,
+    "unique_morphemes": 4787,
+    "shannon_entropy": 8.72162578327054
+  },
+  "readability_metrics": {
+    "total_word_count": 32746,
+    "long_word_count": 6691,
+    "average_sentence_length_words": 10.34301958307012,
+    "long_word_ratio_pct": 20.43302998839553,
+    "lix_readability_score": 30.77604957146565
+  }
+}

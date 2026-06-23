@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1935_사랑 손님과 어머니_주요섭_tagged.txt",
+    "author": "주요섭",
+    "title": "사랑 손님과 어머니",
+    "year": "1935",
+    "is_excluded_from_display": true
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 373,
+    "density": 0.30448979591836733,
+    "average_clustering": 0.6008959048688651,
+    "transitivity": 0.48971666906371353
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "어머니",
+        "value": 0.9795918367346939
+      },
+      {
+        "word": "아저씨",
+        "value": 0.7142857142857142
+      },
+      {
+        "word": "엄마",
+        "value": 0.5714285714285714
+      },
+      {
+        "word": "사랑",
+        "value": 0.5306122448979591
+      },
+      {
+        "word": "옥희",
+        "value": 0.4897959183673469
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "어머니",
+        "value": 0.89328231292517
+      },
+      {
+        "word": "아저씨",
+        "value": 0.27253401360544216
+      },
+      {
+        "word": "아버지",
+        "value": 0.002551020408163265
+      },
+      {
+        "word": "옥희",
+        "value": 0.0008503401360544217
+      },
+      {
+        "word": "유치원",
+        "value": 0.0008503401360544217
+      }
+    ]
+  }
+}

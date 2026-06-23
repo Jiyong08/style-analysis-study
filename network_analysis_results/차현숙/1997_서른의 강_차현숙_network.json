@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1997_서른의 강_차현숙_tagged.txt",
+    "author": "차현숙",
+    "title": "서른의 강",
+    "year": "1997",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 136,
+    "density": 0.1110204081632653,
+    "average_clustering": 0.39301498728608697,
+    "transitivity": 0.2793522267206478
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "자신",
+        "value": 0.4693877551020408
+      },
+      {
+        "word": "여자",
+        "value": 0.36734693877551017
+      },
+      {
+        "word": "의사",
+        "value": 0.24489795918367346
+      },
+      {
+        "word": "남편",
+        "value": 0.22448979591836732
+      },
+      {
+        "word": "생각",
+        "value": 0.18367346938775508
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "자신",
+        "value": 0.46184347115469576
+      },
+      {
+        "word": "여자",
+        "value": 0.24742910151073413
+      },
+      {
+        "word": "의사",
+        "value": 0.08123858850899666
+      },
+      {
+        "word": "남편",
+        "value": 0.07953625173012928
+      },
+      {
+        "word": "사내",
+        "value": 0.06802721088435373
+      }
+    ]
+  }
+}

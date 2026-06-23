@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1974_아버지의 평화_박범신_tagged.txt",
+    "author": "박범신",
+    "title": "아버지의 평화",
+    "year": "1974",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 10342,
+    "unique_morphemes": 2142,
+    "shannon_entropy": 8.576669602869902
+  },
+  "readability_metrics": {
+    "total_word_count": 4409,
+    "long_word_count": 1265,
+    "average_sentence_length_words": 7.98731884057971,
+    "long_word_ratio_pct": 28.69131322295305,
+    "lix_readability_score": 36.67863206353276
+  }
+}

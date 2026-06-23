@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1999_사람들 속내 천야만야_이호철_tagged.txt",
+    "author": "이호철",
+    "title": "사람들 속내 천야만야",
+    "year": "1999",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 13099,
+    "unique_morphemes": 2434,
+    "shannon_entropy": 8.934069062969183
+  },
+  "readability_metrics": {
+    "total_word_count": 5765,
+    "long_word_count": 1831,
+    "average_sentence_length_words": 14.669211195928753,
+    "long_word_ratio_pct": 31.76062445793582,
+    "lix_readability_score": 46.42983565386457
+  }
+}

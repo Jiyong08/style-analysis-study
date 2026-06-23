@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1984_왕장승딸_김성동_tagged.txt",
+    "author": "김성동",
+    "title": "왕장승딸",
+    "year": "1984",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 35300,
+    "unique_morphemes": 4921,
+    "shannon_entropy": 9.276954105343462
+  },
+  "readability_metrics": {
+    "total_word_count": 14765,
+    "long_word_count": 5258,
+    "average_sentence_length_words": 14.11567877629063,
+    "long_word_ratio_pct": 35.61124280392821,
+    "lix_readability_score": 49.726921580218836
+  }
+}

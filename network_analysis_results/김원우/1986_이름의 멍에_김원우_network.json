@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1986_이름의 멍에_김원우_tagged.txt",
+    "author": "김원우",
+    "title": "이름의 멍에",
+    "year": "1986",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 413,
+    "density": 0.33714285714285713,
+    "average_clustering": 0.5186808647137697,
+    "transitivity": 0.47022428460943544
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "사람",
+        "value": 0.7959183673469387
+      },
+      {
+        "word": "이인식",
+        "value": 0.7346938775510203
+      },
+      {
+        "word": "인식",
+        "value": 0.5918367346938775
+      },
+      {
+        "word": "생각",
+        "value": 0.5918367346938775
+      },
+      {
+        "word": "담배",
+        "value": 0.5510204081632653
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "이름",
+        "value": 0.3334183673469388
+      },
+      {
+        "word": "사람",
+        "value": 0.23249716553287977
+      },
+      {
+        "word": "이인식",
+        "value": 0.21020880574452003
+      },
+      {
+        "word": "인식",
+        "value": 0.14668367346938774
+      },
+      {
+        "word": "생각",
+        "value": 0.13137755102040816
+      }
+    ]
+  }
+}

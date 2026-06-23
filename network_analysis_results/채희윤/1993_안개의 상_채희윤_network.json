@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1993_안개의 상_채희윤_tagged.txt",
+    "author": "채희윤",
+    "title": "안개의 상",
+    "year": "1993",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 420,
+    "density": 0.34285714285714286,
+    "average_clustering": 0.5753863933334888,
+    "transitivity": 0.4704351939451277
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "자신",
+        "value": 0.8163265306122448
+      },
+      {
+        "word": "영선",
+        "value": 0.7346938775510203
+      },
+      {
+        "word": "호길",
+        "value": 0.7346938775510203
+      },
+      {
+        "word": "동상",
+        "value": 0.6938775510204082
+      },
+      {
+        "word": "도시",
+        "value": 0.6530612244897959
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "자신",
+        "value": 0.4104308390022675
+      },
+      {
+        "word": "영선",
+        "value": 0.3482142857142857
+      },
+      {
+        "word": "동상",
+        "value": 0.2129393424036281
+      },
+      {
+        "word": "호길",
+        "value": 0.13520408163265304
+      },
+      {
+        "word": "도시",
+        "value": 0.12712585034013604
+      }
+    ]
+  }
+}

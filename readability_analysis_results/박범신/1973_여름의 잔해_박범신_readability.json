@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1973_여름의 잔해_박범신_tagged.txt",
+    "author": "박범신",
+    "title": "여름의 잔해",
+    "year": "1973",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 6941,
+    "unique_morphemes": 1473,
+    "shannon_entropy": 8.32645062468304
+  },
+  "readability_metrics": {
+    "total_word_count": 3109,
+    "long_word_count": 741,
+    "average_sentence_length_words": 10.57482993197279,
+    "long_word_ratio_pct": 23.83403023480219,
+    "lix_readability_score": 34.40886016677498
+  }
+}

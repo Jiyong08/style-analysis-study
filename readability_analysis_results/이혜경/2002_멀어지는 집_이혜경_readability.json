@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "2002_멀어지는 집_이혜경_tagged.txt",
+    "author": "이혜경",
+    "title": "멀어지는 집",
+    "year": "2002",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 10812,
+    "unique_morphemes": 2421,
+    "shannon_entropy": 8.868825020572414
+  },
+  "readability_metrics": {
+    "total_word_count": 4636,
+    "long_word_count": 1330,
+    "average_sentence_length_words": 8.79696394686907,
+    "long_word_ratio_pct": 28.688524590163933,
+    "lix_readability_score": 37.48548853703301
+  }
+}

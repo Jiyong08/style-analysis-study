@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1992_집시 아저씨_김영현_tagged.txt",
+    "author": "김영현",
+    "title": "집시 아저씨",
+    "year": "1992",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 336,
+    "density": 0.2742857142857143,
+    "average_clustering": 0.4779352239854535,
+    "transitivity": 0.4346938775510204
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "사람",
+        "value": 0.7142857142857142
+      },
+      {
+        "word": "아저씨",
+        "value": 0.6122448979591836
+      },
+      {
+        "word": "집시",
+        "value": 0.5918367346938775
+      },
+      {
+        "word": "생각",
+        "value": 0.5714285714285714
+      },
+      {
+        "word": "그때",
+        "value": 0.44897959183673464
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "사람",
+        "value": 0.4477607709750566
+      },
+      {
+        "word": "아저씨",
+        "value": 0.4331916099773242
+      },
+      {
+        "word": "생각",
+        "value": 0.1583191609977324
+      },
+      {
+        "word": "그때",
+        "value": 0.08509070294784579
+      },
+      {
+        "word": "얼굴",
+        "value": 0.059580498866213145
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1925_화수분_전영택_tagged.txt",
+    "author": "전영택",
+    "title": "화수분",
+    "year": "1925",
+    "is_excluded_from_display": true
+  },
+  "entropy_metrics": {
+    "total_morphemes": 4507,
+    "unique_morphemes": 978,
+    "shannon_entropy": 8.244951489939771
+  },
+  "readability_metrics": {
+    "total_word_count": 2055,
+    "long_word_count": 388,
+    "average_sentence_length_words": 11.94767441860465,
+    "long_word_ratio_pct": 18.880778588807786,
+    "lix_readability_score": 30.828453007412435
+  }
+}

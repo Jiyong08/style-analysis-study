@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1935_만무방_김유정_tagged.txt",
+    "author": "김유정",
+    "title": "만무방",
+    "year": "1935",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 123,
+    "density": 0.10040816326530612,
+    "average_clustering": 0.30642818000712735,
+    "transitivity": 0.2622754491017964
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "고개",
+        "value": 0.3877551020408163
+      },
+      {
+        "word": "모양",
+        "value": 0.26530612244897955
+      },
+      {
+        "word": "생각",
+        "value": 0.24489795918367346
+      },
+      {
+        "word": "아우",
+        "value": 0.24489795918367346
+      },
+      {
+        "word": "소리",
+        "value": 0.22448979591836732
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "고개",
+        "value": 0.3742468415937803
+      },
+      {
+        "word": "소리",
+        "value": 0.21523526077097505
+      },
+      {
+        "word": "사람",
+        "value": 0.14216269841269838
+      },
+      {
+        "word": "모양",
+        "value": 0.11493021811899364
+      },
+      {
+        "word": "생각",
+        "value": 0.08554556743332253
+      }
+    ]
+  }
+}

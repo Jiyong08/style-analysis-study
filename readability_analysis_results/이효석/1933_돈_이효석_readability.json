@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1933_돈_이효석_tagged.txt",
+    "author": "이효석",
+    "title": "돈",
+    "year": "1933",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 2649,
+    "unique_morphemes": 851,
+    "shannon_entropy": 8.262325997027007
+  },
+  "readability_metrics": {
+    "total_word_count": 1171,
+    "long_word_count": 263,
+    "average_sentence_length_words": 9.368,
+    "long_word_ratio_pct": 22.459436379163108,
+    "lix_readability_score": 31.82743637916311
+  }
+}

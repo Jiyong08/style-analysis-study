@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1984_객주8_김주영_tagged.txt",
+    "author": "김주영",
+    "title": "객주8",
+    "year": "1984",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 130354,
+    "unique_morphemes": 9317,
+    "shannon_entropy": 9.38773711768807
+  },
+  "readability_metrics": {
+    "total_word_count": 52716,
+    "long_word_count": 17123,
+    "average_sentence_length_words": 11.189980895775843,
+    "long_word_ratio_pct": 32.481599514378935,
+    "lix_readability_score": 43.671580410154775
+  }
+}

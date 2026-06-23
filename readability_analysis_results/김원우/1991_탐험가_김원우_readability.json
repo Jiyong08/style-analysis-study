@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1991_탐험가_김원우_tagged.txt",
+    "author": "김원우",
+    "title": "탐험가",
+    "year": "1991",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 33606,
+    "unique_morphemes": 4545,
+    "shannon_entropy": 9.14093969982919
+  },
+  "readability_metrics": {
+    "total_word_count": 14445,
+    "long_word_count": 4229,
+    "average_sentence_length_words": 10.660516605166052,
+    "long_word_ratio_pct": 29.27656628591208,
+    "lix_readability_score": 39.937082891078134
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "2000_마음의 지도_박경철_tagged.txt",
+    "author": "박경철",
+    "title": "마음의 지도",
+    "year": "2000",
+    "is_excluded_from_display": true
+  },
+  "entropy_metrics": {
+    "total_morphemes": 101461,
+    "unique_morphemes": 6388,
+    "shannon_entropy": 8.840491955247733
+  },
+  "readability_metrics": {
+    "total_word_count": 44798,
+    "long_word_count": 10136,
+    "average_sentence_length_words": 9.26535677352637,
+    "long_word_ratio_pct": 22.62601008973615,
+    "lix_readability_score": 31.89136686326252
+  }
+}

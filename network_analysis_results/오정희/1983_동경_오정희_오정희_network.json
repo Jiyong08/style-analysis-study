@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1983_동경_오정희_오정희_tagged.txt",
+    "author": "오정희",
+    "title": "동경",
+    "year": "1983",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 265,
+    "density": 0.2163265306122449,
+    "average_clustering": 0.5036975938138062,
+    "transitivity": 0.3685064935064935
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "아내",
+        "value": 0.8571428571428571
+      },
+      {
+        "word": "아이",
+        "value": 0.6938775510204082
+      },
+      {
+        "word": "소리",
+        "value": 0.36734693877551017
+      },
+      {
+        "word": "거울",
+        "value": 0.36734693877551017
+      },
+      {
+        "word": "사람",
+        "value": 0.36734693877551017
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "아내",
+        "value": 0.675595238095238
+      },
+      {
+        "word": "아이",
+        "value": 0.45649092970521543
+      },
+      {
+        "word": "거울",
+        "value": 0.10076530612244898
+      },
+      {
+        "word": "소리",
+        "value": 0.0734126984126984
+      },
+      {
+        "word": "청년",
+        "value": 0.04081632653061224
+      }
+    ]
+  }
+}

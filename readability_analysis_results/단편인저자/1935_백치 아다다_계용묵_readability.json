@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1935_백치 아다다_계용묵_tagged.txt",
+    "author": "계용묵",
+    "title": "백치 아다다",
+    "year": "1935",
+    "is_excluded_from_display": true
+  },
+  "entropy_metrics": {
+    "total_morphemes": 7600,
+    "unique_morphemes": 1522,
+    "shannon_entropy": 8.545716960743304
+  },
+  "readability_metrics": {
+    "total_word_count": 3448,
+    "long_word_count": 745,
+    "average_sentence_length_words": 12.314285714285715,
+    "long_word_ratio_pct": 21.60672853828306,
+    "lix_readability_score": 33.921014252568774
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "2005_시간이 나를 쓴다면_박주영_tagged.txt",
+    "author": "박주영",
+    "title": "시간이 나를 쓴다면",
+    "year": "2005",
+    "is_excluded_from_display": true
+  },
+  "entropy_metrics": {
+    "total_morphemes": 31230,
+    "unique_morphemes": 2883,
+    "shannon_entropy": 8.477548314109663
+  },
+  "readability_metrics": {
+    "total_word_count": 13370,
+    "long_word_count": 3019,
+    "average_sentence_length_words": 6.797153024911032,
+    "long_word_ratio_pct": 22.580403889304414,
+    "lix_readability_score": 29.377556914215447
+  }
+}

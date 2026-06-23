@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1937_땡볕_김유정_tagged.txt",
+    "author": "김유정",
+    "title": "땡볕",
+    "year": "1937",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 16737,
+    "unique_morphemes": 2988,
+    "shannon_entropy": 9.0083587822726
+  },
+  "readability_metrics": {
+    "total_word_count": 7534,
+    "long_word_count": 1508,
+    "average_sentence_length_words": 8.136069114470843,
+    "long_word_ratio_pct": 20.015927794000532,
+    "lix_readability_score": 28.151996908471375
+  }
+}

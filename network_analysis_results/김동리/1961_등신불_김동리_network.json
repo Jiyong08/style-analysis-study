@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1961_등신불_김동리_tagged.txt",
+    "author": "김동리",
+    "title": "등신불",
+    "year": "1961",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 311,
+    "density": 0.25387755102040815,
+    "average_clustering": 0.5237465662972057,
+    "transitivity": 0.4357014388489209
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "스님",
+        "value": 0.5714285714285714
+      },
+      {
+        "word": "불상",
+        "value": 0.5102040816326531
+      },
+      {
+        "word": "머리",
+        "value": 0.5102040816326531
+      },
+      {
+        "word": "만적",
+        "value": 0.4897959183673469
+      },
+      {
+        "word": "대사",
+        "value": 0.4693877551020408
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "스님",
+        "value": 0.2547760770975056
+      },
+      {
+        "word": "대사",
+        "value": 0.2048469387755102
+      },
+      {
+        "word": "만적",
+        "value": 0.14791666666666664
+      },
+      {
+        "word": "머리",
+        "value": 0.14055413832199543
+      },
+      {
+        "word": "불상",
+        "value": 0.11319444444444444
+      }
+    ]
+  }
+}

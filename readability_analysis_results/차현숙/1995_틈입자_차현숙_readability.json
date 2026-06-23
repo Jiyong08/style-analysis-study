@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1995_틈입자_차현숙_tagged.txt",
+    "author": "차현숙",
+    "title": "틈입자",
+    "year": "1995",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 12015,
+    "unique_morphemes": 2371,
+    "shannon_entropy": 8.776825195285234
+  },
+  "readability_metrics": {
+    "total_word_count": 5281,
+    "long_word_count": 1300,
+    "average_sentence_length_words": 7.893871449925261,
+    "long_word_ratio_pct": 24.61654989585306,
+    "lix_readability_score": 32.51042134577832
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "2000_그리운 흔적_이윤기_tagged.txt",
+    "author": "이윤기",
+    "title": "그리운 흔적",
+    "year": "2000",
+    "is_excluded_from_display": true
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 571,
+    "density": 0.4661224489795918,
+    "average_clustering": 0.643877991429301,
+    "transitivity": 0.5807593530922468
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "사람",
+        "value": 0.8979591836734693
+      },
+      {
+        "word": "생각",
+        "value": 0.8979591836734693
+      },
+      {
+        "word": "신애",
+        "value": 0.8571428571428571
+      },
+      {
+        "word": "강신애",
+        "value": 0.7959183673469387
+      },
+      {
+        "word": "누나",
+        "value": 0.7755102040816326
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "신애",
+        "value": 0.6377551020408163
+      },
+      {
+        "word": "유지",
+        "value": 0.2627551020408163
+      },
+      {
+        "word": "사람",
+        "value": 0.25212585034013607
+      },
+      {
+        "word": "강신애",
+        "value": 0.1636904761904762
+      },
+      {
+        "word": "선배",
+        "value": 0.14243197278911565
+      }
+    ]
+  }
+}

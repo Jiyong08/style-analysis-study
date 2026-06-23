@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1974_장길산2_황석영_tagged.txt",
+    "author": "황석영",
+    "title": "장길산2",
+    "year": "1974",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 707,
+    "density": 0.5771428571428572,
+    "average_clustering": 0.6595769555478121,
+    "transitivity": 0.6529821843532145
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "사람",
+        "value": 0.9999999999999999
+      },
+      {
+        "word": "모양",
+        "value": 0.8163265306122448
+      },
+      {
+        "word": "생각",
+        "value": 0.7959183673469387
+      },
+      {
+        "word": "경수",
+        "value": 0.7755102040816326
+      },
+      {
+        "word": "사당",
+        "value": 0.7755102040816326
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "사람",
+        "value": 0.7132227891156462
+      },
+      {
+        "word": "경수",
+        "value": 0.06292517006802721
+      },
+      {
+        "word": "도장",
+        "value": 0.04931972789115646
+      },
+      {
+        "word": "사내",
+        "value": 0.04379251700680272
+      },
+      {
+        "word": "거사",
+        "value": 0.03996598639455782
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1995_모슬기행_송영_tagged.txt",
+    "author": "송영",
+    "title": "모슬기행",
+    "year": "1995",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 27921,
+    "unique_morphemes": 3394,
+    "shannon_entropy": 8.783812242582568
+  },
+  "readability_metrics": {
+    "total_word_count": 12345,
+    "long_word_count": 3262,
+    "average_sentence_length_words": 9.030724213606437,
+    "long_word_ratio_pct": 26.42365330093155,
+    "lix_readability_score": 35.45437751453799
+  }
+}

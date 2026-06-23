@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "2001_대낮에_이혜경_tagged.txt",
+    "author": "이혜경",
+    "title": "대낮에",
+    "year": "2001",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 9015,
+    "unique_morphemes": 1888,
+    "shannon_entropy": 8.625112641217603
+  },
+  "readability_metrics": {
+    "total_word_count": 3810,
+    "long_word_count": 1083,
+    "average_sentence_length_words": 8.964705882352941,
+    "long_word_ratio_pct": 28.4251968503937,
+    "lix_readability_score": 37.38990273274664
+  }
+}

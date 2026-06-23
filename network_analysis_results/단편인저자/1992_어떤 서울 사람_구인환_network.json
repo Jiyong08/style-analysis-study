@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1992_어떤 서울 사람_구인환_tagged.txt",
+    "author": "구인환",
+    "title": "어떤 서울 사람",
+    "year": "1992",
+    "is_excluded_from_display": true
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 175,
+    "density": 0.14285714285714285,
+    "average_clustering": 0.3420138391020744,
+    "transitivity": 0.3620689655172414
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "서울",
+        "value": 0.36734693877551017
+      },
+      {
+        "word": "수원",
+        "value": 0.3469387755102041
+      },
+      {
+        "word": "사람",
+        "value": 0.26530612244897955
+      },
+      {
+        "word": "아파트",
+        "value": 0.26530612244897955
+      },
+      {
+        "word": "미리",
+        "value": 0.26530612244897955
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "서울",
+        "value": 0.31602418745275884
+      },
+      {
+        "word": "사람",
+        "value": 0.2597647392290249
+      },
+      {
+        "word": "미리",
+        "value": 0.1000614134542706
+      },
+      {
+        "word": "수원",
+        "value": 0.09397203325774754
+      },
+      {
+        "word": "동진이",
+        "value": 0.08944160997732425
+      }
+    ]
+  }
+}

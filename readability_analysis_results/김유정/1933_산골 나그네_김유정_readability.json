@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1933_산골 나그네_김유정_tagged.txt",
+    "author": "김유정",
+    "title": "산골 나그네",
+    "year": "1933",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 5649,
+    "unique_morphemes": 1576,
+    "shannon_entropy": 8.746642276173551
+  },
+  "readability_metrics": {
+    "total_word_count": 2510,
+    "long_word_count": 547,
+    "average_sentence_length_words": 6.370558375634518,
+    "long_word_ratio_pct": 21.792828685258964,
+    "lix_readability_score": 28.163387060893484
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "2002_붉은 악마_김준성_tagged.txt",
+    "author": "김준성",
+    "title": "붉은 악마",
+    "year": "2002",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 7979,
+    "unique_morphemes": 1329,
+    "shannon_entropy": 8.206753311842775
+  },
+  "readability_metrics": {
+    "total_word_count": 3433,
+    "long_word_count": 823,
+    "average_sentence_length_words": 8.625628140703517,
+    "long_word_ratio_pct": 23.973201281677834,
+    "lix_readability_score": 32.59882942238135
+  }
+}

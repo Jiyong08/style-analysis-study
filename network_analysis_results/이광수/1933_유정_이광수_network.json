@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1933_유정_이광수_tagged.txt",
+    "author": "이광수",
+    "title": "유정",
+    "year": "1933",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 915,
+    "density": 0.746938775510204,
+    "average_clustering": 0.8294712124566185,
+    "transitivity": 0.8174746533038107
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "사람",
+        "value": 0.9999999999999999
+      },
+      {
+        "word": "정임",
+        "value": 0.9795918367346939
+      },
+      {
+        "word": "모양",
+        "value": 0.9795918367346939
+      },
+      {
+        "word": "생각",
+        "value": 0.9591836734693877
+      },
+      {
+        "word": "선생",
+        "value": 0.9387755102040816
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "정임",
+        "value": 0.9056122448979591
+      },
+      {
+        "word": "사람",
+        "value": 0.1921768707482993
+      },
+      {
+        "word": "모양",
+        "value": 0.03571428571428571
+      },
+      {
+        "word": "최석",
+        "value": 0.03401360544217687
+      },
+      {
+        "word": "아내",
+        "value": 0.03231292517006803
+      }
+    ]
+  }
+}

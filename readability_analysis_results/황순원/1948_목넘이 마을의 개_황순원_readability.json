@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1948_목넘이 마을의 개_황순원_tagged.txt",
+    "author": "황순원",
+    "title": "목넘이 마을의 개",
+    "year": "1948",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 13712,
+    "unique_morphemes": 1844,
+    "shannon_entropy": 8.455731702908393
+  },
+  "readability_metrics": {
+    "total_word_count": 6262,
+    "long_word_count": 1431,
+    "average_sentence_length_words": 13.762637362637363,
+    "long_word_ratio_pct": 22.852123922069627,
+    "lix_readability_score": 36.61476128470699
+  }
+}

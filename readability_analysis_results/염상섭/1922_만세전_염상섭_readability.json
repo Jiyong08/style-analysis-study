@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1922_만세전_염상섭_tagged.txt",
+    "author": "염상섭",
+    "title": "만세전",
+    "year": "1922",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 62059,
+    "unique_morphemes": 5847,
+    "shannon_entropy": 9.166534102753657
+  },
+  "readability_metrics": {
+    "total_word_count": 26616,
+    "long_word_count": 6997,
+    "average_sentence_length_words": 10.957595718402635,
+    "long_word_ratio_pct": 26.28869852720168,
+    "lix_readability_score": 37.24629424560432
+  }
+}

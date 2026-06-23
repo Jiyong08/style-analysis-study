@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1986_야만인_서영은_tagged.txt",
+    "author": "서영은",
+    "title": "야만인",
+    "year": "1986",
+    "is_excluded_from_display": true
+  },
+  "entropy_metrics": {
+    "total_morphemes": 164594,
+    "unique_morphemes": 10406,
+    "shannon_entropy": 9.291604502830706
+  },
+  "readability_metrics": {
+    "total_word_count": 72136,
+    "long_word_count": 16359,
+    "average_sentence_length_words": 8.109724564362,
+    "long_word_ratio_pct": 22.677997116557613,
+    "lix_readability_score": 30.787721680919613
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "2000_손_원재길_tagged.txt",
+    "author": "원재길",
+    "title": "손",
+    "year": "2000",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 12727,
+    "unique_morphemes": 2510,
+    "shannon_entropy": 8.783779278427284
+  },
+  "readability_metrics": {
+    "total_word_count": 5733,
+    "long_word_count": 1477,
+    "average_sentence_length_words": 10.022727272727273,
+    "long_word_ratio_pct": 25.763125763125764,
+    "lix_readability_score": 35.78585303585304
+  }
+}

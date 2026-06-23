@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1993_아들과 나무 거울_채희윤_tagged.txt",
+    "author": "채희윤",
+    "title": "아들과 나무 거울",
+    "year": "1993",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 11034,
+    "unique_morphemes": 1918,
+    "shannon_entropy": 8.625861611406629
+  },
+  "readability_metrics": {
+    "total_word_count": 4872,
+    "long_word_count": 1307,
+    "average_sentence_length_words": 9.571709233791749,
+    "long_word_ratio_pct": 26.826765188834155,
+    "lix_readability_score": 36.3984744226259
+  }
+}

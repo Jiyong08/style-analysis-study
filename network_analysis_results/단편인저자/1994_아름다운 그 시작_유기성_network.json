@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1994_아름다운 그 시작_유기성_tagged.txt",
+    "author": "유기성",
+    "title": "아름다운 그 시작",
+    "year": "1994",
+    "is_excluded_from_display": true
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 738,
+    "density": 0.6024489795918367,
+    "average_clustering": 0.7358488789111637,
+    "transitivity": 0.6938274793388429
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "수혜",
+        "value": 0.9999999999999999
+      },
+      {
+        "word": "진우",
+        "value": 0.9795918367346939
+      },
+      {
+        "word": "효철",
+        "value": 0.9591836734693877
+      },
+      {
+        "word": "사람",
+        "value": 0.9183673469387754
+      },
+      {
+        "word": "생각",
+        "value": 0.8979591836734693
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "수혜",
+        "value": 0.9451530612244897
+      },
+      {
+        "word": "효철",
+        "value": 0.15816326530612243
+      },
+      {
+        "word": "진우",
+        "value": 0.08035714285714285
+      },
+      {
+        "word": "사람",
+        "value": 0.07738095238095238
+      },
+      {
+        "word": "남자",
+        "value": 0.03486394557823129
+      }
+    ]
+  }
+}

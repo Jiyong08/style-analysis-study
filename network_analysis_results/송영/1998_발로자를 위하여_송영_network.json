@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1998_발로자를 위하여_송영_tagged.txt",
+    "author": "송영",
+    "title": "발로자를 위하여",
+    "year": "1998",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 391,
+    "density": 0.31918367346938775,
+    "average_clustering": 0.47062866398118786,
+    "transitivity": 0.4249253731343284
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "발로자",
+        "value": 0.8163265306122448
+      },
+      {
+        "word": "사람",
+        "value": 0.7551020408163265
+      },
+      {
+        "word": "교수",
+        "value": 0.5102040816326531
+      },
+      {
+        "word": "뻬쩨르부르그",
+        "value": 0.4897959183673469
+      },
+      {
+        "word": "시간",
+        "value": 0.44897959183673464
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "발로자",
+        "value": 0.7051445578231292
+      },
+      {
+        "word": "사람",
+        "value": 0.24709467120181403
+      },
+      {
+        "word": "뻬쩨르부르그",
+        "value": 0.06101190476190476
+      },
+      {
+        "word": "빠샤",
+        "value": 0.06087018140589569
+      },
+      {
+        "word": "교수",
+        "value": 0.05725623582766439
+      }
+    ]
+  }
+}

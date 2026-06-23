@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1979_중국인 거리_오정희_tagged.txt",
+    "author": "오정희",
+    "title": "중국인 거리",
+    "year": "1979",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 13987,
+    "unique_morphemes": 2622,
+    "shannon_entropy": 8.784803041655957
+  },
+  "readability_metrics": {
+    "total_word_count": 6256,
+    "long_word_count": 1565,
+    "average_sentence_length_words": 11.374545454545455,
+    "long_word_ratio_pct": 25.015984654731458,
+    "lix_readability_score": 36.39053010927691
+  }
+}

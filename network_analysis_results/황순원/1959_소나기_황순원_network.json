@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1959_소나기_황순원_tagged.txt",
+    "author": "황순원",
+    "title": "소나기",
+    "year": "1959",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 155,
+    "density": 0.12653061224489795,
+    "average_clustering": 0.5457187191893074,
+    "transitivity": 0.30690948044991967
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "소녀",
+        "value": 0.7346938775510203
+      },
+      {
+        "word": "소년",
+        "value": 0.6938775510204082
+      },
+      {
+        "word": "개울가",
+        "value": 0.26530612244897955
+      },
+      {
+        "word": "머리",
+        "value": 0.2040816326530612
+      },
+      {
+        "word": "갈꽃",
+        "value": 0.18367346938775508
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "소녀",
+        "value": 0.5946712018140591
+      },
+      {
+        "word": "소년",
+        "value": 0.3859126984126983
+      },
+      {
+        "word": "갈꽃",
+        "value": 0.06462585034013606
+      },
+      {
+        "word": "머리",
+        "value": 0.036989795918367346
+      },
+      {
+        "word": "개울가",
+        "value": 0.036564625850340135
+      }
+    ]
+  }
+}

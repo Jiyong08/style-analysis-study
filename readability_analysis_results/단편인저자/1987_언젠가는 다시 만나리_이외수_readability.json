@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1987_언젠가는 다시 만나리_이외수_tagged.txt",
+    "author": "이외수",
+    "title": "언젠가는 다시 만나리",
+    "year": "1987",
+    "is_excluded_from_display": true
+  },
+  "entropy_metrics": {
+    "total_morphemes": 9896,
+    "unique_morphemes": 1717,
+    "shannon_entropy": 8.363492015274126
+  },
+  "readability_metrics": {
+    "total_word_count": 4402,
+    "long_word_count": 1068,
+    "average_sentence_length_words": 7.169381107491857,
+    "long_word_ratio_pct": 24.261699227623808,
+    "lix_readability_score": 31.431080335115666
+  }
+}

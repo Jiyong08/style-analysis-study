@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1969_강아지똥_권정생_tagged.txt",
+    "author": "권정생",
+    "title": "강아지똥",
+    "year": "1969",
+    "is_excluded_from_display": true
+  },
+  "entropy_metrics": {
+    "total_morphemes": 1649,
+    "unique_morphemes": 511,
+    "shannon_entropy": 7.696312105241553
+  },
+  "readability_metrics": {
+    "total_word_count": 709,
+    "long_word_count": 206,
+    "average_sentence_length_words": 5.672,
+    "long_word_ratio_pct": 29.055007052186177,
+    "lix_readability_score": 34.727007052186174
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "2000_서점, 네시_김종광_tagged.txt",
+    "author": "김종광",
+    "title": "서점, 네시",
+    "year": "2000",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 116,
+    "density": 0.0946938775510204,
+    "average_clustering": 0.3845398692810458,
+    "transitivity": 0.28043478260869564
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "미란",
+        "value": 0.5102040816326531
+      },
+      {
+        "word": "경재",
+        "value": 0.3469387755102041
+      },
+      {
+        "word": "대규",
+        "value": 0.22448979591836732
+      },
+      {
+        "word": "카운터",
+        "value": 0.2040816326530612
+      },
+      {
+        "word": "교수",
+        "value": 0.18367346938775508
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "미란",
+        "value": 0.672406462585034
+      },
+      {
+        "word": "처음",
+        "value": 0.19430272108843535
+      },
+      {
+        "word": "경재",
+        "value": 0.1208191609977324
+      },
+      {
+        "word": "얘기",
+        "value": 0.11522108843537414
+      },
+      {
+        "word": "머리",
+        "value": 0.10437925170068027
+      }
+    ]
+  }
+}

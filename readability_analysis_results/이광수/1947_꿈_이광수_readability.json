@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1947_꿈_이광수_tagged.txt",
+    "author": "이광수",
+    "title": "꿈",
+    "year": "1947",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 46267,
+    "unique_morphemes": 3780,
+    "shannon_entropy": 8.649419500558258
+  },
+  "readability_metrics": {
+    "total_word_count": 20065,
+    "long_word_count": 3884,
+    "average_sentence_length_words": 8.571123451516446,
+    "long_word_ratio_pct": 19.357089459257413,
+    "lix_readability_score": 27.92821291077386
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "2003_정애 이야기_송기원_tagged.txt",
+    "author": "송기원",
+    "title": "정애 이야기",
+    "year": "2003",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 157,
+    "density": 0.12816326530612246,
+    "average_clustering": 0.353987848408901,
+    "transitivity": 0.2712
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "문둥이",
+        "value": 0.4081632653061224
+      },
+      {
+        "word": "여자",
+        "value": 0.3877551020408163
+      },
+      {
+        "word": "기억",
+        "value": 0.32653061224489793
+      },
+      {
+        "word": "어머니",
+        "value": 0.24489795918367346
+      },
+      {
+        "word": "소리",
+        "value": 0.24489795918367346
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "여자",
+        "value": 0.28737244897959174
+      },
+      {
+        "word": "문둥이",
+        "value": 0.28565051020408166
+      },
+      {
+        "word": "기억",
+        "value": 0.16221655328798187
+      },
+      {
+        "word": "얼굴",
+        "value": 0.08339710884353742
+      },
+      {
+        "word": "기분",
+        "value": 0.07889739229024945
+      }
+    ]
+  }
+}

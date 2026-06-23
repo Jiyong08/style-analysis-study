@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "2000_전당포를 찾아서_김종광_tagged.txt",
+    "author": "김종광",
+    "title": "전당포를 찾아서",
+    "year": "2000",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 13012,
+    "unique_morphemes": 2466,
+    "shannon_entropy": 8.73764643012963
+  },
+  "readability_metrics": {
+    "total_word_count": 5367,
+    "long_word_count": 1422,
+    "average_sentence_length_words": 6.40453460620525,
+    "long_word_ratio_pct": 26.495248742314143,
+    "lix_readability_score": 32.89978334851939
+  }
+}

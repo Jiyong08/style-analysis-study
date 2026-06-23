@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "2000_정육점에서_김종광_tagged.txt",
+    "author": "김종광",
+    "title": "정육점에서",
+    "year": "2000",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 145,
+    "density": 0.11836734693877551,
+    "average_clustering": 0.28104587895764366,
+    "transitivity": 0.2917093142272262
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "아빠",
+        "value": 0.3469387755102041
+      },
+      {
+        "word": "타고르",
+        "value": 0.24489795918367346
+      },
+      {
+        "word": "골목",
+        "value": 0.2040816326530612
+      },
+      {
+        "word": "물개",
+        "value": 0.18367346938775508
+      },
+      {
+        "word": "정력",
+        "value": 0.18367346938775508
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "아빠",
+        "value": 0.3296343537414966
+      },
+      {
+        "word": "생일",
+        "value": 0.1713718820861678
+      },
+      {
+        "word": "타고르",
+        "value": 0.12386621315192743
+      },
+      {
+        "word": "사람",
+        "value": 0.08924319727891156
+      },
+      {
+        "word": "핵무기",
+        "value": 0.07977607709750566
+      }
+    ]
+  }
+}

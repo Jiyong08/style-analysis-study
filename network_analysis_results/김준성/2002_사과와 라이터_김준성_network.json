@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "2002_사과와 라이터_김준성_tagged.txt",
+    "author": "김준성",
+    "title": "사과와 라이터",
+    "year": "2002",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 278,
+    "density": 0.22693877551020408,
+    "average_clustering": 0.5435349479938685,
+    "transitivity": 0.4039312039312039
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "데미",
+        "value": 0.6122448979591836
+      },
+      {
+        "word": "사과",
+        "value": 0.5714285714285714
+      },
+      {
+        "word": "빌딩",
+        "value": 0.5510204081632653
+      },
+      {
+        "word": "라이터",
+        "value": 0.5102040816326531
+      },
+      {
+        "word": "생각",
+        "value": 0.5102040816326531
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "데미",
+        "value": 0.345545837382572
+      },
+      {
+        "word": "사과",
+        "value": 0.3325771379980564
+      },
+      {
+        "word": "빌딩",
+        "value": 0.29564909297052155
+      },
+      {
+        "word": "생각",
+        "value": 0.09810090702947843
+      },
+      {
+        "word": "친구",
+        "value": 0.09056122448979592
+      }
+    ]
+  }
+}

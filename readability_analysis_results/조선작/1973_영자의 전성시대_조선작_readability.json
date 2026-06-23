@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1973_영자의 전성시대_조선작_tagged.txt",
+    "author": "조선작",
+    "title": "영자의 전성시대",
+    "year": "1973",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 14516,
+    "unique_morphemes": 2289,
+    "shannon_entropy": 8.463770006480777
+  },
+  "readability_metrics": {
+    "total_word_count": 6037,
+    "long_word_count": 1670,
+    "average_sentence_length_words": 8.191316146540027,
+    "long_word_ratio_pct": 27.662746397217163,
+    "lix_readability_score": 35.85406254375719
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1965_서울, 1964년, 겨울_김승옥_tagged.txt",
+    "author": "김승옥",
+    "title": "서울, 1964년, 겨울",
+    "year": "1965",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 10356,
+    "unique_morphemes": 1509,
+    "shannon_entropy": 8.151731327966836
+  },
+  "readability_metrics": {
+    "total_word_count": 4326,
+    "long_word_count": 1041,
+    "average_sentence_length_words": 7.045602605863192,
+    "long_word_ratio_pct": 24.06380027739251,
+    "lix_readability_score": 31.1094028832557
+  }
+}

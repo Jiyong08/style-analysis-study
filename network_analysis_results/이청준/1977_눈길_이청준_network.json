@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1977_눈길_이청준_tagged.txt",
+    "author": "이청준",
+    "title": "눈길",
+    "year": "1977",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 256,
+    "density": 0.2089795918367347,
+    "average_clustering": 0.5295962083459133,
+    "transitivity": 0.3597525044195639
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "노인",
+        "value": 0.8979591836734693
+      },
+      {
+        "word": "아내",
+        "value": 0.4897959183673469
+      },
+      {
+        "word": "사람",
+        "value": 0.3877551020408163
+      },
+      {
+        "word": "이야기",
+        "value": 0.36734693877551017
+      },
+      {
+        "word": "어머님",
+        "value": 0.3061224489795918
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "노인",
+        "value": 0.8362386621315192
+      },
+      {
+        "word": "동네",
+        "value": 0.10579648526077098
+      },
+      {
+        "word": "처지",
+        "value": 0.0881519274376417
+      },
+      {
+        "word": "사람",
+        "value": 0.05314625850340136
+      },
+      {
+        "word": "아내",
+        "value": 0.03486394557823129
+      }
+    ]
+  }
+}

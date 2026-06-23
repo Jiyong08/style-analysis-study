@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1950_독짓는 늙은이_황순원_tagged.txt",
+    "author": "황순원",
+    "title": "독짓는 늙은이",
+    "year": "1950",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 4766,
+    "unique_morphemes": 927,
+    "shannon_entropy": 8.136602412200364
+  },
+  "readability_metrics": {
+    "total_word_count": 2204,
+    "long_word_count": 458,
+    "average_sentence_length_words": 14.038216560509554,
+    "long_word_ratio_pct": 20.780399274047188,
+    "lix_readability_score": 34.81861583455674
+  }
+}

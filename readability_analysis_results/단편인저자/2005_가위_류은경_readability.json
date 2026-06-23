@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "2005_가위_류은경_tagged.txt",
+    "author": "류은경",
+    "title": "가위",
+    "year": "2005",
+    "is_excluded_from_display": true
+  },
+  "entropy_metrics": {
+    "total_morphemes": 7112,
+    "unique_morphemes": 1404,
+    "shannon_entropy": 8.125816530232944
+  },
+  "readability_metrics": {
+    "total_word_count": 3262,
+    "long_word_count": 691,
+    "average_sentence_length_words": 6.767634854771784,
+    "long_word_ratio_pct": 21.183323114653586,
+    "lix_readability_score": 27.95095796942537
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "2003_프라이데이와 결별하다_김언수_tagged.txt",
+    "author": "김언수",
+    "title": "프라이데이와 결별하다",
+    "year": "2003",
+    "is_excluded_from_display": true
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 888,
+    "density": 0.7248979591836735,
+    "average_clustering": 0.9259692255705337,
+    "transitivity": 0.93917463599552
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "생각",
+        "value": 0.9795918367346939
+      },
+      {
+        "word": "회사",
+        "value": 0.8979591836734693
+      },
+      {
+        "word": "안성",
+        "value": 0.8979591836734693
+      },
+      {
+        "word": "소리",
+        "value": 0.8979591836734693
+      },
+      {
+        "word": "자신",
+        "value": 0.8775510204081632
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "생각",
+        "value": 0.36873582766439916
+      },
+      {
+        "word": "자신",
+        "value": 0.15083616780045353
+      },
+      {
+        "word": "여자",
+        "value": 0.08684807256235828
+      },
+      {
+        "word": "사람",
+        "value": 0.07043650793650794
+      },
+      {
+        "word": "안성",
+        "value": 0.0552721088435374
+      }
+    ]
+  }
+}

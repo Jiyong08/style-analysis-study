@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1992_회색눈사람_최윤_tagged.txt",
+    "author": "최윤",
+    "title": "회색눈사람",
+    "year": "1992",
+    "is_excluded_from_display": true
+  },
+  "entropy_metrics": {
+    "total_morphemes": 18952,
+    "unique_morphemes": 2558,
+    "shannon_entropy": 8.387635048687311
+  },
+  "readability_metrics": {
+    "total_word_count": 8498,
+    "long_word_count": 1840,
+    "average_sentence_length_words": 11.108496732026143,
+    "long_word_ratio_pct": 21.652153447870088,
+    "lix_readability_score": 32.76065017989623
+  }
+}

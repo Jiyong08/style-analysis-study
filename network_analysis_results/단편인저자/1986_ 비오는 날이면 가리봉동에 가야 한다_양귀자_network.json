@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1986_ 비오는 날이면 가리봉동에 가야 한다_양귀자_tagged.txt",
+    "author": "양귀자",
+    "title": " 비오는 날이면 가리봉동에 가야 한다",
+    "year": "1986",
+    "is_excluded_from_display": true
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 230,
+    "density": 0.18775510204081633,
+    "average_clustering": 0.38532841962482556,
+    "transitivity": 0.33899644409324375
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "아내",
+        "value": 0.4897959183673469
+      },
+      {
+        "word": "목욕탕",
+        "value": 0.3877551020408163
+      },
+      {
+        "word": "사람",
+        "value": 0.36734693877551017
+      },
+      {
+        "word": "공사",
+        "value": 0.36734693877551017
+      },
+      {
+        "word": "시작",
+        "value": 0.3061224489795918
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "아내",
+        "value": 0.39158871882086166
+      },
+      {
+        "word": "목욕탕",
+        "value": 0.21574546485260765
+      },
+      {
+        "word": "연탄",
+        "value": 0.14475623582766442
+      },
+      {
+        "word": "사람",
+        "value": 0.11420068027210882
+      },
+      {
+        "word": "소리",
+        "value": 0.07551729024943311
+      }
+    ]
+  }
+}

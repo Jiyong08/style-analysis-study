@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1991_쥐잡기_김소진_tagged.txt",
+    "author": "김소진",
+    "title": "쥐잡기",
+    "year": "1991",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 10286,
+    "unique_morphemes": 2523,
+    "shannon_entropy": 8.934410957795704
+  },
+  "readability_metrics": {
+    "total_word_count": 4392,
+    "long_word_count": 1395,
+    "average_sentence_length_words": 10.096551724137932,
+    "long_word_ratio_pct": 31.762295081967213,
+    "lix_readability_score": 41.85884680610515
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1994_아름다운 그 시작_유기성_tagged.txt",
+    "author": "유기성",
+    "title": "아름다운 그 시작",
+    "year": "1994",
+    "is_excluded_from_display": true
+  },
+  "entropy_metrics": {
+    "total_morphemes": 118976,
+    "unique_morphemes": 7416,
+    "shannon_entropy": 8.92980517877688
+  },
+  "readability_metrics": {
+    "total_word_count": 51748,
+    "long_word_count": 11993,
+    "average_sentence_length_words": 6.883213620643788,
+    "long_word_ratio_pct": 23.175774909175235,
+    "lix_readability_score": 30.058988529819025
+  }
+}

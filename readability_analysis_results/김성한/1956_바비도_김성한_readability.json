@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1956_바비도_김성한_tagged.txt",
+    "author": "김성한",
+    "title": "바비도",
+    "year": "1956",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 2453,
+    "unique_morphemes": 720,
+    "shannon_entropy": 8.054012442459408
+  },
+  "readability_metrics": {
+    "total_word_count": 973,
+    "long_word_count": 212,
+    "average_sentence_length_words": 5.757396449704142,
+    "long_word_ratio_pct": 21.788283658787257,
+    "lix_readability_score": 27.5456801084914
+  }
+}

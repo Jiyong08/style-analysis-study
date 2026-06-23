@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1993_경마장에서 생긴 일_하일지_tagged.txt",
+    "author": "하일지",
+    "title": "경마장에서 생긴 일",
+    "year": "1993",
+    "is_excluded_from_display": true
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 580,
+    "density": 0.47346938775510206,
+    "average_clustering": 0.6400373768374858,
+    "transitivity": 0.5854056257643702
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "자신",
+        "value": 0.9387755102040816
+      },
+      {
+        "word": "사람",
+        "value": 0.8571428571428571
+      },
+      {
+        "word": "생각",
+        "value": 0.8571428571428571
+      },
+      {
+        "word": "소리",
+        "value": 0.7959183673469387
+      },
+      {
+        "word": "얼굴",
+        "value": 0.7959183673469387
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "사람",
+        "value": 0.38010204081632654
+      },
+      {
+        "word": "사내",
+        "value": 0.1960034013605442
+      },
+      {
+        "word": "자신",
+        "value": 0.195578231292517
+      },
+      {
+        "word": "생각",
+        "value": 0.15136054421768708
+      },
+      {
+        "word": "남자",
+        "value": 0.1288265306122449
+      }
+    ]
+  }
+}

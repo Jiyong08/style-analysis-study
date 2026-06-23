@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1935_金講師와 T敎授_유진오_tagged.txt",
+    "author": "유진오",
+    "title": "金講師와 T敎授",
+    "year": "1935",
+    "is_excluded_from_display": true
+  },
+  "entropy_metrics": {
+    "total_morphemes": 14180,
+    "unique_morphemes": 2233,
+    "shannon_entropy": 8.616898553463502
+  },
+  "readability_metrics": {
+    "total_word_count": 5821,
+    "long_word_count": 1841,
+    "average_sentence_length_words": 9.766778523489933,
+    "long_word_ratio_pct": 31.626868235698332,
+    "lix_readability_score": 41.393646759188265
+  }
+}

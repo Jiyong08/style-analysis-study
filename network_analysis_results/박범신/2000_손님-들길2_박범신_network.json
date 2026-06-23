@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "2000_손님-들길2_박범신_tagged.txt",
+    "author": "박범신",
+    "title": "손님-들길2",
+    "year": "2000",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 327,
+    "density": 0.26693877551020406,
+    "average_clustering": 0.553194390331542,
+    "transitivity": 0.4398200224971879
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "어머니",
+        "value": 0.8163265306122448
+      },
+      {
+        "word": "이모부",
+        "value": 0.7755102040816326
+      },
+      {
+        "word": "소리",
+        "value": 0.5102040816326531
+      },
+      {
+        "word": "그림자",
+        "value": 0.5102040816326531
+      },
+      {
+        "word": "사립문",
+        "value": 0.44897959183673464
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "어머니",
+        "value": 0.6393140589569161
+      },
+      {
+        "word": "이모부",
+        "value": 0.271187641723356
+      },
+      {
+        "word": "동네",
+        "value": 0.13477891156462585
+      },
+      {
+        "word": "사립문",
+        "value": 0.08191609977324261
+      },
+      {
+        "word": "배추",
+        "value": 0.05470521541950113
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1983_풍적_김성동_tagged.txt",
+    "author": "김성동",
+    "title": "풍적",
+    "year": "1983",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 27793,
+    "unique_morphemes": 3559,
+    "shannon_entropy": 8.769218755703585
+  },
+  "readability_metrics": {
+    "total_word_count": 11504,
+    "long_word_count": 3269,
+    "average_sentence_length_words": 8.521481481481482,
+    "long_word_ratio_pct": 28.416203059805284,
+    "lix_readability_score": 36.937684541286764
+  }
+}

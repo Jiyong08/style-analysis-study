@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1962_꺼삐딴 리_전광용_tagged.txt",
+    "author": "전광용",
+    "title": "꺼삐딴 리",
+    "year": "1962",
+    "is_excluded_from_display": true
+  },
+  "entropy_metrics": {
+    "total_morphemes": 12232,
+    "unique_morphemes": 2625,
+    "shannon_entropy": 8.818413563750832
+  },
+  "readability_metrics": {
+    "total_word_count": 5488,
+    "long_word_count": 1262,
+    "average_sentence_length_words": 9.041186161449753,
+    "long_word_ratio_pct": 22.995626822157433,
+    "lix_readability_score": 32.036812983607184
+  }
+}

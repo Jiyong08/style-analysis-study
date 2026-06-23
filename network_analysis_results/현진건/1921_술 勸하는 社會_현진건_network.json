@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1921_술 勸하는 社會_현진건_tagged.txt",
+    "author": "현진건",
+    "title": "술 勸하는 社會",
+    "year": "1921",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 225,
+    "density": 0.1836734693877551,
+    "average_clustering": 0.5319250413684823,
+    "transitivity": 0.47560975609756095
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "남편",
+        "value": 0.6326530612244897
+      },
+      {
+        "word": "아내",
+        "value": 0.4897959183673469
+      },
+      {
+        "word": "소리",
+        "value": 0.4081632653061224
+      },
+      {
+        "word": "사람",
+        "value": 0.3877551020408163
+      },
+      {
+        "word": "정신",
+        "value": 0.36734693877551017
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "남편",
+        "value": 0.4263261256883705
+      },
+      {
+        "word": "아내",
+        "value": 0.3592120181405896
+      },
+      {
+        "word": "할멈",
+        "value": 0.14617346938775513
+      },
+      {
+        "word": "소리",
+        "value": 0.13714569160997733
+      },
+      {
+        "word": "사람",
+        "value": 0.089502348558471
+      }
+    ]
+  }
+}

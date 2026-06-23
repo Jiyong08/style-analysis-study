@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "2001_일식_이혜경_tagged.txt",
+    "author": "이혜경",
+    "title": "일식",
+    "year": "2001",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 9784,
+    "unique_morphemes": 1995,
+    "shannon_entropy": 8.621865408005691
+  },
+  "readability_metrics": {
+    "total_word_count": 4189,
+    "long_word_count": 1136,
+    "average_sentence_length_words": 8.970021413276232,
+    "long_word_ratio_pct": 27.11864406779661,
+    "lix_readability_score": 36.08866548107284
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "2002_붉은 악마_김준성_tagged.txt",
+    "author": "김준성",
+    "title": "붉은 악마",
+    "year": "2002",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 312,
+    "density": 0.2546938775510204,
+    "average_clustering": 0.51802501406493,
+    "transitivity": 0.46454767726161367
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "한국",
+        "value": 0.6530612244897959
+      },
+      {
+        "word": "사람",
+        "value": 0.6326530612244897
+      },
+      {
+        "word": "윤식",
+        "value": 0.5918367346938775
+      },
+      {
+        "word": "안느",
+        "value": 0.5306122448979591
+      },
+      {
+        "word": "미국",
+        "value": 0.5102040816326531
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "한국",
+        "value": 0.3055555555555556
+      },
+      {
+        "word": "윤식",
+        "value": 0.2939848558471007
+      },
+      {
+        "word": "미국",
+        "value": 0.2848639455782313
+      },
+      {
+        "word": "사람",
+        "value": 0.17018950437317784
+      },
+      {
+        "word": "응원",
+        "value": 0.14129818594104307
+      }
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1947_밤길_이태준_tagged.txt",
+    "author": "이태준",
+    "title": "밤길",
+    "year": "1947",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 133,
+    "density": 0.10857142857142857,
+    "average_clustering": 0.583569264069264,
+    "transitivity": 0.31446059678653404
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "서방",
+        "value": 0.7346938775510203
+      },
+      {
+        "word": "아이",
+        "value": 0.32653061224489793
+      },
+      {
+        "word": "집주인",
+        "value": 0.24489795918367346
+      },
+      {
+        "word": "소리",
+        "value": 0.2040816326530612
+      },
+      {
+        "word": "애비",
+        "value": 0.2040816326530612
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "서방",
+        "value": 0.719812925170068
+      },
+      {
+        "word": "아이",
+        "value": 0.23554421768707481
+      },
+      {
+        "word": "지우산",
+        "value": 0.06207482993197279
+      },
+      {
+        "word": "집주인",
+        "value": 0.04662698412698413
+      },
+      {
+        "word": "애비",
+        "value": 0.0429421768707483
+      }
+    ]
+  }
+}

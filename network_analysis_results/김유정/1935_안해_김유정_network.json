@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1935_안해_김유정_tagged.txt",
+    "author": "김유정",
+    "title": "안해",
+    "year": "1935",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 79,
+    "density": 0.06448979591836734,
+    "average_clustering": 0.3705689865689865,
+    "transitivity": 0.23661971830985915
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "들병이",
+        "value": 0.2857142857142857
+      },
+      {
+        "word": "얼굴",
+        "value": 0.2040816326530612
+      },
+      {
+        "word": "소리",
+        "value": 0.18367346938775508
+      },
+      {
+        "word": "계집",
+        "value": 0.16326530612244897
+      },
+      {
+        "word": "자식",
+        "value": 0.16326530612244897
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "들병이",
+        "value": 0.23638038548752835
+      },
+      {
+        "word": "얼굴",
+        "value": 0.23450963718820858
+      },
+      {
+        "word": "계집",
+        "value": 0.1931689342403628
+      },
+      {
+        "word": "소리",
+        "value": 0.13078231292517004
+      },
+      {
+        "word": "낯짝",
+        "value": 0.09112811791383219
+      }
+    ]
+  }
+}

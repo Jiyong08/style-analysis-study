@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1999_아르헨티나의 연인들_김경욱_tagged.txt",
+    "author": "김경욱",
+    "title": "아르헨티나의 연인들",
+    "year": "1999",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 9143,
+    "unique_morphemes": 1595,
+    "shannon_entropy": 8.243246690569887
+  },
+  "readability_metrics": {
+    "total_word_count": 4040,
+    "long_word_count": 929,
+    "average_sentence_length_words": 8.541226215644821,
+    "long_word_ratio_pct": 22.995049504950494,
+    "lix_readability_score": 31.536275720595313
+  }
+}

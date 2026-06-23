@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1996_나비학 개론_차현숙_tagged.txt",
+    "author": "차현숙",
+    "title": "나비학 개론",
+    "year": "1996",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 326,
+    "density": 0.26612244897959186,
+    "average_clustering": 0.45699837228111767,
+    "transitivity": 0.3992418196328811
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "여자",
+        "value": 0.6530612244897959
+      },
+      {
+        "word": "생각",
+        "value": 0.6122448979591836
+      },
+      {
+        "word": "자신",
+        "value": 0.5102040816326531
+      },
+      {
+        "word": "사랑",
+        "value": 0.4897959183673469
+      },
+      {
+        "word": "남편",
+        "value": 0.4897959183673469
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "여자",
+        "value": 0.4520124716553287
+      },
+      {
+        "word": "남편",
+        "value": 0.31901218820861676
+      },
+      {
+        "word": "생각",
+        "value": 0.15804988662131514
+      },
+      {
+        "word": "사랑",
+        "value": 0.15683106575963715
+      },
+      {
+        "word": "엄마",
+        "value": 0.14469954648526076
+      }
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1985_解産 바가지_박완서_tagged.txt",
+    "author": "박완서",
+    "title": "解産 바가지",
+    "year": "1985",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 208,
+    "density": 0.16979591836734695,
+    "average_clustering": 0.34084436152083214,
+    "transitivity": 0.3391812865497076
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "친구",
+        "value": 0.3877551020408163
+      },
+      {
+        "word": "아들",
+        "value": 0.3877551020408163
+      },
+      {
+        "word": "소리",
+        "value": 0.3877551020408163
+      },
+      {
+        "word": "남편",
+        "value": 0.3469387755102041
+      },
+      {
+        "word": "생각",
+        "value": 0.2857142857142857
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "친구",
+        "value": 0.22918083900226754
+      },
+      {
+        "word": "아들",
+        "value": 0.1710600907029478
+      },
+      {
+        "word": "소리",
+        "value": 0.15759232264334302
+      },
+      {
+        "word": "남편",
+        "value": 0.1335864107547781
+      },
+      {
+        "word": "생각",
+        "value": 0.11125283446712018
+      }
+    ]
+  }
+}

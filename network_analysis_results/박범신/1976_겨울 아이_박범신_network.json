@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1976_겨울 아이_박범신_tagged.txt",
+    "author": "박범신",
+    "title": "겨울 아이",
+    "year": "1976",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 243,
+    "density": 0.1983673469387755,
+    "average_clustering": 0.43319521069419653,
+    "transitivity": 0.39536423841059604
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "나루터",
+        "value": 0.5918367346938775
+      },
+      {
+        "word": "사람",
+        "value": 0.44897959183673464
+      },
+      {
+        "word": "아이",
+        "value": 0.42857142857142855
+      },
+      {
+        "word": "소리",
+        "value": 0.36734693877551017
+      },
+      {
+        "word": "분뇨",
+        "value": 0.36734693877551017
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "아이",
+        "value": 0.23875425170068024
+      },
+      {
+        "word": "사내",
+        "value": 0.2082624716553288
+      },
+      {
+        "word": "나루터",
+        "value": 0.17628259637188204
+      },
+      {
+        "word": "소리",
+        "value": 0.16060090702947843
+      },
+      {
+        "word": "탱크",
+        "value": 0.06010487528344671
+      }
+    ]
+  }
+}

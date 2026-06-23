@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "198--_봄비_안재성_tagged.txt",
+    "author": "안재성",
+    "title": "봄비",
+    "year": "198--",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 13101,
+    "unique_morphemes": 2518,
+    "shannon_entropy": 8.726674669518713
+  },
+  "readability_metrics": {
+    "total_word_count": 5430,
+    "long_word_count": 1595,
+    "average_sentence_length_words": 8.104477611940299,
+    "long_word_ratio_pct": 29.373848987108655,
+    "lix_readability_score": 37.478326599048955
+  }
+}

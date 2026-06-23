@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1975_우리들의 장례식_박범신_tagged.txt",
+    "author": "박범신",
+    "title": "우리들의 장례식",
+    "year": "1975",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 11377,
+    "unique_morphemes": 2179,
+    "shannon_entropy": 8.692067028939073
+  },
+  "readability_metrics": {
+    "total_word_count": 4804,
+    "long_word_count": 1258,
+    "average_sentence_length_words": 7.245852187028658,
+    "long_word_ratio_pct": 26.186511240632807,
+    "lix_readability_score": 33.432363427661464
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1999_내 사랑 나의 암놈_최인석_tagged.txt",
+    "author": "최인석",
+    "title": "내 사랑 나의 암놈",
+    "year": "1999",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 593,
+    "density": 0.4840816326530612,
+    "average_clustering": 0.7097135328091807,
+    "transitivity": 0.6393072289156626
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "아비",
+        "value": 0.8979591836734693
+      },
+      {
+        "word": "어미",
+        "value": 0.8979591836734693
+      },
+      {
+        "word": "사람",
+        "value": 0.8163265306122448
+      },
+      {
+        "word": "누이",
+        "value": 0.7959183673469387
+      },
+      {
+        "word": "정이",
+        "value": 0.7755102040816326
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "어미",
+        "value": 0.6585884353741497
+      },
+      {
+        "word": "아비",
+        "value": 0.5170068027210885
+      },
+      {
+        "word": "동네",
+        "value": 0.12074829931972789
+      },
+      {
+        "word": "솔개",
+        "value": 0.1133078231292517
+      },
+      {
+        "word": "소리",
+        "value": 0.10714285714285714
+      }
+    ]
+  }
+}

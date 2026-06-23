@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1992_어느 화가의 승천_안재성_tagged.txt",
+    "author": "안재성",
+    "title": "어느 화가의 승천",
+    "year": "1992",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 20756,
+    "unique_morphemes": 2790,
+    "shannon_entropy": 8.699709523043492
+  },
+  "readability_metrics": {
+    "total_word_count": 8745,
+    "long_word_count": 2491,
+    "average_sentence_length_words": 8.226716839134525,
+    "long_word_ratio_pct": 28.484848484848484,
+    "lix_readability_score": 36.71156532398301
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "2000_서점, 네시_김종광_tagged.txt",
+    "author": "김종광",
+    "title": "서점, 네시",
+    "year": "2000",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 11174,
+    "unique_morphemes": 1657,
+    "shannon_entropy": 8.121618657045484
+  },
+  "readability_metrics": {
+    "total_word_count": 4208,
+    "long_word_count": 987,
+    "average_sentence_length_words": 4.0,
+    "long_word_ratio_pct": 23.45532319391635,
+    "lix_readability_score": 27.45532319391635
+  }
+}

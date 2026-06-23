@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1961_등신불_김동리_tagged.txt",
+    "author": "김동리",
+    "title": "등신불",
+    "year": "1961",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 9423,
+    "unique_morphemes": 1709,
+    "shannon_entropy": 8.539422393262647
+  },
+  "readability_metrics": {
+    "total_word_count": 4039,
+    "long_word_count": 881,
+    "average_sentence_length_words": 12.020833333333334,
+    "long_word_ratio_pct": 21.81232978460015,
+    "lix_readability_score": 33.83316311793348
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1988_포도나무집 풍경_김영현_tagged.txt",
+    "author": "김영현",
+    "title": "포도나무집 풍경",
+    "year": "1988",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 281,
+    "density": 0.22938775510204082,
+    "average_clustering": 0.47120727964331893,
+    "transitivity": 0.37480397281756406
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "목사",
+        "value": 0.8571428571428571
+      },
+      {
+        "word": "사람",
+        "value": 0.6326530612244897
+      },
+      {
+        "word": "이야기",
+        "value": 0.36734693877551017
+      },
+      {
+        "word": "생각",
+        "value": 0.36734693877551017
+      },
+      {
+        "word": "소리",
+        "value": 0.32653061224489793
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "목사",
+        "value": 0.6822562358276645
+      },
+      {
+        "word": "사람",
+        "value": 0.23439625850340134
+      },
+      {
+        "word": "이야기",
+        "value": 0.044642857142857144
+      },
+      {
+        "word": "기분",
+        "value": 0.03987386621315193
+      },
+      {
+        "word": "표정",
+        "value": 0.036068594104308384
+      }
+    ]
+  }
+}

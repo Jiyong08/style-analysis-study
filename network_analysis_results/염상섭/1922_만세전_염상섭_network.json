@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1922_만세전_염상섭_tagged.txt",
+    "author": "염상섭",
+    "title": "만세전",
+    "year": "1922",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 581,
+    "density": 0.4742857142857143,
+    "average_clustering": 0.6423537038877047,
+    "transitivity": 0.5804887901434054
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "생각",
+        "value": 0.9591836734693877
+      },
+      {
+        "word": "사람",
+        "value": 0.9387755102040816
+      },
+      {
+        "word": "소리",
+        "value": 0.8775510204081632
+      },
+      {
+        "word": "모양",
+        "value": 0.8775510204081632
+      },
+      {
+        "word": "얼굴",
+        "value": 0.7142857142857142
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "사람",
+        "value": 0.7325680272108844
+      },
+      {
+        "word": "생각",
+        "value": 0.45308956916099763
+      },
+      {
+        "word": "을라",
+        "value": 0.07610544217687075
+      },
+      {
+        "word": "김의관",
+        "value": 0.07419217687074829
+      },
+      {
+        "word": "소리",
+        "value": 0.030541383219954647
+      }
+    ]
+  }
+}

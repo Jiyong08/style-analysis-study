@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1981_금시조_이문열_tagged.txt",
+    "author": "이문열",
+    "title": "금시조",
+    "year": "1981",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 25371,
+    "unique_morphemes": 3703,
+    "shannon_entropy": 8.868481386488133
+  },
+  "readability_metrics": {
+    "total_word_count": 10319,
+    "long_word_count": 2793,
+    "average_sentence_length_words": 10.572745901639344,
+    "long_word_ratio_pct": 27.066576218625837,
+    "lix_readability_score": 37.63932212026518
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1993_카프카를 읽는 밤_구효서_tagged.txt",
+    "author": "구효서",
+    "title": "카프카를 읽는 밤",
+    "year": "1993",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 12905,
+    "unique_morphemes": 2261,
+    "shannon_entropy": 8.550807304478308
+  },
+  "readability_metrics": {
+    "total_word_count": 5546,
+    "long_word_count": 1346,
+    "average_sentence_length_words": 8.302395209580839,
+    "long_word_ratio_pct": 24.26974395961053,
+    "lix_readability_score": 32.57213916919137
+  }
+}

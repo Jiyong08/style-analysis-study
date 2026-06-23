@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1986_이름의 멍에_김원우_tagged.txt",
+    "author": "김원우",
+    "title": "이름의 멍에",
+    "year": "1986",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 33183,
+    "unique_morphemes": 4293,
+    "shannon_entropy": 9.050894989050875
+  },
+  "readability_metrics": {
+    "total_word_count": 14186,
+    "long_word_count": 4028,
+    "average_sentence_length_words": 9.75653370013755,
+    "long_word_ratio_pct": 28.39419145636543,
+    "lix_readability_score": 38.15072515650298
+  }
+}

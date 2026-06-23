@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1992_내 마음의 서부_김영현_tagged.txt",
+    "author": "김영현",
+    "title": "내 마음의 서부",
+    "year": "1992",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 8685,
+    "unique_morphemes": 1728,
+    "shannon_entropy": 8.54868191207134
+  },
+  "readability_metrics": {
+    "total_word_count": 3766,
+    "long_word_count": 998,
+    "average_sentence_length_words": 9.631713554987213,
+    "long_word_ratio_pct": 26.500265533722782,
+    "lix_readability_score": 36.13197908871
+  }
+}

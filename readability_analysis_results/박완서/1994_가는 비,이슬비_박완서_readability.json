@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1994_가는 비,이슬비_박완서_tagged.txt",
+    "author": "박완서",
+    "title": "가는 비,이슬비",
+    "year": "1994",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 10920,
+    "unique_morphemes": 2153,
+    "shannon_entropy": 8.628922616087394
+  },
+  "readability_metrics": {
+    "total_word_count": 4803,
+    "long_word_count": 1229,
+    "average_sentence_length_words": 12.410852713178295,
+    "long_word_ratio_pct": 25.58817405788049,
+    "lix_readability_score": 37.99902677105879
+  }
+}

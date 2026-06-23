@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1925_五夢女_이태준_tagged.txt",
+    "author": "이태준",
+    "title": "五夢女",
+    "year": "1925",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 4413,
+    "unique_morphemes": 1089,
+    "shannon_entropy": 8.316954175748158
+  },
+  "readability_metrics": {
+    "total_word_count": 1900,
+    "long_word_count": 482,
+    "average_sentence_length_words": 9.743589743589743,
+    "long_word_ratio_pct": 25.36842105263158,
+    "lix_readability_score": 35.11201079622132
+  }
+}

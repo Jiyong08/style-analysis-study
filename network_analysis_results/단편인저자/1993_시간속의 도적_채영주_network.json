@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1993_시간속의 도적_채영주_tagged.txt",
+    "author": "채영주",
+    "title": "시간속의 도적",
+    "year": "1993",
+    "is_excluded_from_display": true
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 688,
+    "density": 0.5616326530612245,
+    "average_clustering": 0.671688985483808,
+    "transitivity": 0.6377245508982036
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "장윤",
+        "value": 0.9387755102040816
+      },
+      {
+        "word": "병수",
+        "value": 0.9387755102040816
+      },
+      {
+        "word": "사람",
+        "value": 0.9183673469387754
+      },
+      {
+        "word": "생각",
+        "value": 0.8979591836734693
+      },
+      {
+        "word": "얘기",
+        "value": 0.836734693877551
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "장윤",
+        "value": 0.6490929705215419
+      },
+      {
+        "word": "사람",
+        "value": 0.2543934240362812
+      },
+      {
+        "word": "생각",
+        "value": 0.21343537414965985
+      },
+      {
+        "word": "병수",
+        "value": 0.17772108843537415
+      },
+      {
+        "word": "이승범",
+        "value": 0.046768707482993194
+      }
+    ]
+  }
+}

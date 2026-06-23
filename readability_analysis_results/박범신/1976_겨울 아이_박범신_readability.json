@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1976_겨울 아이_박범신_tagged.txt",
+    "author": "박범신",
+    "title": "겨울 아이",
+    "year": "1976",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 10934,
+    "unique_morphemes": 2244,
+    "shannon_entropy": 8.854953919793546
+  },
+  "readability_metrics": {
+    "total_word_count": 4709,
+    "long_word_count": 1143,
+    "average_sentence_length_words": 7.770627062706271,
+    "long_word_ratio_pct": 24.272669356551283,
+    "lix_readability_score": 32.04329641925755
+  }
+}

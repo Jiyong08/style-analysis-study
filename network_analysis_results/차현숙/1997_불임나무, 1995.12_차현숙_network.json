@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1997_불임나무, 1995.12_차현숙_tagged.txt",
+    "author": "차현숙",
+    "title": "불임나무, 1995.12",
+    "year": "1997",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 308,
+    "density": 0.25142857142857145,
+    "average_clustering": 0.4773773457752466,
+    "transitivity": 0.3998252130216299
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "영도",
+        "value": 0.6530612244897959
+      },
+      {
+        "word": "사람",
+        "value": 0.5918367346938775
+      },
+      {
+        "word": "자신",
+        "value": 0.5714285714285714
+      },
+      {
+        "word": "지수",
+        "value": 0.5714285714285714
+      },
+      {
+        "word": "생각",
+        "value": 0.4081632653061224
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "영도",
+        "value": 0.4427791950113378
+      },
+      {
+        "word": "사람",
+        "value": 0.2225765306122449
+      },
+      {
+        "word": "지수",
+        "value": 0.21138038548752833
+      },
+      {
+        "word": "자신",
+        "value": 0.21003401360544216
+      },
+      {
+        "word": "바람",
+        "value": 0.047548185941043083
+      }
+    ]
+  }
+}

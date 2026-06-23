@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1934_레디 메이드 인생_채만식_tagged.txt",
+    "author": "채만식",
+    "title": "레디 메이드 인생",
+    "year": "1934",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 154,
+    "density": 0.12571428571428572,
+    "average_clustering": 0.35216128316128315,
+    "transitivity": 0.33516483516483514
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "사람",
+        "value": 0.3061224489795918
+      },
+      {
+        "word": "생각",
+        "value": 0.2857142857142857
+      },
+      {
+        "word": "사장",
+        "value": 0.26530612244897955
+      },
+      {
+        "word": "소리",
+        "value": 0.24489795918367346
+      },
+      {
+        "word": "학교",
+        "value": 0.24489795918367346
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "생각",
+        "value": 0.2708819241982508
+      },
+      {
+        "word": "사람",
+        "value": 0.2677484882842026
+      },
+      {
+        "word": "여자",
+        "value": 0.14047112892776156
+      },
+      {
+        "word": "학교",
+        "value": 0.12187297538062841
+      },
+      {
+        "word": "사장",
+        "value": 0.11813131006370801
+      }
+    ]
+  }
+}

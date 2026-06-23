@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "2002_돼지 족발_김준성_tagged.txt",
+    "author": "김준성",
+    "title": "돼지 족발",
+    "year": "2002",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 367,
+    "density": 0.29959183673469386,
+    "average_clustering": 0.5451879527263922,
+    "transitivity": 0.4401239349341596
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "사람",
+        "value": 0.7346938775510203
+      },
+      {
+        "word": "영달",
+        "value": 0.6938775510204082
+      },
+      {
+        "word": "송영",
+        "value": 0.673469387755102
+      },
+      {
+        "word": "형사",
+        "value": 0.6122448979591836
+      },
+      {
+        "word": "회사",
+        "value": 0.5714285714285714
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "송영",
+        "value": 0.3684807256235828
+      },
+      {
+        "word": "사람",
+        "value": 0.2981859410430839
+      },
+      {
+        "word": "회사",
+        "value": 0.26544784580498865
+      },
+      {
+        "word": "형사",
+        "value": 0.14632936507936506
+      },
+      {
+        "word": "사고",
+        "value": 0.12372448979591837
+      }
+    ]
+  }
+}

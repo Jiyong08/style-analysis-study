@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1927_홍염(紅焰)_최서해_tagged.txt",
+    "author": "최서해",
+    "title": "홍염(紅焰)",
+    "year": "1927",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 8721,
+    "unique_morphemes": 1759,
+    "shannon_entropy": 8.69300045876615
+  },
+  "readability_metrics": {
+    "total_word_count": 3806,
+    "long_word_count": 841,
+    "average_sentence_length_words": 8.029535864978904,
+    "long_word_ratio_pct": 22.0966894377299,
+    "lix_readability_score": 30.126225302708804
+  }
+}

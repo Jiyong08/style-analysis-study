@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1955_박학도_오영수_tagged.txt",
+    "author": "오영수",
+    "title": "박학도",
+    "year": "1955",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 202,
+    "density": 0.16489795918367348,
+    "average_clustering": 0.6043062782628,
+    "transitivity": 0.34993924665856624
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "학도",
+        "value": 0.9387755102040816
+      },
+      {
+        "word": "사람",
+        "value": 0.32653061224489793
+      },
+      {
+        "word": "아이",
+        "value": 0.32653061224489793
+      },
+      {
+        "word": "일본",
+        "value": 0.3061224489795918
+      },
+      {
+        "word": "소리",
+        "value": 0.26530612244897955
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "학도",
+        "value": 0.9280045351473923
+      },
+      {
+        "word": "아이",
+        "value": 0.07653061224489796
+      },
+      {
+        "word": "아버지",
+        "value": 0.04124149659863945
+      },
+      {
+        "word": "사람",
+        "value": 0.03869047619047619
+      },
+      {
+        "word": "고향",
+        "value": 0.03486394557823129
+      }
+    ]
+  }
+}

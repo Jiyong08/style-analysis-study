@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1992_집시 아저씨_김영현_tagged.txt",
+    "author": "김영현",
+    "title": "집시 아저씨",
+    "year": "1992",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 19637,
+    "unique_morphemes": 2782,
+    "shannon_entropy": 8.6594349240649
+  },
+  "readability_metrics": {
+    "total_word_count": 8781,
+    "long_word_count": 2484,
+    "average_sentence_length_words": 11.403896103896104,
+    "long_word_ratio_pct": 28.288349846258967,
+    "lix_readability_score": 39.69224595015507
+  }
+}

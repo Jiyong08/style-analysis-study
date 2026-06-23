@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1989_완전한 만남_김하기_tagged.txt",
+    "author": "김하기",
+    "title": "완전한 만남",
+    "year": "1989",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 9221,
+    "unique_morphemes": 2140,
+    "shannon_entropy": 8.801398153593167
+  },
+  "readability_metrics": {
+    "total_word_count": 3873,
+    "long_word_count": 1241,
+    "average_sentence_length_words": 7.145756457564576,
+    "long_word_ratio_pct": 32.042344435837855,
+    "lix_readability_score": 39.18810089340243
+  }
+}

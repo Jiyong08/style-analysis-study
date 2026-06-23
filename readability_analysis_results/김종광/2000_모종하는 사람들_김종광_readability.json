@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "2000_모종하는 사람들_김종광_tagged.txt",
+    "author": "김종광",
+    "title": "모종하는 사람들",
+    "year": "2000",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 13853,
+    "unique_morphemes": 2601,
+    "shannon_entropy": 8.870874712795327
+  },
+  "readability_metrics": {
+    "total_word_count": 5779,
+    "long_word_count": 1452,
+    "average_sentence_length_words": 7.5149544863459035,
+    "long_word_ratio_pct": 25.125454230835786,
+    "lix_readability_score": 32.640408717181685
+  }
+}

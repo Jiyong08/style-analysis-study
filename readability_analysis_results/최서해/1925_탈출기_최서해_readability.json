@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1925_탈출기_최서해_tagged.txt",
+    "author": "최서해",
+    "title": "탈출기",
+    "year": "1925",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 5032,
+    "unique_morphemes": 1102,
+    "shannon_entropy": 8.18278540064051
+  },
+  "readability_metrics": {
+    "total_word_count": 2143,
+    "long_word_count": 489,
+    "average_sentence_length_words": 7.072607260726072,
+    "long_word_ratio_pct": 22.818478768082127,
+    "lix_readability_score": 29.8910860288082
+  }
+}

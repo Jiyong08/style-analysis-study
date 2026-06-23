@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "2003_정애 이야기_송기원_tagged.txt",
+    "author": "송기원",
+    "title": "정애 이야기",
+    "year": "2003",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 7479,
+    "unique_morphemes": 1400,
+    "shannon_entropy": 8.437361948421609
+  },
+  "readability_metrics": {
+    "total_word_count": 3177,
+    "long_word_count": 850,
+    "average_sentence_length_words": 9.23546511627907,
+    "long_word_ratio_pct": 26.754800125904943,
+    "lix_readability_score": 35.99026524218401
+  }
+}

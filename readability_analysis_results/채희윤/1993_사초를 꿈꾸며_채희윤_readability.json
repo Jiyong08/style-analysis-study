@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1993_사초를 꿈꾸며_채희윤_tagged.txt",
+    "author": "채희윤",
+    "title": "사초를 꿈꾸며",
+    "year": "1993",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 9664,
+    "unique_morphemes": 1922,
+    "shannon_entropy": 8.355069851598556
+  },
+  "readability_metrics": {
+    "total_word_count": 3993,
+    "long_word_count": 1224,
+    "average_sentence_length_words": 6.920277296360485,
+    "long_word_ratio_pct": 30.653643876784372,
+    "lix_readability_score": 37.57392117314485
+  }
+}

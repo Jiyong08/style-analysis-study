@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "2002_청자 깨어지는 소리_김준성_tagged.txt",
+    "author": "김준성",
+    "title": "청자 깨어지는 소리",
+    "year": "2002",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 18495,
+    "unique_morphemes": 2086,
+    "shannon_entropy": 8.258294677296385
+  },
+  "readability_metrics": {
+    "total_word_count": 7737,
+    "long_word_count": 1805,
+    "average_sentence_length_words": 8.034267912772586,
+    "long_word_ratio_pct": 23.329455861445005,
+    "lix_readability_score": 31.36372377421759
+  }
+}

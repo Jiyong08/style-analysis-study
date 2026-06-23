@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1926_고향_현진건_tagged.txt",
+    "author": "현진건",
+    "title": "고향",
+    "year": "1926",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 3084,
+    "unique_morphemes": 908,
+    "shannon_entropy": 8.231831025388
+  },
+  "readability_metrics": {
+    "total_word_count": 1305,
+    "long_word_count": 315,
+    "average_sentence_length_words": 9.738805970149254,
+    "long_word_ratio_pct": 24.137931034482758,
+    "lix_readability_score": 33.87673700463201
+  }
+}

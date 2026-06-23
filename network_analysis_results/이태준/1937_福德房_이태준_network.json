@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1937_福德房_이태준_tagged.txt",
+    "author": "이태준",
+    "title": "福德房",
+    "year": "1937",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 158,
+    "density": 0.12897959183673469,
+    "average_clustering": 0.5332073409135969,
+    "transitivity": 0.40933899332929047
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "초시",
+        "value": 0.5918367346938775
+      },
+      {
+        "word": "참위",
+        "value": 0.4081632653061224
+      },
+      {
+        "word": "영감",
+        "value": 0.4081632653061224
+      },
+      {
+        "word": "박희완",
+        "value": 0.3469387755102041
+      },
+      {
+        "word": "사람",
+        "value": 0.32653061224489793
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "초시",
+        "value": 0.5814909297052153
+      },
+      {
+        "word": "참위",
+        "value": 0.13222789115646258
+      },
+      {
+        "word": "생각",
+        "value": 0.09948979591836735
+      },
+      {
+        "word": "사람",
+        "value": 0.09821428571428573
+      },
+      {
+        "word": "영감",
+        "value": 0.08106575963718822
+      }
+    ]
+  }
+}

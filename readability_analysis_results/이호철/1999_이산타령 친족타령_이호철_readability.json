@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1999_이산타령 친족타령_이호철_tagged.txt",
+    "author": "이호철",
+    "title": "이산타령 친족타령",
+    "year": "1999",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 7347,
+    "unique_morphemes": 1589,
+    "shannon_entropy": 8.760536316355653
+  },
+  "readability_metrics": {
+    "total_word_count": 3203,
+    "long_word_count": 1018,
+    "average_sentence_length_words": 19.650306748466257,
+    "long_word_ratio_pct": 31.782703715266937,
+    "lix_readability_score": 51.4330104637332
+  }
+}

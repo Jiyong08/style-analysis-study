@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1992_사랑니 앓기_김소진_tagged.txt",
+    "author": "김소진",
+    "title": "사랑니 앓기",
+    "year": "1992",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 12344,
+    "unique_morphemes": 2996,
+    "shannon_entropy": 9.21336390319521
+  },
+  "readability_metrics": {
+    "total_word_count": 5454,
+    "long_word_count": 1465,
+    "average_sentence_length_words": 9.151006711409396,
+    "long_word_ratio_pct": 26.861019435276862,
+    "lix_readability_score": 36.01202614668626
+  }
+}

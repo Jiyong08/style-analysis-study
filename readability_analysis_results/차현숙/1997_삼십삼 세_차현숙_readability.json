@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1997_삼십삼 세_차현숙_tagged.txt",
+    "author": "차현숙",
+    "title": "삼십삼 세",
+    "year": "1997",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 5633,
+    "unique_morphemes": 1116,
+    "shannon_entropy": 8.242554822805523
+  },
+  "readability_metrics": {
+    "total_word_count": 2478,
+    "long_word_count": 513,
+    "average_sentence_length_words": 6.9411764705882355,
+    "long_word_ratio_pct": 20.702179176755447,
+    "lix_readability_score": 27.643355647343682
+  }
+}

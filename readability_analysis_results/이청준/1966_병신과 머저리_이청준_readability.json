@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1966_병신과 머저리_이청준_tagged.txt",
+    "author": "이청준",
+    "title": "병신과 머저리",
+    "year": "1966",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 17397,
+    "unique_morphemes": 2200,
+    "shannon_entropy": 8.32812278468843
+  },
+  "readability_metrics": {
+    "total_word_count": 7787,
+    "long_word_count": 1588,
+    "average_sentence_length_words": 9.578105781057811,
+    "long_word_ratio_pct": 20.3929626300244,
+    "lix_readability_score": 29.97106841108221
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1962_7월의 아이들_최인훈_tagged.txt",
+    "author": "최인훈",
+    "title": "7월의 아이들",
+    "year": "1962",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 7103,
+    "unique_morphemes": 1423,
+    "shannon_entropy": 8.272482675028966
+  },
+  "readability_metrics": {
+    "total_word_count": 3055,
+    "long_word_count": 635,
+    "average_sentence_length_words": 4.587087087087087,
+    "long_word_ratio_pct": 20.78559738134206,
+    "lix_readability_score": 25.37268446842915
+  }
+}

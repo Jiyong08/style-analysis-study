@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1992_내 마음의 서부_김영현_tagged.txt",
+    "author": "김영현",
+    "title": "내 마음의 서부",
+    "year": "1992",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 250,
+    "density": 0.20408163265306123,
+    "average_clustering": 0.5169635059929177,
+    "transitivity": 0.3933618139993428
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "서부",
+        "value": 0.6938775510204082
+      },
+      {
+        "word": "목사",
+        "value": 0.5510204081632653
+      },
+      {
+        "word": "사실",
+        "value": 0.36734693877551017
+      },
+      {
+        "word": "생각",
+        "value": 0.3469387755102041
+      },
+      {
+        "word": "사람",
+        "value": 0.3469387755102041
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "서부",
+        "value": 0.45776441528992534
+      },
+      {
+        "word": "목사",
+        "value": 0.28671579743008313
+      },
+      {
+        "word": "대관령",
+        "value": 0.13089096749811027
+      },
+      {
+        "word": "정민",
+        "value": 0.06468253968253966
+      },
+      {
+        "word": "영화",
+        "value": 0.05685941043083901
+      }
+    ]
+  }
+}

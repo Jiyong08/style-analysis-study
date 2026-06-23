@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1994_장 루불리에의 초상_유홍종_tagged.txt",
+    "author": "유홍종",
+    "title": "장 루불리에의 초상",
+    "year": "1994",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 37304,
+    "unique_morphemes": 3894,
+    "shannon_entropy": 8.78008966869186
+  },
+  "readability_metrics": {
+    "total_word_count": 16783,
+    "long_word_count": 4163,
+    "average_sentence_length_words": 10.655873015873016,
+    "long_word_ratio_pct": 24.804862062801643,
+    "lix_readability_score": 35.46073507867466
+  }
+}

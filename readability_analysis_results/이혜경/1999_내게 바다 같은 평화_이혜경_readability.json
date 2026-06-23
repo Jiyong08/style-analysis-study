@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1999_내게 바다 같은 평화_이혜경_tagged.txt",
+    "author": "이혜경",
+    "title": "내게 바다 같은 평화",
+    "year": "1999",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 10120,
+    "unique_morphemes": 2213,
+    "shannon_entropy": 8.782230062820853
+  },
+  "readability_metrics": {
+    "total_word_count": 4295,
+    "long_word_count": 1285,
+    "average_sentence_length_words": 9.896313364055299,
+    "long_word_ratio_pct": 29.918509895227007,
+    "lix_readability_score": 39.814823259282306
+  }
+}

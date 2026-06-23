@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "2000_편안한 밤이 오기 전에_김종광_tagged.txt",
+    "author": "김종광",
+    "title": "편안한 밤이 오기 전에",
+    "year": "2000",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 17063,
+    "unique_morphemes": 2910,
+    "shannon_entropy": 8.920041733805904
+  },
+  "readability_metrics": {
+    "total_word_count": 7184,
+    "long_word_count": 1865,
+    "average_sentence_length_words": 6.548769371011851,
+    "long_word_ratio_pct": 25.960467706013365,
+    "lix_readability_score": 32.50923707702522
+  }
+}

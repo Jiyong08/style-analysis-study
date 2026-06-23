@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "2002_어떤 솔거의 죽음_조정래_tagged.txt",
+    "author": "조정래",
+    "title": "어떤 솔거의 죽음",
+    "year": "2002",
+    "is_excluded_from_display": true
+  },
+  "entropy_metrics": {
+    "total_morphemes": 7158,
+    "unique_morphemes": 1451,
+    "shannon_entropy": 8.305147370586708
+  },
+  "readability_metrics": {
+    "total_word_count": 3012,
+    "long_word_count": 721,
+    "average_sentence_length_words": 7.625316455696202,
+    "long_word_ratio_pct": 23.937583001328022,
+    "lix_readability_score": 31.562899457024223
+  }
+}

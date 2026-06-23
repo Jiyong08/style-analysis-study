@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1990_노역장 이야기_김하기_tagged.txt",
+    "author": "김하기",
+    "title": "노역장 이야기",
+    "year": "1990",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 33477,
+    "unique_morphemes": 4816,
+    "shannon_entropy": 9.14436733680702
+  },
+  "readability_metrics": {
+    "total_word_count": 13727,
+    "long_word_count": 4353,
+    "average_sentence_length_words": 7.916378316032295,
+    "long_word_ratio_pct": 31.711226050848694,
+    "lix_readability_score": 39.62760436688099
+  }
+}

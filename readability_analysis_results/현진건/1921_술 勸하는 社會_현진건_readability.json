@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1921_술 勸하는 社會_현진건_tagged.txt",
+    "author": "현진건",
+    "title": "술 勸하는 社會",
+    "year": "1921",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 6029,
+    "unique_morphemes": 1232,
+    "shannon_entropy": 8.295630212728188
+  },
+  "readability_metrics": {
+    "total_word_count": 2636,
+    "long_word_count": 492,
+    "average_sentence_length_words": 7.730205278592376,
+    "long_word_ratio_pct": 18.66464339908953,
+    "lix_readability_score": 26.394848677681907
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1957_쑈리 킴_송병수_tagged.txt",
+    "author": "송병수",
+    "title": "쑈리 킴",
+    "year": "1957",
+    "is_excluded_from_display": true
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 335,
+    "density": 0.27346938775510204,
+    "average_clustering": 0.6031440728021071,
+    "transitivity": 0.46559517830236063
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "쑈리",
+        "value": 0.836734693877551
+      },
+      {
+        "word": "누나",
+        "value": 0.7755102040816326
+      },
+      {
+        "word": "양키",
+        "value": 0.7346938775510203
+      },
+      {
+        "word": "딱부리",
+        "value": 0.673469387755102
+      },
+      {
+        "word": "서울",
+        "value": 0.4897959183673469
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "양키",
+        "value": 0.42490787981859407
+      },
+      {
+        "word": "누나",
+        "value": 0.3474253590325019
+      },
+      {
+        "word": "쑈리",
+        "value": 0.33005007558578986
+      },
+      {
+        "word": "딱부리",
+        "value": 0.25000236205593346
+      },
+      {
+        "word": "언덕",
+        "value": 0.07496220710506425
+      }
+    ]
+  }
+}

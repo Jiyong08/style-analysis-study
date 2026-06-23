@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1959_Y 소년의 경우_오영수_tagged.txt",
+    "author": "오영수",
+    "title": "Y 소년의 경우",
+    "year": "1959",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 10181,
+    "unique_morphemes": 1706,
+    "shannon_entropy": 8.455004351883707
+  },
+  "readability_metrics": {
+    "total_word_count": 4366,
+    "long_word_count": 934,
+    "average_sentence_length_words": 7.180921052631579,
+    "long_word_ratio_pct": 21.392579019697664,
+    "lix_readability_score": 28.573500072329242
+  }
+}

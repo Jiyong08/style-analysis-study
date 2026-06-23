@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1991_질척이는 봄_이인성_tagged.txt",
+    "author": "이인성",
+    "title": "질척이는 봄",
+    "year": "1991",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 5955,
+    "unique_morphemes": 1177,
+    "shannon_entropy": 7.951381855708436
+  },
+  "readability_metrics": {
+    "total_word_count": 2571,
+    "long_word_count": 575,
+    "average_sentence_length_words": 7.743975903614458,
+    "long_word_ratio_pct": 22.364838584208478,
+    "lix_readability_score": 30.108814487822936
+  }
+}

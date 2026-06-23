@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "2000_새벽 편지_원재길_tagged.txt",
+    "author": "원재길",
+    "title": "새벽 편지",
+    "year": "2000",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 7689,
+    "unique_morphemes": 1540,
+    "shannon_entropy": 8.353900286131655
+  },
+  "readability_metrics": {
+    "total_word_count": 3550,
+    "long_word_count": 896,
+    "average_sentence_length_words": 11.128526645768025,
+    "long_word_ratio_pct": 25.239436619718308,
+    "lix_readability_score": 36.36796326548633
+  }
+}

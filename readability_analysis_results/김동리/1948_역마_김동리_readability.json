@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1948_역마_김동리_tagged.txt",
+    "author": "김동리",
+    "title": "역마",
+    "year": "1948",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 10183,
+    "unique_morphemes": 1868,
+    "shannon_entropy": 8.645738395804273
+  },
+  "readability_metrics": {
+    "total_word_count": 4507,
+    "long_word_count": 937,
+    "average_sentence_length_words": 12.877142857142857,
+    "long_word_ratio_pct": 20.789882405147548,
+    "lix_readability_score": 33.66702526229041
+  }
+}

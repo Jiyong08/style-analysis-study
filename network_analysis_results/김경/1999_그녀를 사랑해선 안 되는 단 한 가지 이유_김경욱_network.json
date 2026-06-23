@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1999_그녀를 사랑해선 안 되는 단 한 가지 이유_김경욱_tagged.txt",
+    "author": "김경욱",
+    "title": "그녀를 사랑해선 안 되는 단 한 가지 이유",
+    "year": "1999",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 116,
+    "density": 0.0946938775510204,
+    "average_clustering": 0.2852931512931513,
+    "transitivity": 0.3090332805071315
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "사랑",
+        "value": 0.26530612244897955
+      },
+      {
+        "word": "생각",
+        "value": 0.24489795918367346
+      },
+      {
+        "word": "사람",
+        "value": 0.24489795918367346
+      },
+      {
+        "word": "얼굴",
+        "value": 0.18367346938775508
+      },
+      {
+        "word": "사막",
+        "value": 0.18367346938775508
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "사랑",
+        "value": 0.23602405247813407
+      },
+      {
+        "word": "얼굴",
+        "value": 0.13375546647230319
+      },
+      {
+        "word": "목소리",
+        "value": 0.08374433106575963
+      },
+      {
+        "word": "사막",
+        "value": 0.08294460641399415
+      },
+      {
+        "word": "생각",
+        "value": 0.08058896177518626
+      }
+    ]
+  }
+}

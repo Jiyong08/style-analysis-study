@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1948_민족의 죄인_채만식_tagged.txt",
+    "author": "채만식",
+    "title": "민족의 죄인",
+    "year": "1948",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 358,
+    "density": 0.2922448979591837,
+    "average_clustering": 0.5099681876348983,
+    "transitivity": 0.4734314980793854
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "사람",
+        "value": 0.8979591836734693
+      },
+      {
+        "word": "일본",
+        "value": 0.5714285714285714
+      },
+      {
+        "word": "조선",
+        "value": 0.5714285714285714
+      },
+      {
+        "word": "민족",
+        "value": 0.5102040816326531
+      },
+      {
+        "word": "대일",
+        "value": 0.4897959183673469
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "사람",
+        "value": 0.7205215419501132
+      },
+      {
+        "word": "일본",
+        "value": 0.2397604875283447
+      },
+      {
+        "word": "민족",
+        "value": 0.11996882086167798
+      },
+      {
+        "word": "대일",
+        "value": 0.08673469387755102
+      },
+      {
+        "word": "신문",
+        "value": 0.08266014739229025
+      }
+    ]
+  }
+}

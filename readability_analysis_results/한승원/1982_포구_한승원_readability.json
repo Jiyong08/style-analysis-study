@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1982_포구_한승원_tagged.txt",
+    "author": "한승원",
+    "title": "포구",
+    "year": "1982",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 129485,
+    "unique_morphemes": 7880,
+    "shannon_entropy": 8.926388549061734
+  },
+  "readability_metrics": {
+    "total_word_count": 55723,
+    "long_word_count": 15010,
+    "average_sentence_length_words": 8.701280449718926,
+    "long_word_ratio_pct": 26.936812447283888,
+    "lix_readability_score": 35.638092897002814
+  }
+}

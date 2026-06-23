@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1992_재채기_박정규_tagged.txt",
+    "author": "박정규",
+    "title": "재채기",
+    "year": "1992",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 9930,
+    "unique_morphemes": 2102,
+    "shannon_entropy": 8.783086923718658
+  },
+  "readability_metrics": {
+    "total_word_count": 4280,
+    "long_word_count": 1166,
+    "average_sentence_length_words": 9.385964912280702,
+    "long_word_ratio_pct": 27.242990654205606,
+    "lix_readability_score": 36.62895556648631
+  }
+}

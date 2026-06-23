@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1975_겨울 나들이_박완서_tagged.txt",
+    "author": "박완서",
+    "title": "겨울 나들이",
+    "year": "1975",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 147,
+    "density": 0.12,
+    "average_clustering": 0.40019746919746924,
+    "transitivity": 0.31718061674008813
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "남편",
+        "value": 0.42857142857142855
+      },
+      {
+        "word": "도리",
+        "value": 0.3061224489795918
+      },
+      {
+        "word": "아주머니",
+        "value": 0.2857142857142857
+      },
+      {
+        "word": "시어머니",
+        "value": 0.2857142857142857
+      },
+      {
+        "word": "생각",
+        "value": 0.2857142857142857
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "아주머니",
+        "value": 0.29772837706511174
+      },
+      {
+        "word": "남편",
+        "value": 0.2944667152575316
+      },
+      {
+        "word": "도리",
+        "value": 0.10693027210884354
+      },
+      {
+        "word": "노파",
+        "value": 0.10082098315516683
+      },
+      {
+        "word": "사람",
+        "value": 0.08458960965338516
+      }
+    ]
+  }
+}

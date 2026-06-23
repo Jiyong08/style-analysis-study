@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1980_우상(偶像)의 눈물_전상국_tagged.txt",
+    "author": "전상국",
+    "title": "우상(偶像)의 눈물",
+    "year": "1980",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 14886,
+    "unique_morphemes": 2160,
+    "shannon_entropy": 8.402085399464953
+  },
+  "readability_metrics": {
+    "total_word_count": 6341,
+    "long_word_count": 1484,
+    "average_sentence_length_words": 7.7613219094247246,
+    "long_word_ratio_pct": 23.403248698943383,
+    "lix_readability_score": 31.16457060836811
+  }
+}

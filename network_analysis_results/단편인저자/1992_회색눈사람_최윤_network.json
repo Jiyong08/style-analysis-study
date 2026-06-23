@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1992_회색눈사람_최윤_tagged.txt",
+    "author": "최윤",
+    "title": "회색눈사람",
+    "year": "1992",
+    "is_excluded_from_display": true
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 250,
+    "density": 0.20408163265306123,
+    "average_clustering": 0.3942437646632693,
+    "transitivity": 0.3380829015544041
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "사람",
+        "value": 0.7142857142857142
+      },
+      {
+        "word": "인쇄소",
+        "value": 0.44897959183673464
+      },
+      {
+        "word": "시간",
+        "value": 0.42857142857142855
+      },
+      {
+        "word": "김희",
+        "value": 0.3877551020408163
+      },
+      {
+        "word": "시작",
+        "value": 0.3469387755102041
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "사람",
+        "value": 0.557798665100961
+      },
+      {
+        "word": "인쇄소",
+        "value": 0.1868349125364431
+      },
+      {
+        "word": "시간",
+        "value": 0.0776406098153547
+      },
+      {
+        "word": "김희",
+        "value": 0.06437412266493898
+      },
+      {
+        "word": "소식",
+        "value": 0.04636749541086274
+      }
+    ]
+  }
+}

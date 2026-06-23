@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1960_광장_최인훈_tagged.txt",
+    "author": "최인훈",
+    "title": "광장",
+    "year": "1960",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 77179,
+    "unique_morphemes": 6261,
+    "shannon_entropy": 8.978836862279547
+  },
+  "readability_metrics": {
+    "total_word_count": 33817,
+    "long_word_count": 7461,
+    "average_sentence_length_words": 8.215986394557824,
+    "long_word_ratio_pct": 22.062867788390456,
+    "lix_readability_score": 30.27885418294828
+  }
+}

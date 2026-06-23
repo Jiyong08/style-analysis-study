@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1964_회색인_최인훈_tagged.txt",
+    "author": "최인훈",
+    "title": "회색인",
+    "year": "1964",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 150396,
+    "unique_morphemes": 9822,
+    "shannon_entropy": 9.08967929129191
+  },
+  "readability_metrics": {
+    "total_word_count": 64661,
+    "long_word_count": 14800,
+    "average_sentence_length_words": 7.219852612773559,
+    "long_word_ratio_pct": 22.8886036405252,
+    "lix_readability_score": 30.108456253298762
+  }
+}

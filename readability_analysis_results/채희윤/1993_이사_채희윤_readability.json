@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1993_이사_채희윤_tagged.txt",
+    "author": "채희윤",
+    "title": "이사",
+    "year": "1993",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 10549,
+    "unique_morphemes": 2288,
+    "shannon_entropy": 8.797119246680552
+  },
+  "readability_metrics": {
+    "total_word_count": 4397,
+    "long_word_count": 1303,
+    "average_sentence_length_words": 9.237394957983193,
+    "long_word_ratio_pct": 29.63384125540141,
+    "lix_readability_score": 38.871236213384606
+  }
+}

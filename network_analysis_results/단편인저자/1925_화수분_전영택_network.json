@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1925_화수분_전영택_tagged.txt",
+    "author": "전영택",
+    "title": "화수분",
+    "year": "1925",
+    "is_excluded_from_display": true
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 341,
+    "density": 0.2783673469387755,
+    "average_clustering": 0.6366219730071339,
+    "transitivity": 0.6436244745446054
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "어멈",
+        "value": 0.673469387755102
+      },
+      {
+        "word": "아범",
+        "value": 0.6326530612244897
+      },
+      {
+        "word": "계집애",
+        "value": 0.5714285714285714
+      },
+      {
+        "word": "화수분",
+        "value": 0.5510204081632653
+      },
+      {
+        "word": "혼자",
+        "value": 0.5510204081632653
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "어멈",
+        "value": 0.3309253860274269
+      },
+      {
+        "word": "아범",
+        "value": 0.23924657164453078
+      },
+      {
+        "word": "화수분",
+        "value": 0.11907123960695389
+      },
+      {
+        "word": "아내",
+        "value": 0.10165816326530612
+      },
+      {
+        "word": "사람",
+        "value": 0.09314666342727568
+      }
+    ]
+  }
+}

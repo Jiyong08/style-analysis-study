@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1997_7번국도_김연수_tagged.txt",
+    "author": "김연수",
+    "title": "7번국도",
+    "year": "1997",
+    "is_excluded_from_display": true
+  },
+  "entropy_metrics": {
+    "total_morphemes": 74976,
+    "unique_morphemes": 5794,
+    "shannon_entropy": 8.957789262415222
+  },
+  "readability_metrics": {
+    "total_word_count": 32080,
+    "long_word_count": 8563,
+    "average_sentence_length_words": 8.500264970853205,
+    "long_word_ratio_pct": 26.692643391521198,
+    "lix_readability_score": 35.1929083623744
+  }
+}

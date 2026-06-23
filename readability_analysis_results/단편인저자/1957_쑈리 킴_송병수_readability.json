@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1957_쑈리 킴_송병수_tagged.txt",
+    "author": "송병수",
+    "title": "쑈리 킴",
+    "year": "1957",
+    "is_excluded_from_display": true
+  },
+  "entropy_metrics": {
+    "total_morphemes": 9384,
+    "unique_morphemes": 1698,
+    "shannon_entropy": 8.724074954373139
+  },
+  "readability_metrics": {
+    "total_word_count": 4402,
+    "long_word_count": 864,
+    "average_sentence_length_words": 8.892929292929294,
+    "long_word_ratio_pct": 19.627442071785552,
+    "lix_readability_score": 28.520371364714848
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1999_홀로어멈_공선옥_tagged.txt",
+    "author": "공선옥",
+    "title": "홀로어멈",
+    "year": "1999",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 272,
+    "density": 0.2220408163265306,
+    "average_clustering": 0.596994503929738,
+    "transitivity": 0.4190237797246558
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "정옥",
+        "value": 0.8775510204081632
+      },
+      {
+        "word": "순아",
+        "value": 0.6122448979591836
+      },
+      {
+        "word": "사람",
+        "value": 0.5102040816326531
+      },
+      {
+        "word": "아이",
+        "value": 0.5102040816326531
+      },
+      {
+        "word": "남자",
+        "value": 0.3877551020408163
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "정옥",
+        "value": 0.8544501133786847
+      },
+      {
+        "word": "아이",
+        "value": 0.11522108843537414
+      },
+      {
+        "word": "사람",
+        "value": 0.11281179138321994
+      },
+      {
+        "word": "순아",
+        "value": 0.07936507936507936
+      },
+      {
+        "word": "생각",
+        "value": 0.06519274376417233
+      }
+    ]
+  }
+}

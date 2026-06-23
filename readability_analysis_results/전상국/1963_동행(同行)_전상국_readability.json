@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1963_동행(同行)_전상국_tagged.txt",
+    "author": "전상국",
+    "title": "동행(同行)",
+    "year": "1963",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 13689,
+    "unique_morphemes": 2396,
+    "shannon_entropy": 8.542047365290264
+  },
+  "readability_metrics": {
+    "total_word_count": 5990,
+    "long_word_count": 1473,
+    "average_sentence_length_words": 8.284923928077456,
+    "long_word_ratio_pct": 24.590984974958264,
+    "lix_readability_score": 32.87590890303572
+  }
+}

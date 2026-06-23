@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1936_김동리_바위_tagged.txt",
+    "author": "바위",
+    "title": "김동리",
+    "year": "1936",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 4298,
+    "unique_morphemes": 1015,
+    "shannon_entropy": 8.205538498625605
+  },
+  "readability_metrics": {
+    "total_word_count": 1928,
+    "long_word_count": 369,
+    "average_sentence_length_words": 10.094240837696335,
+    "long_word_ratio_pct": 19.139004149377595,
+    "lix_readability_score": 29.23324498707393
+  }
+}

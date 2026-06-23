@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1992_가깝고 먼 길_tagged.txt",
+    "author": "가깝고 먼 길",
+    "title": "1992",
+    "year": "unknown",
+    "is_excluded_from_display": true
+  },
+  "entropy_metrics": {
+    "total_morphemes": 14553,
+    "unique_morphemes": 2726,
+    "shannon_entropy": 8.806721169722804
+  },
+  "readability_metrics": {
+    "total_word_count": 6197,
+    "long_word_count": 1663,
+    "average_sentence_length_words": 8.955202312138729,
+    "long_word_ratio_pct": 26.835565596256252,
+    "lix_readability_score": 35.79076790839498
+  }
+}

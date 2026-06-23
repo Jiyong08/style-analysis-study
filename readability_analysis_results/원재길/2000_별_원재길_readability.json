@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "2000_별_원재길_tagged.txt",
+    "author": "원재길",
+    "title": "별",
+    "year": "2000",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 5271,
+    "unique_morphemes": 1224,
+    "shannon_entropy": 8.294660704337067
+  },
+  "readability_metrics": {
+    "total_word_count": 2358,
+    "long_word_count": 719,
+    "average_sentence_length_words": 9.17509727626459,
+    "long_word_ratio_pct": 30.491942324003393,
+    "lix_readability_score": 39.667039600267984
+  }
+}

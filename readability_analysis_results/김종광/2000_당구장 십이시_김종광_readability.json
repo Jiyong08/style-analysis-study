@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "2000_당구장 십이시_김종광_tagged.txt",
+    "author": "김종광",
+    "title": "당구장 십이시",
+    "year": "2000",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 15555,
+    "unique_morphemes": 2804,
+    "shannon_entropy": 8.919815916485252
+  },
+  "readability_metrics": {
+    "total_word_count": 6383,
+    "long_word_count": 1727,
+    "average_sentence_length_words": 7.616945107398568,
+    "long_word_ratio_pct": 27.05624314585618,
+    "lix_readability_score": 34.67318825325475
+  }
+}

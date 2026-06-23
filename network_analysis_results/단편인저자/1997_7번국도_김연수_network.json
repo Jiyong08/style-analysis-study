@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1997_7번국도_김연수_tagged.txt",
+    "author": "김연수",
+    "title": "7번국도",
+    "year": "1997",
+    "is_excluded_from_display": true
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 627,
+    "density": 0.5118367346938776,
+    "average_clustering": 0.639818527565642,
+    "transitivity": 0.6116383169203223
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "사람",
+        "value": 0.8775510204081632
+      },
+      {
+        "word": "국도",
+        "value": 0.8571428571428571
+      },
+      {
+        "word": "재현",
+        "value": 0.836734693877551
+      },
+      {
+        "word": "세희",
+        "value": 0.7959183673469387
+      },
+      {
+        "word": "희망",
+        "value": 0.7346938775510203
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "재현",
+        "value": 0.4877409297052153
+      },
+      {
+        "word": "국도",
+        "value": 0.36989795918367346
+      },
+      {
+        "word": "세희",
+        "value": 0.20790816326530612
+      },
+      {
+        "word": "사람",
+        "value": 0.1687216553287982
+      },
+      {
+        "word": "서연",
+        "value": 0.05357142857142857
+      }
+    ]
+  }
+}

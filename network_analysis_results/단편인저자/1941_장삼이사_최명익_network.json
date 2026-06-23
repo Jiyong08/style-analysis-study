@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1941_장삼이사_최명익_tagged.txt",
+    "author": "최명익",
+    "title": "장삼이사",
+    "year": "1941",
+    "is_excluded_from_display": true
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 288,
+    "density": 0.23510204081632652,
+    "average_clustering": 0.5312430158439042,
+    "transitivity": 0.39646643109540636
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "사람",
+        "value": 0.7551020408163265
+      },
+      {
+        "word": "여인",
+        "value": 0.7551020408163265
+      },
+      {
+        "word": "젊은이",
+        "value": 0.4897959183673469
+      },
+      {
+        "word": "신사",
+        "value": 0.4897959183673469
+      },
+      {
+        "word": "바지",
+        "value": 0.4081632653061224
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "여인",
+        "value": 0.40121409674981107
+      },
+      {
+        "word": "사람",
+        "value": 0.2702144746787604
+      },
+      {
+        "word": "신사",
+        "value": 0.1686980347694633
+      },
+      {
+        "word": "젊은이",
+        "value": 0.1439460506424792
+      },
+      {
+        "word": "자리",
+        "value": 0.06230394935752079
+      }
+    ]
+  }
+}

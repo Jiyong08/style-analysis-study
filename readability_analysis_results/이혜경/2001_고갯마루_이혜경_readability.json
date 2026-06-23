@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "2001_고갯마루_이혜경_tagged.txt",
+    "author": "이혜경",
+    "title": "고갯마루",
+    "year": "2001",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 10735,
+    "unique_morphemes": 2156,
+    "shannon_entropy": 8.699170009683476
+  },
+  "readability_metrics": {
+    "total_word_count": 4542,
+    "long_word_count": 1313,
+    "average_sentence_length_words": 8.602272727272727,
+    "long_word_ratio_pct": 28.907970057243507,
+    "lix_readability_score": 37.51024278451624
+  }
+}

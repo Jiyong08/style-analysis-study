@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1973_어둠의 혼_김원일_tagged.txt",
+    "author": "김원일",
+    "title": "어둠의 혼",
+    "year": "1973",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 209,
+    "density": 0.17061224489795918,
+    "average_clustering": 0.437969513166572,
+    "transitivity": 0.3432953204876131
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "아버지",
+        "value": 0.673469387755102
+      },
+      {
+        "word": "어머니",
+        "value": 0.5102040816326531
+      },
+      {
+        "word": "사람",
+        "value": 0.5102040816326531
+      },
+      {
+        "word": "지서",
+        "value": 0.3469387755102041
+      },
+      {
+        "word": "이모부",
+        "value": 0.32653061224489793
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "아버지",
+        "value": 0.7106717687074829
+      },
+      {
+        "word": "어머니",
+        "value": 0.5170068027210885
+      },
+      {
+        "word": "소리",
+        "value": 0.10799319727891156
+      },
+      {
+        "word": "사람",
+        "value": 0.0663265306122449
+      },
+      {
+        "word": "이모",
+        "value": 0.06207482993197279
+      }
+    ]
+  }
+}

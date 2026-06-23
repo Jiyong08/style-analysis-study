@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1990_고교교육헌장-벽·2_김춘복_tagged.txt",
+    "author": "김춘복",
+    "title": "고교교육헌장-벽·2",
+    "year": "1990",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 16593,
+    "unique_morphemes": 2838,
+    "shannon_entropy": 8.97016285075122
+  },
+  "readability_metrics": {
+    "total_word_count": 6839,
+    "long_word_count": 2046,
+    "average_sentence_length_words": 9.330150068212824,
+    "long_word_ratio_pct": 29.916654481649363,
+    "lix_readability_score": 39.24680454986219
+  }
+}

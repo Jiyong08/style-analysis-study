@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "2000_관가행차_공선옥_tagged.txt",
+    "author": "공선옥",
+    "title": "관가행차",
+    "year": "2000",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 12378,
+    "unique_morphemes": 2136,
+    "shannon_entropy": 8.635198501446208
+  },
+  "readability_metrics": {
+    "total_word_count": 5250,
+    "long_word_count": 1412,
+    "average_sentence_length_words": 8.592471358428805,
+    "long_word_ratio_pct": 26.895238095238096,
+    "lix_readability_score": 35.4877094536669
+  }
+}

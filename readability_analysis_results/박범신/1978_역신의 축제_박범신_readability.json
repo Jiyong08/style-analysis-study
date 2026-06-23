@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1978_역신의 축제_박범신_tagged.txt",
+    "author": "박범신",
+    "title": "역신의 축제",
+    "year": "1978",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 14345,
+    "unique_morphemes": 2087,
+    "shannon_entropy": 8.400184707430782
+  },
+  "readability_metrics": {
+    "total_word_count": 5637,
+    "long_word_count": 1593,
+    "average_sentence_length_words": 5.229128014842301,
+    "long_word_ratio_pct": 28.25971261309207,
+    "lix_readability_score": 33.48884062793437
+  }
+}

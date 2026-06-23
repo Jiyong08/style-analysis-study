@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1972_아우를 위하여_황석영_tagged.txt",
+    "author": "황석영",
+    "title": "아우를 위하여",
+    "year": "1972",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 9730,
+    "unique_morphemes": 1904,
+    "shannon_entropy": 8.602949001356247
+  },
+  "readability_metrics": {
+    "total_word_count": 4010,
+    "long_word_count": 1151,
+    "average_sentence_length_words": 8.852097130242825,
+    "long_word_ratio_pct": 28.703241895261847,
+    "lix_readability_score": 37.55533902550467
+  }
+}

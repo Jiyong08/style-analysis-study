@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "2000_전당포를 찾아서_김종광_tagged.txt",
+    "author": "김종광",
+    "title": "전당포를 찾아서",
+    "year": "2000",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 160,
+    "density": 0.1306122448979592,
+    "average_clustering": 0.3040849150849151,
+    "transitivity": 0.3076923076923077
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "투쟁",
+        "value": 0.32653061224489793
+      },
+      {
+        "word": "서울",
+        "value": 0.2857142857142857
+      },
+      {
+        "word": "학우",
+        "value": 0.26530612244897955
+      },
+      {
+        "word": "학생",
+        "value": 0.24489795918367346
+      },
+      {
+        "word": "캠퍼스",
+        "value": 0.24489795918367346
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "선배",
+        "value": 0.20060941043083902
+      },
+      {
+        "word": "투쟁",
+        "value": 0.17664399092970523
+      },
+      {
+        "word": "버스",
+        "value": 0.14171120829284095
+      },
+      {
+        "word": "학생",
+        "value": 0.13963496112730803
+      },
+      {
+        "word": "무현",
+        "value": 0.12797619047619044
+      }
+    ]
+  }
+}

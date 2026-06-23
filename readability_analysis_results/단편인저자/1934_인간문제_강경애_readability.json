@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1934_인간문제_강경애_tagged.txt",
+    "author": "강경애",
+    "title": "인간문제",
+    "year": "1934",
+    "is_excluded_from_display": true
+  },
+  "entropy_metrics": {
+    "total_morphemes": 131294,
+    "unique_morphemes": 6402,
+    "shannon_entropy": 8.87577176465134
+  },
+  "readability_metrics": {
+    "total_word_count": 58167,
+    "long_word_count": 13492,
+    "average_sentence_length_words": 7.3629113924050635,
+    "long_word_ratio_pct": 23.195282548524077,
+    "lix_readability_score": 30.55819394092914
+  }
+}

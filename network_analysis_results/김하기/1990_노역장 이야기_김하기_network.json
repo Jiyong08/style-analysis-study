@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1990_노역장 이야기_김하기_tagged.txt",
+    "author": "김하기",
+    "title": "노역장 이야기",
+    "year": "1990",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 491,
+    "density": 0.4008163265306122,
+    "average_clustering": 0.6110353547830634,
+    "transitivity": 0.5347579118203949
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "공장",
+        "value": 0.8979591836734693
+      },
+      {
+        "word": "짝귀",
+        "value": 0.8571428571428571
+      },
+      {
+        "word": "영배",
+        "value": 0.836734693877551
+      },
+      {
+        "word": "영감",
+        "value": 0.7959183673469387
+      },
+      {
+        "word": "인쇄",
+        "value": 0.6530612244897959
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "짝귀",
+        "value": 0.5273526077097505
+      },
+      {
+        "word": "영배",
+        "value": 0.40454931972789115
+      },
+      {
+        "word": "영감",
+        "value": 0.384141156462585
+      },
+      {
+        "word": "공장",
+        "value": 0.23866213151927437
+      },
+      {
+        "word": "인쇄",
+        "value": 0.08623866213151928
+      }
+    ]
+  }
+}

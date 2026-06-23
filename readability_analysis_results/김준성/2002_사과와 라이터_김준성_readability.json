@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "2002_사과와 라이터_김준성_tagged.txt",
+    "author": "김준성",
+    "title": "사과와 라이터",
+    "year": "2002",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 10627,
+    "unique_morphemes": 1534,
+    "shannon_entropy": 8.016554417018822
+  },
+  "readability_metrics": {
+    "total_word_count": 4478,
+    "long_word_count": 1121,
+    "average_sentence_length_words": 6.733834586466165,
+    "long_word_ratio_pct": 25.033497096918268,
+    "lix_readability_score": 31.767331683384434
+  }
+}

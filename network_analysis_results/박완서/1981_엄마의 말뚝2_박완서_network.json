@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1981_엄마의 말뚝2_박완서_tagged.txt",
+    "author": "박완서",
+    "title": "엄마의 말뚝2",
+    "year": "1981",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 409,
+    "density": 0.33387755102040817,
+    "average_clustering": 0.5950123539057212,
+    "transitivity": 0.523023885742428
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "엄마",
+        "value": 0.9795918367346939
+      },
+      {
+        "word": "오빠",
+        "value": 0.6530612244897959
+      },
+      {
+        "word": "사람",
+        "value": 0.6326530612244897
+      },
+      {
+        "word": "아이",
+        "value": 0.5918367346938775
+      },
+      {
+        "word": "생각",
+        "value": 0.5918367346938775
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "엄마",
+        "value": 0.9243197278911565
+      },
+      {
+        "word": "여성",
+        "value": 0.09715136054421768
+      },
+      {
+        "word": "대처",
+        "value": 0.08078231292517006
+      },
+      {
+        "word": "아이",
+        "value": 0.046768707482993194
+      },
+      {
+        "word": "할머니",
+        "value": 0.04081632653061224
+      }
+    ]
+  }
+}

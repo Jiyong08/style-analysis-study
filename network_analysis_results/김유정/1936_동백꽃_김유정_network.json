@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1936_동백꽃_김유정_tagged.txt",
+    "author": "김유정",
+    "title": "동백꽃",
+    "year": "1936",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 100,
+    "density": 0.08163265306122448,
+    "average_clustering": 0.39916708437761067,
+    "transitivity": 0.2704507512520868
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "점수",
+        "value": 0.3877551020408163
+      },
+      {
+        "word": "계집애",
+        "value": 0.3061224489795918
+      },
+      {
+        "word": "수탉",
+        "value": 0.18367346938775508
+      },
+      {
+        "word": "울타리",
+        "value": 0.18367346938775508
+      },
+      {
+        "word": "소리",
+        "value": 0.16326530612244897
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "점수",
+        "value": 0.40816326530612246
+      },
+      {
+        "word": "수탉",
+        "value": 0.24625850340136055
+      },
+      {
+        "word": "계집애",
+        "value": 0.17345521541950115
+      },
+      {
+        "word": "울타리",
+        "value": 0.15667517006802717
+      },
+      {
+        "word": "소리",
+        "value": 0.10267857142857141
+      }
+    ]
+  }
+}

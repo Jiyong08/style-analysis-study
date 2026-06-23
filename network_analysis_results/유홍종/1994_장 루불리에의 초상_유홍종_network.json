@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1994_장 루불리에의 초상_유홍종_tagged.txt",
+    "author": "유홍종",
+    "title": "장 루불리에의 초상",
+    "year": "1994",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 600,
+    "density": 0.4897959183673469,
+    "average_clustering": 0.6267064605569671,
+    "transitivity": 0.5897435897435898
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "동현",
+        "value": 0.836734693877551
+      },
+      {
+        "word": "남자",
+        "value": 0.8163265306122448
+      },
+      {
+        "word": "생각",
+        "value": 0.7959183673469387
+      },
+      {
+        "word": "한국",
+        "value": 0.7755102040816326
+      },
+      {
+        "word": "어머니",
+        "value": 0.7551020408163265
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "혜린",
+        "value": 0.3698979591836734
+      },
+      {
+        "word": "동현",
+        "value": 0.3436791383219955
+      },
+      {
+        "word": "어머니",
+        "value": 0.13251133786848074
+      },
+      {
+        "word": "한국",
+        "value": 0.11011904761904762
+      },
+      {
+        "word": "남자",
+        "value": 0.07171201814058956
+      }
+    ]
+  }
+}

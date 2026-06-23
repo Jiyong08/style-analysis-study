@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1991_고도를 기다리며_김영현_tagged.txt",
+    "author": "김영현",
+    "title": "고도를 기다리며",
+    "year": "1991",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 335,
+    "density": 0.27346938775510204,
+    "average_clustering": 0.5493078897734452,
+    "transitivity": 0.4401686874011597
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "은기",
+        "value": 0.8979591836734693
+      },
+      {
+        "word": "소리",
+        "value": 0.5714285714285714
+      },
+      {
+        "word": "병장",
+        "value": 0.5714285714285714
+      },
+      {
+        "word": "환자",
+        "value": 0.5510204081632653
+      },
+      {
+        "word": "사람",
+        "value": 0.5102040816326531
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "은기",
+        "value": 0.5184807256235827
+      },
+      {
+        "word": "소리",
+        "value": 0.23283730158730157
+      },
+      {
+        "word": "환자",
+        "value": 0.19957482993197279
+      },
+      {
+        "word": "병장",
+        "value": 0.09325396825396824
+      },
+      {
+        "word": "장교",
+        "value": 0.0748157596371882
+      }
+    ]
+  }
+}

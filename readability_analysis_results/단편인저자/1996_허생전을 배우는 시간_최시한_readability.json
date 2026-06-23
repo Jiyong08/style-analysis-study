@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1996_허생전을 배우는 시간_최시한_tagged.txt",
+    "author": "최시한",
+    "title": "허생전을 배우는 시간",
+    "year": "1996",
+    "is_excluded_from_display": true
+  },
+  "entropy_metrics": {
+    "total_morphemes": 13489,
+    "unique_morphemes": 1871,
+    "shannon_entropy": 8.444986520802074
+  },
+  "readability_metrics": {
+    "total_word_count": 5889,
+    "long_word_count": 1330,
+    "average_sentence_length_words": 7.769129287598944,
+    "long_word_ratio_pct": 22.584479538121922,
+    "lix_readability_score": 30.353608825720865
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1936_사하촌_김정한_tagged.txt",
+    "author": "김정한",
+    "title": "사하촌",
+    "year": "1936",
+    "is_excluded_from_display": true
+  },
+  "entropy_metrics": {
+    "total_morphemes": 16924,
+    "unique_morphemes": 3006,
+    "shannon_entropy": 9.124194980784806
+  },
+  "readability_metrics": {
+    "total_word_count": 7552,
+    "long_word_count": 1687,
+    "average_sentence_length_words": 9.910761154855644,
+    "long_word_ratio_pct": 22.33845338983051,
+    "lix_readability_score": 32.249214544686154
+  }
+}

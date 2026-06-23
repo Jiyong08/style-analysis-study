@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1958_후조_오영수_tagged.txt",
+    "author": "오영수",
+    "title": "후조",
+    "year": "1958",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 6322,
+    "unique_morphemes": 1266,
+    "shannon_entropy": 8.392029076417444
+  },
+  "readability_metrics": {
+    "total_word_count": 2723,
+    "long_word_count": 590,
+    "average_sentence_length_words": 6.625304136253042,
+    "long_word_ratio_pct": 21.66727873668748,
+    "lix_readability_score": 28.29258287294052
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1992_오동의 숨은 소리여_박완서_tagged.txt",
+    "author": "박완서",
+    "title": "오동의 숨은 소리여",
+    "year": "1992",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 195,
+    "density": 0.15918367346938775,
+    "average_clustering": 0.5431121648332174,
+    "transitivity": 0.36415478615071284
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "노인",
+        "value": 0.673469387755102
+      },
+      {
+        "word": "생각",
+        "value": 0.5714285714285714
+      },
+      {
+        "word": "아이",
+        "value": 0.5102040816326531
+      },
+      {
+        "word": "사람",
+        "value": 0.4081632653061224
+      },
+      {
+        "word": "아줌마",
+        "value": 0.3877551020408163
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "노인",
+        "value": 0.5097151360544218
+      },
+      {
+        "word": "아이",
+        "value": 0.39019982993197283
+      },
+      {
+        "word": "생각",
+        "value": 0.12084041950113375
+      },
+      {
+        "word": "아들",
+        "value": 0.08998015873015872
+      },
+      {
+        "word": "아줌마",
+        "value": 0.08986678004535148
+      }
+    ]
+  }
+}

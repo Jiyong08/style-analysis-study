@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1989_멀고 먼 해후_김영현_tagged.txt",
+    "author": "김영현",
+    "title": "멀고 먼 해후",
+    "year": "1989",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 290,
+    "density": 0.23673469387755103,
+    "average_clustering": 0.5539556300044874,
+    "transitivity": 0.38970427163198246
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "만기",
+        "value": 0.7551020408163265
+      },
+      {
+        "word": "기호",
+        "value": 0.7142857142857142
+      },
+      {
+        "word": "사람",
+        "value": 0.6326530612244897
+      },
+      {
+        "word": "생각",
+        "value": 0.6326530612244897
+      },
+      {
+        "word": "소리",
+        "value": 0.5102040816326531
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "만기",
+        "value": 0.7009637188208616
+      },
+      {
+        "word": "생각",
+        "value": 0.28160430839002265
+      },
+      {
+        "word": "기호",
+        "value": 0.24957482993197277
+      },
+      {
+        "word": "사람",
+        "value": 0.06164965986394558
+      },
+      {
+        "word": "모습",
+        "value": 0.04733560090702948
+      }
+    ]
+  }
+}

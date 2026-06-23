@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1999_그해 가장 길었던 하루-들길1_박범신_tagged.txt",
+    "author": "박범신",
+    "title": "그해 가장 길었던 하루-들길1",
+    "year": "1999",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 16515,
+    "unique_morphemes": 2783,
+    "shannon_entropy": 8.944315579034027
+  },
+  "readability_metrics": {
+    "total_word_count": 6790,
+    "long_word_count": 2088,
+    "average_sentence_length_words": 9.56338028169014,
+    "long_word_ratio_pct": 30.751104565537556,
+    "lix_readability_score": 40.314484847227696
+  }
+}

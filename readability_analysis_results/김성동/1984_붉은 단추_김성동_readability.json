@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1984_붉은 단추_김성동_tagged.txt",
+    "author": "김성동",
+    "title": "붉은 단추",
+    "year": "1984",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 11758,
+    "unique_morphemes": 1928,
+    "shannon_entropy": 8.64245365178578
+  },
+  "readability_metrics": {
+    "total_word_count": 4837,
+    "long_word_count": 1474,
+    "average_sentence_length_words": 6.969740634005763,
+    "long_word_ratio_pct": 30.473433946661153,
+    "lix_readability_score": 37.44317458066692
+  }
+}

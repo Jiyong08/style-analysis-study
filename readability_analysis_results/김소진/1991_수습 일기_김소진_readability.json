@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1991_수습 일기_김소진_tagged.txt",
+    "author": "김소진",
+    "title": "수습 일기",
+    "year": "1991",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 7365,
+    "unique_morphemes": 2074,
+    "shannon_entropy": 8.958557950753566
+  },
+  "readability_metrics": {
+    "total_word_count": 3237,
+    "long_word_count": 846,
+    "average_sentence_length_words": 8.586206896551724,
+    "long_word_ratio_pct": 26.13531047265987,
+    "lix_readability_score": 34.7215173692116
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1974_고압선(高壓線)_조선작_tagged.txt",
+    "author": "조선작",
+    "title": "고압선(高壓線)",
+    "year": "1974",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 10861,
+    "unique_morphemes": 1869,
+    "shannon_entropy": 8.494672454424858
+  },
+  "readability_metrics": {
+    "total_word_count": 4855,
+    "long_word_count": 1200,
+    "average_sentence_length_words": 10.440860215053764,
+    "long_word_ratio_pct": 24.716786817713697,
+    "lix_readability_score": 35.15764703276746
+  }
+}

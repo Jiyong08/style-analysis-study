@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1979_연_김원일_tagged.txt",
+    "author": "김원일",
+    "title": "연",
+    "year": "1979",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 11232,
+    "unique_morphemes": 2211,
+    "shannon_entropy": 8.774962319022196
+  },
+  "readability_metrics": {
+    "total_word_count": 4987,
+    "long_word_count": 1169,
+    "average_sentence_length_words": 9.974,
+    "long_word_ratio_pct": 23.440946460798074,
+    "lix_readability_score": 33.41494646079808
+  }
+}

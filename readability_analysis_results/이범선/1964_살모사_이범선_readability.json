@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1964_살모사_이범선_tagged.txt",
+    "author": "이범선",
+    "title": "살모사",
+    "year": "1964",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 9729,
+    "unique_morphemes": 1701,
+    "shannon_entropy": 8.361352698320879
+  },
+  "readability_metrics": {
+    "total_word_count": 4358,
+    "long_word_count": 1038,
+    "average_sentence_length_words": 8.445736434108527,
+    "long_word_ratio_pct": 23.818265259293256,
+    "lix_readability_score": 32.26400169340178
+  }
+}

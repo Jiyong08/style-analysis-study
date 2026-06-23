@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1925_탈출기_최서해_tagged.txt",
+    "author": "최서해",
+    "title": "탈출기",
+    "year": "1925",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 116,
+    "density": 0.0946938775510204,
+    "average_clustering": 0.41535425685425686,
+    "transitivity": 0.36153846153846153
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "아내",
+        "value": 0.32653061224489793
+      },
+      {
+        "word": "어머니",
+        "value": 0.3061224489795918
+      },
+      {
+        "word": "이때",
+        "value": 0.3061224489795918
+      },
+      {
+        "word": "생각",
+        "value": 0.24489795918367346
+      },
+      {
+        "word": "사람",
+        "value": 0.2040816326530612
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "아내",
+        "value": 0.3794096209912536
+      },
+      {
+        "word": "어머니",
+        "value": 0.2559301101392938
+      },
+      {
+        "word": "생각",
+        "value": 0.1833191609977323
+      },
+      {
+        "word": "이때",
+        "value": 0.1222424684159378
+      },
+      {
+        "word": "사람",
+        "value": 0.11101190476190474
+      }
+    ]
+  }
+}

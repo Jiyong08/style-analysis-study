@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1950_머루_오영수_tagged.txt",
+    "author": "오영수",
+    "title": "머루",
+    "year": "1950",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 307,
+    "density": 0.2506122448979592,
+    "average_clustering": 0.6544448837918919,
+    "transitivity": 0.4685181662545178
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "석이",
+        "value": 0.9387755102040816
+      },
+      {
+        "word": "엄마",
+        "value": 0.7551020408163265
+      },
+      {
+        "word": "분이",
+        "value": 0.6326530612244897
+      },
+      {
+        "word": "연이",
+        "value": 0.5918367346938775
+      },
+      {
+        "word": "어메",
+        "value": 0.4081632653061224
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "석이",
+        "value": 0.8680413832199548
+      },
+      {
+        "word": "분이",
+        "value": 0.15358560090702947
+      },
+      {
+        "word": "연이",
+        "value": 0.04785997732426304
+      },
+      {
+        "word": "새끼",
+        "value": 0.03996598639455782
+      },
+      {
+        "word": "사람",
+        "value": 0.03826530612244898
+      }
+    ]
+  }
+}

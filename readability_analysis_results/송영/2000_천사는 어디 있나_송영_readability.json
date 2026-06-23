@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "2000_천사는 어디 있나_송영_tagged.txt",
+    "author": "송영",
+    "title": "천사는 어디 있나",
+    "year": "2000",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 6766,
+    "unique_morphemes": 1251,
+    "shannon_entropy": 8.234123385334945
+  },
+  "readability_metrics": {
+    "total_word_count": 2933,
+    "long_word_count": 747,
+    "average_sentence_length_words": 8.452449567723344,
+    "long_word_ratio_pct": 25.468803273099216,
+    "lix_readability_score": 33.92125284082256
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1923_할머니의 죽음_현진건_tagged.txt",
+    "author": "현진건",
+    "title": "할머니의 죽음",
+    "year": "1923",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 125,
+    "density": 0.10204081632653061,
+    "average_clustering": 0.5949380617801671,
+    "transitivity": 0.27696289905090593
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "할머니",
+        "value": 0.7755102040816326
+      },
+      {
+        "word": "자손",
+        "value": 0.22448979591836732
+      },
+      {
+        "word": "아버지",
+        "value": 0.2040816326530612
+      },
+      {
+        "word": "염불",
+        "value": 0.14285714285714285
+      },
+      {
+        "word": "소리",
+        "value": 0.14285714285714285
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "할머니",
+        "value": 0.8336167800453516
+      },
+      {
+        "word": "소리",
+        "value": 0.09268707482993196
+      },
+      {
+        "word": "모양",
+        "value": 0.0782312925170068
+      },
+      {
+        "word": "단추",
+        "value": 0.07270408163265306
+      },
+      {
+        "word": "자리",
+        "value": 0.03996598639455782
+      }
+    ]
+  }
+}

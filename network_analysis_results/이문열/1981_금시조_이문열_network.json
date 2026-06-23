@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1981_금시조_이문열_tagged.txt",
+    "author": "이문열",
+    "title": "금시조",
+    "year": "1981",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 346,
+    "density": 0.28244897959183674,
+    "average_clustering": 0.4924668961442222,
+    "transitivity": 0.4170573386224306
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "선생",
+        "value": 0.7346938775510203
+      },
+      {
+        "word": "스승",
+        "value": 0.6326530612244897
+      },
+      {
+        "word": "서화",
+        "value": 0.5102040816326531
+      },
+      {
+        "word": "사람",
+        "value": 0.4897959183673469
+      },
+      {
+        "word": "자신",
+        "value": 0.4897959183673469
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "선생",
+        "value": 0.6758078231292516
+      },
+      {
+        "word": "스승",
+        "value": 0.18339002267573698
+      },
+      {
+        "word": "글씨",
+        "value": 0.10189909297052155
+      },
+      {
+        "word": "사람",
+        "value": 0.08489229024943308
+      },
+      {
+        "word": "서화",
+        "value": 0.07482993197278912
+      }
+    ]
+  }
+}

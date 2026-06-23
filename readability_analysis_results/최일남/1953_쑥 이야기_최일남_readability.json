@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1953_쑥 이야기_최일남_tagged.txt",
+    "author": "최일남",
+    "title": "쑥 이야기",
+    "year": "1953",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 4198,
+    "unique_morphemes": 1185,
+    "shannon_entropy": 8.372109278673262
+  },
+  "readability_metrics": {
+    "total_word_count": 1814,
+    "long_word_count": 467,
+    "average_sentence_length_words": 6.455516014234876,
+    "long_word_ratio_pct": 25.744211686879822,
+    "lix_readability_score": 32.199727701114696
+  }
+}

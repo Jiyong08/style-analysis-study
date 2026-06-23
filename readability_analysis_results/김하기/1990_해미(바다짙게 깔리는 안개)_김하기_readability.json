@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1990_해미(바다짙게 깔리는 안개)_김하기_tagged.txt",
+    "author": "김하기",
+    "title": "해미(바다짙게 깔리는 안개)",
+    "year": "1990",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 17295,
+    "unique_morphemes": 3053,
+    "shannon_entropy": 8.921769082491837
+  },
+  "readability_metrics": {
+    "total_word_count": 7416,
+    "long_word_count": 2169,
+    "average_sentence_length_words": 8.379661016949152,
+    "long_word_ratio_pct": 29.24757281553398,
+    "lix_readability_score": 37.627233832483135
+  }
+}

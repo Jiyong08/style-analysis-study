@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1993_경마장에서 생긴 일_하일지_tagged.txt",
+    "author": "하일지",
+    "title": "경마장에서 생긴 일",
+    "year": "1993",
+    "is_excluded_from_display": true
+  },
+  "entropy_metrics": {
+    "total_morphemes": 84376,
+    "unique_morphemes": 3736,
+    "shannon_entropy": 8.423086620554736
+  },
+  "readability_metrics": {
+    "total_word_count": 37356,
+    "long_word_count": 8725,
+    "average_sentence_length_words": 8.550240329594873,
+    "long_word_ratio_pct": 23.35635507013599,
+    "lix_readability_score": 31.90659539973086
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1998_경찰서여, 안녕_김종광_tagged.txt",
+    "author": "김종광",
+    "title": "경찰서여, 안녕",
+    "year": "1998",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 11066,
+    "unique_morphemes": 1955,
+    "shannon_entropy": 8.491848065055045
+  },
+  "readability_metrics": {
+    "total_word_count": 4596,
+    "long_word_count": 1244,
+    "average_sentence_length_words": 6.984802431610942,
+    "long_word_ratio_pct": 27.067014795474325,
+    "lix_readability_score": 34.051817227085266
+  }
+}

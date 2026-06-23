@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1990_먼길_최성수_tagged.txt",
+    "author": "최성수",
+    "title": "먼길",
+    "year": "1990",
+    "is_excluded_from_display": true
+  },
+  "entropy_metrics": {
+    "total_morphemes": 10050,
+    "unique_morphemes": 1863,
+    "shannon_entropy": 8.691919896411811
+  },
+  "readability_metrics": {
+    "total_word_count": 4411,
+    "long_word_count": 1207,
+    "average_sentence_length_words": 9.868008948545862,
+    "long_word_ratio_pct": 27.363409657673998,
+    "lix_readability_score": 37.23141860621986
+  }
+}

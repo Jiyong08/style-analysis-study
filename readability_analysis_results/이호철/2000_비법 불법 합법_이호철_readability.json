@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "2000_비법 불법 합법_이호철_tagged.txt",
+    "author": "이호철",
+    "title": "비법 불법 합법",
+    "year": "2000",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 14968,
+    "unique_morphemes": 2657,
+    "shannon_entropy": 9.033120342049715
+  },
+  "readability_metrics": {
+    "total_word_count": 6478,
+    "long_word_count": 2075,
+    "average_sentence_length_words": 12.131086142322097,
+    "long_word_ratio_pct": 32.03149120098796,
+    "lix_readability_score": 44.162577343310055
+  }
+}

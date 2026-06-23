@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "2000_소음_박범신_tagged.txt",
+    "author": "박범신",
+    "title": "소음",
+    "year": "2000",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 12321,
+    "unique_morphemes": 1909,
+    "shannon_entropy": 8.627842941410035
+  },
+  "readability_metrics": {
+    "total_word_count": 5330,
+    "long_word_count": 1410,
+    "average_sentence_length_words": 5.9222222222222225,
+    "long_word_ratio_pct": 26.454033771106943,
+    "lix_readability_score": 32.37625599332917
+  }
+}

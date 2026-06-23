@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1996_나비, 봄을 만나다_차현숙_tagged.txt",
+    "author": "차현숙",
+    "title": "나비, 봄을 만나다",
+    "year": "1996",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 345,
+    "density": 0.2816326530612245,
+    "average_clustering": 0.5815869739924395,
+    "transitivity": 0.4764292878635908
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "자신",
+        "value": 0.7755102040816326
+      },
+      {
+        "word": "아이",
+        "value": 0.6122448979591836
+      },
+      {
+        "word": "아버지",
+        "value": 0.6122448979591836
+      },
+      {
+        "word": "남편",
+        "value": 0.5714285714285714
+      },
+      {
+        "word": "어머니",
+        "value": 0.5510204081632653
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "아이",
+        "value": 0.3367276077097506
+      },
+      {
+        "word": "자신",
+        "value": 0.2047244493035309
+      },
+      {
+        "word": "어머니",
+        "value": 0.15438633786848072
+      },
+      {
+        "word": "남편",
+        "value": 0.15319282474894722
+      },
+      {
+        "word": "아버지",
+        "value": 0.13959041950113377
+      }
+    ]
+  }
+}

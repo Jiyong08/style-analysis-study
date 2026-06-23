@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1993_아름다운 얼굴_송기원_tagged.txt",
+    "author": "송기원",
+    "title": "아름다운 얼굴",
+    "year": "1993",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 17524,
+    "unique_morphemes": 2608,
+    "shannon_entropy": 8.719390528383348
+  },
+  "readability_metrics": {
+    "total_word_count": 7762,
+    "long_word_count": 1983,
+    "average_sentence_length_words": 10.404825737265416,
+    "long_word_ratio_pct": 25.547539293996394,
+    "lix_readability_score": 35.952365031261806
+  }
+}

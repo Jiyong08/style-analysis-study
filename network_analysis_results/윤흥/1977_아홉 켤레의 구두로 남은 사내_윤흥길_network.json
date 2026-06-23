@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1977_아홉 켤레의 구두로 남은 사내_윤흥길_tagged.txt",
+    "author": "윤흥길",
+    "title": "아홉 켤레의 구두로 남은 사내",
+    "year": "1977",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 311,
+    "density": 0.25387755102040815,
+    "average_clustering": 0.4638849883142804,
+    "transitivity": 0.38696719482258424
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "아내",
+        "value": 0.6530612244897959
+      },
+      {
+        "word": "사람",
+        "value": 0.5918367346938775
+      },
+      {
+        "word": "선생",
+        "value": 0.5510204081632653
+      },
+      {
+        "word": "문간방",
+        "value": 0.4897959183673469
+      },
+      {
+        "word": "소리",
+        "value": 0.3877551020408163
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "아내",
+        "value": 0.34655207321023646
+      },
+      {
+        "word": "선생",
+        "value": 0.2007298752834467
+      },
+      {
+        "word": "사람",
+        "value": 0.18211451247165533
+      },
+      {
+        "word": "부인",
+        "value": 0.13072562358276643
+      },
+      {
+        "word": "문간방",
+        "value": 0.047776967930029154
+      }
+    ]
+  }
+}

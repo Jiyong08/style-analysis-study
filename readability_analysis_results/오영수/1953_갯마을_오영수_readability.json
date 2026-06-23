@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1953_갯마을_오영수_tagged.txt",
+    "author": "오영수",
+    "title": "갯마을",
+    "year": "1953",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 7318,
+    "unique_morphemes": 1481,
+    "shannon_entropy": 8.444617507409413
+  },
+  "readability_metrics": {
+    "total_word_count": 2962,
+    "long_word_count": 801,
+    "average_sentence_length_words": 6.467248908296943,
+    "long_word_ratio_pct": 27.042538825118164,
+    "lix_readability_score": 33.50978773341511
+  }
+}

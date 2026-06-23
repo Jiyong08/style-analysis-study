@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "2002_펭귄의 날개_오정은_tagged.txt",
+    "author": "오정은",
+    "title": "펭귄의 날개",
+    "year": "2002",
+    "is_excluded_from_display": true
+  },
+  "entropy_metrics": {
+    "total_morphemes": 148916,
+    "unique_morphemes": 8514,
+    "shannon_entropy": 8.993741695627195
+  },
+  "readability_metrics": {
+    "total_word_count": 65752,
+    "long_word_count": 15698,
+    "average_sentence_length_words": 8.495090439276487,
+    "long_word_ratio_pct": 23.874558948777224,
+    "lix_readability_score": 32.36964938805371
+  }
+}

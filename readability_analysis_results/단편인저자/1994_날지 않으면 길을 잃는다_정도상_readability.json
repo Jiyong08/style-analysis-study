@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1994_날지 않으면 길을 잃는다_정도상_tagged.txt",
+    "author": "정도상",
+    "title": "날지 않으면 길을 잃는다",
+    "year": "1994",
+    "is_excluded_from_display": true
+  },
+  "entropy_metrics": {
+    "total_morphemes": 132070,
+    "unique_morphemes": 7588,
+    "shannon_entropy": 8.827191806156767
+  },
+  "readability_metrics": {
+    "total_word_count": 54472,
+    "long_word_count": 13165,
+    "average_sentence_length_words": 6.011698488025604,
+    "long_word_ratio_pct": 24.16838008518138,
+    "lix_readability_score": 30.180078573206984
+  }
+}

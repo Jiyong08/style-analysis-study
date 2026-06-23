@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1969_강아지똥_권정생_tagged.txt",
+    "author": "권정생",
+    "title": "강아지똥",
+    "year": "1969",
+    "is_excluded_from_display": true
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 71,
+    "density": 0.05795918367346939,
+    "average_clustering": 0.5151750700280112,
+    "transitivity": 0.3524590163934426
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "강아지",
+        "value": 0.3469387755102041
+      },
+      {
+        "word": "흙덩이",
+        "value": 0.3061224489795918
+      },
+      {
+        "word": "소달구지",
+        "value": 0.12244897959183673
+      },
+      {
+        "word": "바퀴",
+        "value": 0.12244897959183673
+      },
+      {
+        "word": "골목길",
+        "value": 0.12244897959183673
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "강아지",
+        "value": 0.3898809523809524
+      },
+      {
+        "word": "흙덩이",
+        "value": 0.2427721088435374
+      },
+      {
+        "word": "바퀴",
+        "value": 0.19047619047619047
+      },
+      {
+        "word": "달구지",
+        "value": 0.1683673469387755
+      },
+      {
+        "word": "가슴",
+        "value": 0.1445578231292517
+      }
+    ]
+  }
+}

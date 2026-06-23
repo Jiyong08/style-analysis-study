@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1990_꽃이 지면 다시 시작하는 나무_이원구_tagged.txt",
+    "author": "이원구",
+    "title": "꽃이 지면 다시 시작하는 나무",
+    "year": "1990",
+    "is_excluded_from_display": true
+  },
+  "entropy_metrics": {
+    "total_morphemes": 19563,
+    "unique_morphemes": 3134,
+    "shannon_entropy": 8.888422822761049
+  },
+  "readability_metrics": {
+    "total_word_count": 8109,
+    "long_word_count": 2627,
+    "average_sentence_length_words": 8.190909090909091,
+    "long_word_ratio_pct": 32.39610309532618,
+    "lix_readability_score": 40.58701218623527
+  }
+}

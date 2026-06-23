@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1935_金講師와 T敎授_유진오_tagged.txt",
+    "author": "유진오",
+    "title": "金講師와 T敎授",
+    "year": "1935",
+    "is_excluded_from_display": true
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 553,
+    "density": 0.4514285714285714,
+    "average_clustering": 0.6764988258698652,
+    "transitivity": 0.602224916209085
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "교수",
+        "value": 0.9591836734693877
+      },
+      {
+        "word": "강사",
+        "value": 0.8775510204081632
+      },
+      {
+        "word": "생각",
+        "value": 0.8571428571428571
+      },
+      {
+        "word": "과장",
+        "value": 0.7959183673469387
+      },
+      {
+        "word": "교장",
+        "value": 0.7755102040816326
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "교수",
+        "value": 0.6598639455782312
+      },
+      {
+        "word": "강사",
+        "value": 0.24149659863945577
+      },
+      {
+        "word": "생각",
+        "value": 0.17247732426303852
+      },
+      {
+        "word": "교장",
+        "value": 0.078656462585034
+      },
+      {
+        "word": "얼굴",
+        "value": 0.0663265306122449
+      }
+    ]
+  }
+}

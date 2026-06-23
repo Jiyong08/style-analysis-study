@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1958_갈매기_이범선_tagged.txt",
+    "author": "이범선",
+    "title": "갈매기",
+    "year": "1958",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 6208,
+    "unique_morphemes": 1341,
+    "shannon_entropy": 8.439314204293265
+  },
+  "readability_metrics": {
+    "total_word_count": 2967,
+    "long_word_count": 498,
+    "average_sentence_length_words": 8.018918918918919,
+    "long_word_ratio_pct": 16.78463094034378,
+    "lix_readability_score": 24.803549859262702
+  }
+}

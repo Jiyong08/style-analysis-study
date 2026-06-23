@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1935_광화사_김동인_tagged.txt",
+    "author": "김동인",
+    "title": "광화사",
+    "year": "1935",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 8458,
+    "unique_morphemes": 1586,
+    "shannon_entropy": 8.516254592508151
+  },
+  "readability_metrics": {
+    "total_word_count": 3706,
+    "long_word_count": 849,
+    "average_sentence_length_words": 8.951690821256038,
+    "long_word_ratio_pct": 22.908796546141392,
+    "lix_readability_score": 31.860487367397432
+  }
+}

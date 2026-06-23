@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1935_孫巨富_이태준_tagged.txt",
+    "author": "이태준",
+    "title": "孫巨富",
+    "year": "1935",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 127,
+    "density": 0.1036734693877551,
+    "average_clustering": 0.581506571859513,
+    "transitivity": 0.4219269102990033
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "학교",
+        "value": 0.3469387755102041
+      },
+      {
+        "word": "서방",
+        "value": 0.3061224489795918
+      },
+      {
+        "word": "말씀",
+        "value": 0.26530612244897955
+      },
+      {
+        "word": "아들",
+        "value": 0.24489795918367346
+      },
+      {
+        "word": "장자",
+        "value": 0.24489795918367346
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "서방",
+        "value": 0.46581632653061217
+      },
+      {
+        "word": "학교",
+        "value": 0.37003968253968256
+      },
+      {
+        "word": "이름",
+        "value": 0.20796485260770978
+      },
+      {
+        "word": "장자",
+        "value": 0.1436791383219955
+      },
+      {
+        "word": "문패",
+        "value": 0.10997732426303852
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1994_또 다른 날의 시작_차현숙_tagged.txt",
+    "author": "차현숙",
+    "title": "또 다른 날의 시작",
+    "year": "1994",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 9124,
+    "unique_morphemes": 1802,
+    "shannon_entropy": 8.510660043928286
+  },
+  "readability_metrics": {
+    "total_word_count": 4044,
+    "long_word_count": 921,
+    "average_sentence_length_words": 7.1072056239015815,
+    "long_word_ratio_pct": 22.774480712166174,
+    "lix_readability_score": 29.881686336067755
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "2003_두 사람_tagged.txt",
+    "author": "두 사람",
+    "title": "2003",
+    "year": "unknown",
+    "is_excluded_from_display": true
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 220,
+    "density": 0.17959183673469387,
+    "average_clustering": 0.46980807427866256,
+    "transitivity": 0.37147158449379
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "사람",
+        "value": 0.8163265306122448
+      },
+      {
+        "word": "아내",
+        "value": 0.36734693877551017
+      },
+      {
+        "word": "시간",
+        "value": 0.32653061224489793
+      },
+      {
+        "word": "친구",
+        "value": 0.3061224489795918
+      },
+      {
+        "word": "실장",
+        "value": 0.2857142857142857
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "사람",
+        "value": 0.6899092970521541
+      },
+      {
+        "word": "마을",
+        "value": 0.1262755102040816
+      },
+      {
+        "word": "실장",
+        "value": 0.08477891156462584
+      },
+      {
+        "word": "약수터",
+        "value": 0.05442176870748299
+      },
+      {
+        "word": "친구",
+        "value": 0.04060374149659863
+      }
+    ]
+  }
+}

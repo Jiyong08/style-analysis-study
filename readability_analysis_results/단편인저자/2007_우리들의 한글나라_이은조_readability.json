@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "2007_우리들의 한글나라_이은조_tagged.txt",
+    "author": "이은조",
+    "title": "우리들의 한글나라",
+    "year": "2007",
+    "is_excluded_from_display": true
+  },
+  "entropy_metrics": {
+    "total_morphemes": 8880,
+    "unique_morphemes": 1770,
+    "shannon_entropy": 8.52274486058554
+  },
+  "readability_metrics": {
+    "total_word_count": 3869,
+    "long_word_count": 993,
+    "average_sentence_length_words": 6.647766323024055,
+    "long_word_ratio_pct": 25.665546652881883,
+    "lix_readability_score": 32.31331297590594
+  }
+}

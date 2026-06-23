@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1938_소망_채만식_tagged.txt",
+    "author": "채만식",
+    "title": "소망",
+    "year": "1938",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 7359,
+    "unique_morphemes": 1689,
+    "shannon_entropy": 8.935601225814823
+  },
+  "readability_metrics": {
+    "total_word_count": 3330,
+    "long_word_count": 732,
+    "average_sentence_length_words": 9.380281690140846,
+    "long_word_ratio_pct": 21.98198198198198,
+    "lix_readability_score": 31.36226367212283
+  }
+}

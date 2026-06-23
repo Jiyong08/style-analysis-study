@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "2002_바보 막둥이_송기원_tagged.txt",
+    "author": "송기원",
+    "title": "바보 막둥이",
+    "year": "2002",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 8734,
+    "unique_morphemes": 1795,
+    "shannon_entropy": 8.668423678911534
+  },
+  "readability_metrics": {
+    "total_word_count": 3792,
+    "long_word_count": 1148,
+    "average_sentence_length_words": 13.305263157894737,
+    "long_word_ratio_pct": 30.27426160337553,
+    "lix_readability_score": 43.579524761270264
+  }
+}

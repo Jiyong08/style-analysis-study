@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1993_티타임의 모녀_박완서_tagged.txt",
+    "author": "박완서",
+    "title": "티타임의 모녀",
+    "year": "1993",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 11659,
+    "unique_morphemes": 2127,
+    "shannon_entropy": 8.58284231517467
+  },
+  "readability_metrics": {
+    "total_word_count": 5082,
+    "long_word_count": 1376,
+    "average_sentence_length_words": 10.063366336633663,
+    "long_word_ratio_pct": 27.07595434868162,
+    "lix_readability_score": 37.13932068531528
+  }
+}

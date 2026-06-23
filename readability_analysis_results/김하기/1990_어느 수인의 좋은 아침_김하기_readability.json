@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1990_어느 수인의 좋은 아침_김하기_tagged.txt",
+    "author": "김하기",
+    "title": "어느 수인의 좋은 아침",
+    "year": "1990",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 12223,
+    "unique_morphemes": 2546,
+    "shannon_entropy": 8.816989890664413
+  },
+  "readability_metrics": {
+    "total_word_count": 5203,
+    "long_word_count": 1708,
+    "average_sentence_length_words": 9.291071428571428,
+    "long_word_ratio_pct": 32.82721506822987,
+    "lix_readability_score": 42.118286496801296
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1924_운수 좋은 날_현진건_tagged.txt",
+    "author": "현진건",
+    "title": "운수 좋은 날",
+    "year": "1924",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 5843,
+    "unique_morphemes": 1350,
+    "shannon_entropy": 8.51642278903233
+  },
+  "readability_metrics": {
+    "total_word_count": 2560,
+    "long_word_count": 561,
+    "average_sentence_length_words": 9.27536231884058,
+    "long_word_ratio_pct": 21.9140625,
+    "lix_readability_score": 31.18942481884058
+  }
+}

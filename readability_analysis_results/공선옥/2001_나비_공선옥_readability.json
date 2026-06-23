@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "2001_나비_공선옥_tagged.txt",
+    "author": "공선옥",
+    "title": "나비",
+    "year": "2001",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 12125,
+    "unique_morphemes": 2007,
+    "shannon_entropy": 8.619952367348164
+  },
+  "readability_metrics": {
+    "total_word_count": 5152,
+    "long_word_count": 1382,
+    "average_sentence_length_words": 8.377235772357723,
+    "long_word_ratio_pct": 26.824534161490682,
+    "lix_readability_score": 35.201769933848404
+  }
+}

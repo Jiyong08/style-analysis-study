@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "2000_손님-들길2_박범신_tagged.txt",
+    "author": "박범신",
+    "title": "손님-들길2",
+    "year": "2000",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 11325,
+    "unique_morphemes": 2237,
+    "shannon_entropy": 8.851485123919794
+  },
+  "readability_metrics": {
+    "total_word_count": 4576,
+    "long_word_count": 1482,
+    "average_sentence_length_words": 10.519540229885058,
+    "long_word_ratio_pct": 32.38636363636363,
+    "lix_readability_score": 42.90590386624869
+  }
+}

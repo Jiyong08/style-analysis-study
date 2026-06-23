@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1982_포구_한승원_tagged.txt",
+    "author": "한승원",
+    "title": "포구",
+    "year": "1982",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 833,
+    "density": 0.68,
+    "average_clustering": 0.7732904767017947,
+    "transitivity": 0.7536090382871888
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "해숙",
+        "value": 0.9999999999999999
+      },
+      {
+        "word": "성진",
+        "value": 0.9999999999999999
+      },
+      {
+        "word": "사람",
+        "value": 0.9795918367346939
+      },
+      {
+        "word": "생각",
+        "value": 0.9795918367346939
+      },
+      {
+        "word": "소리",
+        "value": 0.9387755102040816
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "해숙",
+        "value": 0.3486394557823129
+      },
+      {
+        "word": "성진",
+        "value": 0.29889455782312924
+      },
+      {
+        "word": "사람",
+        "value": 0.29081632653061223
+      },
+      {
+        "word": "생각",
+        "value": 0.23767006802721088
+      },
+      {
+        "word": "얼굴",
+        "value": 0.09013605442176871
+      }
+    ]
+  }
+}

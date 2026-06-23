@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "2001_얼굴 없는 전쟁_윤정구_tagged.txt",
+    "author": "윤정구",
+    "title": "얼굴 없는 전쟁",
+    "year": "2001",
+    "is_excluded_from_display": true
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 547,
+    "density": 0.446530612244898,
+    "average_clustering": 0.6210041511864413,
+    "transitivity": 0.554734721289456
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "사람",
+        "value": 0.9591836734693877
+      },
+      {
+        "word": "생각",
+        "value": 0.9591836734693877
+      },
+      {
+        "word": "노인",
+        "value": 0.9387755102040816
+      },
+      {
+        "word": "자신",
+        "value": 0.836734693877551
+      },
+      {
+        "word": "이상",
+        "value": 0.673469387755102
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "노인",
+        "value": 0.7704081632653061
+      },
+      {
+        "word": "생각",
+        "value": 0.27976190476190477
+      },
+      {
+        "word": "사람",
+        "value": 0.1989795918367347
+      },
+      {
+        "word": "얼굴",
+        "value": 0.09311224489795918
+      },
+      {
+        "word": "표정",
+        "value": 0.0391156462585034
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "2002_태어난 곳_송영_tagged.txt",
+    "author": "송영",
+    "title": "태어난 곳",
+    "year": "2002",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 5106,
+    "unique_morphemes": 1112,
+    "shannon_entropy": 8.279484467583046
+  },
+  "readability_metrics": {
+    "total_word_count": 2195,
+    "long_word_count": 606,
+    "average_sentence_length_words": 7.952898550724638,
+    "long_word_ratio_pct": 27.608200455580867,
+    "lix_readability_score": 35.561099006305504
+  }
+}

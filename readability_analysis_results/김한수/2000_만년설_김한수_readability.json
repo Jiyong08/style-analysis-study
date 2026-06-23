@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "2000_만년설_김한수_tagged.txt",
+    "author": "김한수",
+    "title": "만년설",
+    "year": "2000",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 18007,
+    "unique_morphemes": 3287,
+    "shannon_entropy": 9.168862300543045
+  },
+  "readability_metrics": {
+    "total_word_count": 8134,
+    "long_word_count": 2391,
+    "average_sentence_length_words": 15.917808219178083,
+    "long_word_ratio_pct": 29.39513154659454,
+    "lix_readability_score": 45.312939765772626
+  }
+}

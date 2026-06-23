@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1962_닳아지는 살들_이호철_tagged.txt",
+    "author": "이호철",
+    "title": "닳아지는 살들",
+    "year": "1962",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 10651,
+    "unique_morphemes": 1648,
+    "shannon_entropy": 8.327592609160062
+  },
+  "readability_metrics": {
+    "total_word_count": 4574,
+    "long_word_count": 975,
+    "average_sentence_length_words": 6.961948249619483,
+    "long_word_ratio_pct": 21.31613467424574,
+    "lix_readability_score": 28.27808292386522
+  }
+}

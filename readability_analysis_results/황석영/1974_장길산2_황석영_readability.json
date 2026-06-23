@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1974_장길산2_황석영_tagged.txt",
+    "author": "황석영",
+    "title": "장길산2",
+    "year": "1974",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 184463,
+    "unique_morphemes": 10416,
+    "shannon_entropy": 9.383416950948666
+  },
+  "readability_metrics": {
+    "total_word_count": 73729,
+    "long_word_count": 22039,
+    "average_sentence_length_words": 8.828763022392527,
+    "long_word_ratio_pct": 29.891901422778012,
+    "lix_readability_score": 38.72066444517054
+  }
+}

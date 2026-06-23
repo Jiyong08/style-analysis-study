@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1994_슬픈 시인의 바다_유홍종_tagged.txt",
+    "author": "유홍종",
+    "title": "슬픈 시인의 바다",
+    "year": "1994",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 35139,
+    "unique_morphemes": 3731,
+    "shannon_entropy": 8.68962076061897
+  },
+  "readability_metrics": {
+    "total_word_count": 15903,
+    "long_word_count": 3629,
+    "average_sentence_length_words": 11.105446927374302,
+    "long_word_ratio_pct": 22.819593787335723,
+    "lix_readability_score": 33.92504071471002
+  }
+}

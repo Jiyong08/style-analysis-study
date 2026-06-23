@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1936_메밀꽃 필 무렵_이효석_tagged.txt",
+    "author": "이효석",
+    "title": "메밀꽃 필 무렵",
+    "year": "1936",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 4771,
+    "unique_morphemes": 1211,
+    "shannon_entropy": 8.427315083389121
+  },
+  "readability_metrics": {
+    "total_word_count": 1925,
+    "long_word_count": 585,
+    "average_sentence_length_words": 7.4324324324324325,
+    "long_word_ratio_pct": 30.38961038961039,
+    "lix_readability_score": 37.822042822042825
+  }
+}

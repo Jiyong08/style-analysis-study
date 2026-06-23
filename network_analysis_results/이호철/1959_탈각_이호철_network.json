@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1959_탈각_이호철_tagged.txt",
+    "author": "이호철",
+    "title": "탈각",
+    "year": "1959",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 322,
+    "density": 0.26285714285714284,
+    "average_clustering": 0.6131908814751055,
+    "transitivity": 0.45744274809160307
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "형석",
+        "value": 0.9387755102040816
+      },
+      {
+        "word": "얼굴",
+        "value": 0.5714285714285714
+      },
+      {
+        "word": "오빠",
+        "value": 0.4897959183673469
+      },
+      {
+        "word": "소리",
+        "value": 0.4897959183673469
+      },
+      {
+        "word": "준장",
+        "value": 0.44897959183673464
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "형석",
+        "value": 0.8162556689342403
+      },
+      {
+        "word": "고향",
+        "value": 0.1554705215419501
+      },
+      {
+        "word": "가게",
+        "value": 0.11422902494331064
+      },
+      {
+        "word": "소리",
+        "value": 0.08801020408163265
+      },
+      {
+        "word": "얼굴",
+        "value": 0.0778061224489796
+      }
+    ]
+  }
+}

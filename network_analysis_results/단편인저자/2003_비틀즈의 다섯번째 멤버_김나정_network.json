@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "2003_비틀즈의 다섯번째 멤버_김나정_tagged.txt",
+    "author": "김나정",
+    "title": "비틀즈의 다섯번째 멤버",
+    "year": "2003",
+    "is_excluded_from_display": true
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 239,
+    "density": 0.19510204081632654,
+    "average_clustering": 0.6146019506209585,
+    "transitivity": 0.3885259869355297
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "소녀",
+        "value": 0.8979591836734693
+      },
+      {
+        "word": "여자",
+        "value": 0.7346938775510203
+      },
+      {
+        "word": "사내",
+        "value": 0.4081632653061224
+      },
+      {
+        "word": "아이",
+        "value": 0.4081632653061224
+      },
+      {
+        "word": "소리",
+        "value": 0.3469387755102041
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "소녀",
+        "value": 0.7179705215419501
+      },
+      {
+        "word": "여자",
+        "value": 0.4760487528344671
+      },
+      {
+        "word": "사내",
+        "value": 0.26445578231292516
+      },
+      {
+        "word": "아이",
+        "value": 0.1167800453514739
+      },
+      {
+        "word": "개집",
+        "value": 0.04081632653061224
+      }
+    ]
+  }
+}

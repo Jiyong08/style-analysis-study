@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1977_흑과부_박완서_tagged.txt",
+    "author": "박완서",
+    "title": "흑과부",
+    "year": "1977",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 6636,
+    "unique_morphemes": 1432,
+    "shannon_entropy": 8.505897104641257
+  },
+  "readability_metrics": {
+    "total_word_count": 2923,
+    "long_word_count": 752,
+    "average_sentence_length_words": 10.552346570397113,
+    "long_word_ratio_pct": 25.72699281560041,
+    "lix_readability_score": 36.279339385997524
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "2001_그것은 인생_공선옥_tagged.txt",
+    "author": "공선옥",
+    "title": "그것은 인생",
+    "year": "2001",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 7471,
+    "unique_morphemes": 1387,
+    "shannon_entropy": 8.352748927236554
+  },
+  "readability_metrics": {
+    "total_word_count": 3155,
+    "long_word_count": 757,
+    "average_sentence_length_words": 6.628151260504202,
+    "long_word_ratio_pct": 23.99366085578447,
+    "lix_readability_score": 30.621812116288673
+  }
+}

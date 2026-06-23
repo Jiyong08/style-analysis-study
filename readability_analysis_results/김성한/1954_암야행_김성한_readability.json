@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1954_암야행_김성한_tagged.txt",
+    "author": "김성한",
+    "title": "암야행",
+    "year": "1954",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 8551,
+    "unique_morphemes": 1732,
+    "shannon_entropy": 8.569284720478374
+  },
+  "readability_metrics": {
+    "total_word_count": 3564,
+    "long_word_count": 895,
+    "average_sentence_length_words": 6.62453531598513,
+    "long_word_ratio_pct": 25.11223344556678,
+    "lix_readability_score": 31.73676876155191
+  }
+}

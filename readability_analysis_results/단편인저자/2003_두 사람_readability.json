@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "2003_두 사람_tagged.txt",
+    "author": "두 사람",
+    "title": "2003",
+    "year": "unknown",
+    "is_excluded_from_display": true
+  },
+  "entropy_metrics": {
+    "total_morphemes": 9618,
+    "unique_morphemes": 1645,
+    "shannon_entropy": 8.425607429065623
+  },
+  "readability_metrics": {
+    "total_word_count": 4112,
+    "long_word_count": 1074,
+    "average_sentence_length_words": 8.207584830339322,
+    "long_word_ratio_pct": 26.118677042801558,
+    "lix_readability_score": 34.32626187314088
+  }
+}

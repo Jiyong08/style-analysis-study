@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1936_산_이효석_tagged.txt",
+    "author": "이효석",
+    "title": "산",
+    "year": "1936",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 3211,
+    "unique_morphemes": 949,
+    "shannon_entropy": 8.142901223815823
+  },
+  "readability_metrics": {
+    "total_word_count": 1404,
+    "long_word_count": 352,
+    "average_sentence_length_words": 8.357142857142858,
+    "long_word_ratio_pct": 25.071225071225072,
+    "lix_readability_score": 33.42836792836793
+  }
+}

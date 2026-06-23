@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1999_베티를 만나러 가다_김경욱_tagged.txt",
+    "author": "김경욱",
+    "title": "베티를 만나러 가다",
+    "year": "1999",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 7746,
+    "unique_morphemes": 1521,
+    "shannon_entropy": 8.36411989097622
+  },
+  "readability_metrics": {
+    "total_word_count": 3411,
+    "long_word_count": 843,
+    "average_sentence_length_words": 8.339853300733497,
+    "long_word_ratio_pct": 24.7141600703606,
+    "lix_readability_score": 33.05401337109409
+  }
+}

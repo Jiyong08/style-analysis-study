@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1994_로암미들의 겨울_박정규_tagged.txt",
+    "author": "박정규",
+    "title": "로암미들의 겨울",
+    "year": "1994",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 12236,
+    "unique_morphemes": 2594,
+    "shannon_entropy": 8.762599568817542
+  },
+  "readability_metrics": {
+    "total_word_count": 5261,
+    "long_word_count": 1584,
+    "average_sentence_length_words": 10.522,
+    "long_word_ratio_pct": 30.108344421212696,
+    "lix_readability_score": 40.6303444212127
+  }
+}

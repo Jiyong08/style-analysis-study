@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1978_내 그물로 오는 가시고기_조세희_tagged.txt",
+    "author": "조세희",
+    "title": "내 그물로 오는 가시고기",
+    "year": "1978",
+    "is_excluded_from_display": true
+  },
+  "entropy_metrics": {
+    "total_morphemes": 16857,
+    "unique_morphemes": 2439,
+    "shannon_entropy": 8.414217602929202
+  },
+  "readability_metrics": {
+    "total_word_count": 7238,
+    "long_word_count": 1774,
+    "average_sentence_length_words": 7.953846153846154,
+    "long_word_ratio_pct": 24.509533020171318,
+    "lix_readability_score": 32.463379174017476
+  }
+}

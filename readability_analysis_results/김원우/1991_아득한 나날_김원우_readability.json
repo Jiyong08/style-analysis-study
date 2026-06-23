@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1991_아득한 나날_김원우_tagged.txt",
+    "author": "김원우",
+    "title": "아득한 나날",
+    "year": "1991",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 36432,
+    "unique_morphemes": 5059,
+    "shannon_entropy": 9.074657650560388
+  },
+  "readability_metrics": {
+    "total_word_count": 15423,
+    "long_word_count": 4282,
+    "average_sentence_length_words": 11.57882882882883,
+    "long_word_ratio_pct": 27.763729494910198,
+    "lix_readability_score": 39.34255832373903
+  }
+}

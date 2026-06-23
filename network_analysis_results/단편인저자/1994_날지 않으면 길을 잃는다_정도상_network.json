@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1994_날지 않으면 길을 잃는다_정도상_tagged.txt",
+    "author": "정도상",
+    "title": "날지 않으면 길을 잃는다",
+    "year": "1994",
+    "is_excluded_from_display": true
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 644,
+    "density": 0.5257142857142857,
+    "average_clustering": 0.6681307695420484,
+    "transitivity": 0.6286016242073645
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "채린",
+        "value": 0.9795918367346939
+      },
+      {
+        "word": "사람",
+        "value": 0.9183673469387754
+      },
+      {
+        "word": "길이",
+        "value": 0.8571428571428571
+      },
+      {
+        "word": "생각",
+        "value": 0.8163265306122448
+      },
+      {
+        "word": "마음",
+        "value": 0.7959183673469387
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "채린",
+        "value": 0.7908163265306122
+      },
+      {
+        "word": "길이",
+        "value": 0.14285714285714285
+      },
+      {
+        "word": "사람",
+        "value": 0.09948979591836735
+      },
+      {
+        "word": "생각",
+        "value": 0.070578231292517
+      },
+      {
+        "word": "존재",
+        "value": 0.04081632653061224
+      }
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1991_탐험가_김원우_tagged.txt",
+    "author": "김원우",
+    "title": "탐험가",
+    "year": "1991",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 758,
+    "density": 0.6187755102040816,
+    "average_clustering": 0.7689997441065164,
+    "transitivity": 0.7399682888157092
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "슈로더",
+        "value": 0.9795918367346939
+      },
+      {
+        "word": "한국",
+        "value": 0.9795918367346939
+      },
+      {
+        "word": "호섭",
+        "value": 0.9591836734693877
+      },
+      {
+        "word": "생각",
+        "value": 0.9591836734693877
+      },
+      {
+        "word": "사람",
+        "value": 0.9387755102040816
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "호섭",
+        "value": 0.46003401360544216
+      },
+      {
+        "word": "슈로더",
+        "value": 0.41255668934240364
+      },
+      {
+        "word": "한국",
+        "value": 0.2522675736961451
+      },
+      {
+        "word": "사람",
+        "value": 0.15915532879818592
+      },
+      {
+        "word": "지도",
+        "value": 0.03996598639455782
+      }
+    ]
+  }
+}

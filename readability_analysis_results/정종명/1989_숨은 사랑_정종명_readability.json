@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1989_숨은 사랑_정종명_tagged.txt",
+    "author": "정종명",
+    "title": "숨은 사랑",
+    "year": "1989",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 34250,
+    "unique_morphemes": 4521,
+    "shannon_entropy": 9.072501916040276
+  },
+  "readability_metrics": {
+    "total_word_count": 15102,
+    "long_word_count": 4965,
+    "average_sentence_length_words": 9.631377551020408,
+    "long_word_ratio_pct": 32.876440206595156,
+    "lix_readability_score": 42.50781775761556
+  }
+}

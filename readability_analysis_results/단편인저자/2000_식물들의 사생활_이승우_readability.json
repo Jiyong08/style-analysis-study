@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "2000_식물들의 사생활_이승우_tagged.txt",
+    "author": "이승우",
+    "title": "식물들의 사생활",
+    "year": "2000",
+    "is_excluded_from_display": true
+  },
+  "entropy_metrics": {
+    "total_morphemes": 107786,
+    "unique_morphemes": 5650,
+    "shannon_entropy": 8.447774887702378
+  },
+  "readability_metrics": {
+    "total_word_count": 46261,
+    "long_word_count": 11613,
+    "average_sentence_length_words": 9.235575963266122,
+    "long_word_ratio_pct": 25.103218693932256,
+    "lix_readability_score": 34.33879465719838
+  }
+}

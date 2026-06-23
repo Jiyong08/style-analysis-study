@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1990_오분 전 선생님_유시춘_tagged.txt",
+    "author": "유시춘",
+    "title": "오분 전 선생님",
+    "year": "1990",
+    "is_excluded_from_display": true
+  },
+  "entropy_metrics": {
+    "total_morphemes": 10610,
+    "unique_morphemes": 2234,
+    "shannon_entropy": 8.780025453424791
+  },
+  "readability_metrics": {
+    "total_word_count": 4494,
+    "long_word_count": 1376,
+    "average_sentence_length_words": 8.726213592233009,
+    "long_word_ratio_pct": 30.618602581219402,
+    "lix_readability_score": 39.344816173452415
+  }
+}

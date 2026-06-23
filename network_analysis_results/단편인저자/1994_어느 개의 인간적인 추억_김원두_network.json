@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1994_어느 개의 인간적인 추억_김원두_tagged.txt",
+    "author": "김원두",
+    "title": "어느 개의 인간적인 추억",
+    "year": "1994",
+    "is_excluded_from_display": true
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 852,
+    "density": 0.6955102040816327,
+    "average_clustering": 0.7754196819854977,
+    "transitivity": 0.7550951772381785
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "주인",
+        "value": 0.9999999999999999
+      },
+      {
+        "word": "아저씨",
+        "value": 0.9999999999999999
+      },
+      {
+        "word": "사람",
+        "value": 0.9999999999999999
+      },
+      {
+        "word": "여자",
+        "value": 0.9387755102040816
+      },
+      {
+        "word": "아주머니",
+        "value": 0.8979591836734693
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "주인",
+        "value": 0.9489795918367346
+      },
+      {
+        "word": "아가씨",
+        "value": 0.04081632653061224
+      },
+      {
+        "word": "성자",
+        "value": 0.03996598639455782
+      },
+      {
+        "word": "여자",
+        "value": 0.0391156462585034
+      },
+      {
+        "word": "진숙",
+        "value": 0.0391156462585034
+      }
+    ]
+  }
+}

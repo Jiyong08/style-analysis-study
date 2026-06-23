@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "2000_짚가리, 비릊다_김종광_tagged.txt",
+    "author": "김종광",
+    "title": "짚가리, 비릊다",
+    "year": "2000",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 11451,
+    "unique_morphemes": 2344,
+    "shannon_entropy": 8.745811344035157
+  },
+  "readability_metrics": {
+    "total_word_count": 4816,
+    "long_word_count": 1306,
+    "average_sentence_length_words": 10.631346578366445,
+    "long_word_ratio_pct": 27.11794019933555,
+    "lix_readability_score": 37.749286777702
+  }
+}

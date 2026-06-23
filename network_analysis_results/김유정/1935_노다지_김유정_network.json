@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1935_노다지_김유정_tagged.txt",
+    "author": "김유정",
+    "title": "노다지",
+    "year": "1935",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 74,
+    "density": 0.060408163265306125,
+    "average_clustering": 0.2707835497835498,
+    "transitivity": 0.29296875
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "꽁보",
+        "value": 0.22448979591836732
+      },
+      {
+        "word": "얼굴",
+        "value": 0.16326530612244897
+      },
+      {
+        "word": "소리",
+        "value": 0.12244897959183673
+      },
+      {
+        "word": "계집",
+        "value": 0.1020408163265306
+      },
+      {
+        "word": "모양",
+        "value": 0.1020408163265306
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "꽁보",
+        "value": 0.41330782312925174
+      },
+      {
+        "word": "얼굴",
+        "value": 0.13789682539682535
+      },
+      {
+        "word": "어깨",
+        "value": 0.1292517006802721
+      },
+      {
+        "word": "바위",
+        "value": 0.10119047619047619
+      },
+      {
+        "word": "목숨",
+        "value": 0.0972222222222222
+      }
+    ]
+  }
+}

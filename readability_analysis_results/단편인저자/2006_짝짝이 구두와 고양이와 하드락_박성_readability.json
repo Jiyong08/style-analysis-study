@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "2006_짝짝이 구두와 고양이와 하드락_박성_tagged.txt",
+    "author": "박성",
+    "title": "짝짝이 구두와 고양이와 하드락",
+    "year": "2006",
+    "is_excluded_from_display": true
+  },
+  "entropy_metrics": {
+    "total_morphemes": 7849,
+    "unique_morphemes": 1454,
+    "shannon_entropy": 8.329767711801043
+  },
+  "readability_metrics": {
+    "total_word_count": 3454,
+    "long_word_count": 891,
+    "average_sentence_length_words": 6.408163265306122,
+    "long_word_ratio_pct": 25.796178343949045,
+    "lix_readability_score": 32.20434160925517
+  }
+}

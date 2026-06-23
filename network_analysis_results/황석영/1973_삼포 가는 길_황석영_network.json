@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1973_삼포 가는 길_황석영_tagged.txt",
+    "author": "황석영",
+    "title": "삼포 가는 길",
+    "year": "1973",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 134,
+    "density": 0.10938775510204081,
+    "average_clustering": 0.35199637617284674,
+    "transitivity": 0.2492753623188406
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "영달이",
+        "value": 0.42857142857142855
+      },
+      {
+        "word": "사람",
+        "value": 0.36734693877551017
+      },
+      {
+        "word": "백화",
+        "value": 0.3061224489795918
+      },
+      {
+        "word": "사내",
+        "value": 0.26530612244897955
+      },
+      {
+        "word": "여자",
+        "value": 0.22448979591836732
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "영달이",
+        "value": 0.4889455782312925
+      },
+      {
+        "word": "백화",
+        "value": 0.25616496598639454
+      },
+      {
+        "word": "사람",
+        "value": 0.21930272108843535
+      },
+      {
+        "word": "사내",
+        "value": 0.191000566893424
+      },
+      {
+        "word": "바람",
+        "value": 0.0693735827664399
+      }
+    ]
+  }
+}

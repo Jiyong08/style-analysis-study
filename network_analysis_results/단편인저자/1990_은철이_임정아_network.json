@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1990_은철이_임정아_tagged.txt",
+    "author": "임정아",
+    "title": "은철이",
+    "year": "1990",
+    "is_excluded_from_display": true
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 530,
+    "density": 0.4326530612244898,
+    "average_clustering": 0.6835469658207382,
+    "transitivity": 0.588027108433735
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "선생",
+        "value": 0.8979591836734693
+      },
+      {
+        "word": "학교",
+        "value": 0.8979591836734693
+      },
+      {
+        "word": "은철이",
+        "value": 0.8775510204081632
+      },
+      {
+        "word": "아이",
+        "value": 0.8163265306122448
+      },
+      {
+        "word": "학생",
+        "value": 0.7755102040816326
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "은철이",
+        "value": 0.44968820861677994
+      },
+      {
+        "word": "선생",
+        "value": 0.38874716553287986
+      },
+      {
+        "word": "학교",
+        "value": 0.16014739229024938
+      },
+      {
+        "word": "아이",
+        "value": 0.15617913832199545
+      },
+      {
+        "word": "퇴학",
+        "value": 0.03954081632653061
+      }
+    ]
+  }
+}

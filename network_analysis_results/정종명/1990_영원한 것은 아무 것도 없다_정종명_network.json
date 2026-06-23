@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1990_영원한 것은 아무 것도 없다_정종명_tagged.txt",
+    "author": "정종명",
+    "title": "영원한 것은 아무 것도 없다",
+    "year": "1990",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 389,
+    "density": 0.31755102040816324,
+    "average_clustering": 0.5514435386247302,
+    "transitivity": 0.4509506751171122
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "이원명",
+        "value": 0.9591836734693877
+      },
+      {
+        "word": "조상국",
+        "value": 0.7551020408163265
+      },
+      {
+        "word": "사람",
+        "value": 0.7142857142857142
+      },
+      {
+        "word": "이야기",
+        "value": 0.5918367346938775
+      },
+      {
+        "word": "차영진",
+        "value": 0.5102040816326531
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "이원명",
+        "value": 0.7430555555555555
+      },
+      {
+        "word": "조상국",
+        "value": 0.27834467120181405
+      },
+      {
+        "word": "사람",
+        "value": 0.11522108843537414
+      },
+      {
+        "word": "사사",
+        "value": 0.04251700680272109
+      },
+      {
+        "word": "생각",
+        "value": 0.031037414965986394
+      }
+    ]
+  }
+}

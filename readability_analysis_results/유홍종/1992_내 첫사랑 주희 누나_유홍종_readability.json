@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1992_내 첫사랑 주희 누나_유홍종_tagged.txt",
+    "author": "유홍종",
+    "title": "내 첫사랑 주희 누나",
+    "year": "1992",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 135742,
+    "unique_morphemes": 7115,
+    "shannon_entropy": 8.843707743107924
+  },
+  "readability_metrics": {
+    "total_word_count": 60609,
+    "long_word_count": 13532,
+    "average_sentence_length_words": 9.993239901071723,
+    "long_word_ratio_pct": 22.32671715421802,
+    "lix_readability_score": 32.31995705528974
+  }
+}

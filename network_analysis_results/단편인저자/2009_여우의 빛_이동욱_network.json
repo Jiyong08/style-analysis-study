@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "2009_여우의 빛_이동욱_tagged.txt",
+    "author": "이동욱",
+    "title": "여우의 빛",
+    "year": "2009",
+    "is_excluded_from_display": true
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 111,
+    "density": 0.09061224489795919,
+    "average_clustering": 0.3058397158397158,
+    "transitivity": 0.23684210526315788
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "생각",
+        "value": 0.26530612244897955
+      },
+      {
+        "word": "소리",
+        "value": 0.22448979591836732
+      },
+      {
+        "word": "사람",
+        "value": 0.2040816326530612
+      },
+      {
+        "word": "우주",
+        "value": 0.16326530612244897
+      },
+      {
+        "word": "동안",
+        "value": 0.16326530612244897
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "생각",
+        "value": 0.24144395853579526
+      },
+      {
+        "word": "소리",
+        "value": 0.178583576287658
+      },
+      {
+        "word": "사람",
+        "value": 0.1770225947521865
+      },
+      {
+        "word": "구석",
+        "value": 0.12423469387755104
+      },
+      {
+        "word": "오로라",
+        "value": 0.11001984126984128
+      }
+    ]
+  }
+}

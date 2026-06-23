@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1952_화산댁이_오영수_tagged.txt",
+    "author": "오영수",
+    "title": "화산댁이",
+    "year": "1952",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 158,
+    "density": 0.12897959183673469,
+    "average_clustering": 0.6659396886252665,
+    "transitivity": 0.3204930662557781
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "화산댁",
+        "value": 0.8571428571428571
+      },
+      {
+        "word": "아들",
+        "value": 0.4897959183673469
+      },
+      {
+        "word": "며느리",
+        "value": 0.32653061224489793
+      },
+      {
+        "word": "두메",
+        "value": 0.2857142857142857
+      },
+      {
+        "word": "보퉁이",
+        "value": 0.2857142857142857
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "화산댁",
+        "value": 0.8081065759637187
+      },
+      {
+        "word": "아들",
+        "value": 0.2030895691609977
+      },
+      {
+        "word": "며느리",
+        "value": 0.05881519274376418
+      },
+      {
+        "word": "두메",
+        "value": 0.04322562358276644
+      },
+      {
+        "word": "장사",
+        "value": 0.0018424036281179136
+      }
+    ]
+  }
+}

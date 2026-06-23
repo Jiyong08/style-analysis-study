@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1936_가을_김유정_tagged.txt",
+    "author": "김유정",
+    "title": "가을",
+    "year": "1936",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 4655,
+    "unique_morphemes": 1169,
+    "shannon_entropy": 8.485908330338434
+  },
+  "readability_metrics": {
+    "total_word_count": 2154,
+    "long_word_count": 415,
+    "average_sentence_length_words": 10.257142857142858,
+    "long_word_ratio_pct": 19.26648096564531,
+    "lix_readability_score": 29.523623822788167
+  }
+}

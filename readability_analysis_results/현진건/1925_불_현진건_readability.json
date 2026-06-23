@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1925_불_현진건_tagged.txt",
+    "author": "현진건",
+    "title": "불",
+    "year": "1925",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 3763,
+    "unique_morphemes": 1103,
+    "shannon_entropy": 8.421439795424654
+  },
+  "readability_metrics": {
+    "total_word_count": 1711,
+    "long_word_count": 378,
+    "average_sentence_length_words": 10.561728395061728,
+    "long_word_ratio_pct": 22.092343658679134,
+    "lix_readability_score": 32.65407205374086
+  }
+}

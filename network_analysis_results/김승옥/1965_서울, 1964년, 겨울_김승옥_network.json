@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1965_서울, 1964년, 겨울_김승옥_tagged.txt",
+    "author": "김승옥",
+    "title": "서울, 1964년, 겨울",
+    "year": "1965",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 191,
+    "density": 0.15591836734693879,
+    "average_clustering": 0.41517437395765566,
+    "transitivity": 0.3524229074889868
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "사내",
+        "value": 0.5306122448979591
+      },
+      {
+        "word": "사람",
+        "value": 0.5102040816326531
+      },
+      {
+        "word": "아저씨",
+        "value": 0.4081632653061224
+      },
+      {
+        "word": "여자",
+        "value": 0.3469387755102041
+      },
+      {
+        "word": "음성",
+        "value": 0.3469387755102041
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "사내",
+        "value": 0.5732709750566893
+      },
+      {
+        "word": "사람",
+        "value": 0.33446712018140584
+      },
+      {
+        "word": "아저씨",
+        "value": 0.18402777777777773
+      },
+      {
+        "word": "얘기",
+        "value": 0.10402494331065759
+      },
+      {
+        "word": "음성",
+        "value": 0.10289115646258502
+      }
+    ]
+  }
+}

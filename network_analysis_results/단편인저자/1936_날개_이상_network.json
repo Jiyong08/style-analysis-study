@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1936_날개_이상_tagged.txt",
+    "author": "이상",
+    "title": "날개",
+    "year": "1936",
+    "is_excluded_from_display": true
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 203,
+    "density": 0.1657142857142857,
+    "average_clustering": 0.43480515356676347,
+    "transitivity": 0.3258620689655172
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "아내",
+        "value": 0.8163265306122448
+      },
+      {
+        "word": "이불",
+        "value": 0.4081632653061224
+      },
+      {
+        "word": "생각",
+        "value": 0.36734693877551017
+      },
+      {
+        "word": "외출",
+        "value": 0.26530612244897955
+      },
+      {
+        "word": "사람",
+        "value": 0.24489795918367346
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "아내",
+        "value": 0.8849206349206348
+      },
+      {
+        "word": "이불",
+        "value": 0.1130952380952381
+      },
+      {
+        "word": "벙어리",
+        "value": 0.10204081632653061
+      },
+      {
+        "word": "생각",
+        "value": 0.09268707482993196
+      },
+      {
+        "word": "가구",
+        "value": 0.057327097505668924
+      }
+    ]
+  }
+}

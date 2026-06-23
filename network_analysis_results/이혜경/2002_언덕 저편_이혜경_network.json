@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "2002_언덕 저편_이혜경_tagged.txt",
+    "author": "이혜경",
+    "title": "언덕 저편",
+    "year": "2002",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 115,
+    "density": 0.09387755102040816,
+    "average_clustering": 0.37350657838893137,
+    "transitivity": 0.28493894165535955
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "사람",
+        "value": 0.36734693877551017
+      },
+      {
+        "word": "아내",
+        "value": 0.3061224489795918
+      },
+      {
+        "word": "여자",
+        "value": 0.22448979591836732
+      },
+      {
+        "word": "마음",
+        "value": 0.22448979591836732
+      },
+      {
+        "word": "원장",
+        "value": 0.2040816326530612
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "사람",
+        "value": 0.24204931972789112
+      },
+      {
+        "word": "아내",
+        "value": 0.22808956916099773
+      },
+      {
+        "word": "원장",
+        "value": 0.21282596371882084
+      },
+      {
+        "word": "여자",
+        "value": 0.2120748299319728
+      },
+      {
+        "word": "얼굴",
+        "value": 0.15039682539682536
+      }
+    ]
+  }
+}

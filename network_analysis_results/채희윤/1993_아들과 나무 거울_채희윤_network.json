@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1993_아들과 나무 거울_채희윤_tagged.txt",
+    "author": "채희윤",
+    "title": "아들과 나무 거울",
+    "year": "1993",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 167,
+    "density": 0.1363265306122449,
+    "average_clustering": 0.4271185749116783,
+    "transitivity": 0.29008567931456547
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "사람",
+        "value": 0.6122448979591836
+      },
+      {
+        "word": "아들",
+        "value": 0.42857142857142855
+      },
+      {
+        "word": "생각",
+        "value": 0.32653061224489793
+      },
+      {
+        "word": "어머니",
+        "value": 0.3061224489795918
+      },
+      {
+        "word": "대학",
+        "value": 0.22448979591836732
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "사람",
+        "value": 0.5922619047619049
+      },
+      {
+        "word": "생각",
+        "value": 0.28415532879818595
+      },
+      {
+        "word": "아들",
+        "value": 0.2582908163265306
+      },
+      {
+        "word": "어머니",
+        "value": 0.141156462585034
+      },
+      {
+        "word": "소리",
+        "value": 0.09353741496598639
+      }
+    ]
+  }
+}

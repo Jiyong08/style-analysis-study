@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1934_인간문제_강경애_tagged.txt",
+    "author": "강경애",
+    "title": "인간문제",
+    "year": "1934",
+    "is_excluded_from_display": true
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 729,
+    "density": 0.5951020408163266,
+    "average_clustering": 0.7166935344458831,
+    "transitivity": 0.6850519584332534
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "생각",
+        "value": 0.9795918367346939
+      },
+      {
+        "word": "선비",
+        "value": 0.9591836734693877
+      },
+      {
+        "word": "신철이",
+        "value": 0.9183673469387754
+      },
+      {
+        "word": "덕호",
+        "value": 0.9183673469387754
+      },
+      {
+        "word": "소리",
+        "value": 0.836734693877551
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "선비",
+        "value": 0.7729591836734694
+      },
+      {
+        "word": "생각",
+        "value": 0.41284013605442177
+      },
+      {
+        "word": "신철이",
+        "value": 0.1717687074829932
+      },
+      {
+        "word": "소리",
+        "value": 0.0824829931972789
+      },
+      {
+        "word": "어머니",
+        "value": 0.07355442176870748
+      }
+    ]
+  }
+}

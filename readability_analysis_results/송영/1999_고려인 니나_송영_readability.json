@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1999_고려인 니나_송영_tagged.txt",
+    "author": "송영",
+    "title": "고려인 니나",
+    "year": "1999",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 9981,
+    "unique_morphemes": 1608,
+    "shannon_entropy": 8.310143947470003
+  },
+  "readability_metrics": {
+    "total_word_count": 4382,
+    "long_word_count": 1084,
+    "average_sentence_length_words": 7.634146341463414,
+    "long_word_ratio_pct": 24.737562756732085,
+    "lix_readability_score": 32.3717090981955
+  }
+}

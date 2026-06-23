@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "2001_이유는 없다_공선옥_tagged.txt",
+    "author": "공선옥",
+    "title": "이유는 없다",
+    "year": "2001",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 11408,
+    "unique_morphemes": 1563,
+    "shannon_entropy": 8.193664122160536
+  },
+  "readability_metrics": {
+    "total_word_count": 4841,
+    "long_word_count": 1281,
+    "average_sentence_length_words": 8.30360205831904,
+    "long_word_ratio_pct": 26.461474901879775,
+    "lix_readability_score": 34.76507696019881
+  }
+}

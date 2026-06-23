@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1990_그것은 시작일 뿐이었다_강혜원_tagged.txt",
+    "author": "강혜원",
+    "title": "그것은 시작일 뿐이었다",
+    "year": "1990",
+    "is_excluded_from_display": true
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 250,
+    "density": 0.20408163265306123,
+    "average_clustering": 0.4801923980961133,
+    "transitivity": 0.3644682865257179
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "선생",
+        "value": 0.5714285714285714
+      },
+      {
+        "word": "지윤",
+        "value": 0.5306122448979591
+      },
+      {
+        "word": "교사",
+        "value": 0.42857142857142855
+      },
+      {
+        "word": "현주",
+        "value": 0.4081632653061224
+      },
+      {
+        "word": "사람",
+        "value": 0.4081632653061224
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "선생",
+        "value": 0.5175736961451246
+      },
+      {
+        "word": "지윤",
+        "value": 0.31193310657596374
+      },
+      {
+        "word": "현주",
+        "value": 0.18381519274376415
+      },
+      {
+        "word": "사람",
+        "value": 0.1493764172335601
+      },
+      {
+        "word": "이야기",
+        "value": 0.10359977324263038
+      }
+    ]
+  }
+}

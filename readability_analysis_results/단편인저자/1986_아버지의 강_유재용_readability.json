@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1986_아버지의 강_유재용_tagged.txt",
+    "author": "유재용",
+    "title": "아버지의 강",
+    "year": "1986",
+    "is_excluded_from_display": true
+  },
+  "entropy_metrics": {
+    "total_morphemes": 170957,
+    "unique_morphemes": 8905,
+    "shannon_entropy": 9.097259193568247
+  },
+  "readability_metrics": {
+    "total_word_count": 72643,
+    "long_word_count": 19159,
+    "average_sentence_length_words": 9.224507936507937,
+    "long_word_ratio_pct": 26.37418608812962,
+    "lix_readability_score": 35.59869402463755
+  }
+}

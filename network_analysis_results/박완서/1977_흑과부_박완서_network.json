@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1977_흑과부_박완서_tagged.txt",
+    "author": "박완서",
+    "title": "흑과부",
+    "year": "1977",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 218,
+    "density": 0.17795918367346938,
+    "average_clustering": 0.5515703717220746,
+    "transitivity": 0.40774570697844353
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "과부",
+        "value": 0.7142857142857142
+      },
+      {
+        "word": "아줌마",
+        "value": 0.5714285714285714
+      },
+      {
+        "word": "남편",
+        "value": 0.42857142857142855
+      },
+      {
+        "word": "마담",
+        "value": 0.42857142857142855
+      },
+      {
+        "word": "사람",
+        "value": 0.3877551020408163
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "과부",
+        "value": 0.5675453514739228
+      },
+      {
+        "word": "아줌마",
+        "value": 0.4255810657596371
+      },
+      {
+        "word": "남편",
+        "value": 0.0973639455782313
+      },
+      {
+        "word": "마담",
+        "value": 0.08384353741496597
+      },
+      {
+        "word": "사람",
+        "value": 0.08051303854875283
+      }
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "2001_꽃그늘 아래_이혜경_tagged.txt",
+    "author": "이혜경",
+    "title": "꽃그늘 아래",
+    "year": "2001",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 226,
+    "density": 0.18448979591836734,
+    "average_clustering": 0.4940282741413176,
+    "transitivity": 0.34462290502793297
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "서연",
+        "value": 0.8163265306122448
+      },
+      {
+        "word": "사람",
+        "value": 0.5102040816326531
+      },
+      {
+        "word": "영모",
+        "value": 0.4897959183673469
+      },
+      {
+        "word": "윤지",
+        "value": 0.42857142857142855
+      },
+      {
+        "word": "여자",
+        "value": 0.2857142857142857
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "서연",
+        "value": 0.7451672335600907
+      },
+      {
+        "word": "사람",
+        "value": 0.22079081632653058
+      },
+      {
+        "word": "윤지",
+        "value": 0.21343537414965985
+      },
+      {
+        "word": "영모",
+        "value": 0.13378684807256233
+      },
+      {
+        "word": "나무",
+        "value": 0.10884353741496598
+      }
+    ]
+  }
+}

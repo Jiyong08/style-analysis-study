@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1948_민족의 죄인_채만식_tagged.txt",
+    "author": "채만식",
+    "title": "민족의 죄인",
+    "year": "1948",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 22261,
+    "unique_morphemes": 3483,
+    "shannon_entropy": 9.05981401485051
+  },
+  "readability_metrics": {
+    "total_word_count": 9676,
+    "long_word_count": 2226,
+    "average_sentence_length_words": 11.290548424737457,
+    "long_word_ratio_pct": 23.005374121537827,
+    "lix_readability_score": 34.295922546275285
+  }
+}

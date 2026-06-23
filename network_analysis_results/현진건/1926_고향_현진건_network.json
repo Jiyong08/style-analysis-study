@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1926_고향_현진건_tagged.txt",
+    "author": "현진건",
+    "title": "고향",
+    "year": "1926",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 166,
+    "density": 0.13551020408163264,
+    "average_clustering": 0.5883367129946078,
+    "transitivity": 0.5626269465132024
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "사람",
+        "value": 0.4081632653061224
+      },
+      {
+        "word": "일본",
+        "value": 0.4081632653061224
+      },
+      {
+        "word": "눈물",
+        "value": 0.32653061224489793
+      },
+      {
+        "word": "한숨",
+        "value": 0.24489795918367346
+      },
+      {
+        "word": "동양",
+        "value": 0.24489795918367346
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "사람",
+        "value": 0.22456065759637195
+      },
+      {
+        "word": "일본",
+        "value": 0.215391156462585
+      },
+      {
+        "word": "회사",
+        "value": 0.1326530612244898
+      },
+      {
+        "word": "동양",
+        "value": 0.10959467120181407
+      },
+      {
+        "word": "고향",
+        "value": 0.10246598639455783
+      }
+    ]
+  }
+}

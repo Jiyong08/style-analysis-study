@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "198--_어느 젊은 혁명가의 초상_안재성_tagged.txt",
+    "author": "안재성",
+    "title": "어느 젊은 혁명가의 초상",
+    "year": "198--",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 411,
+    "density": 0.3355102040816327,
+    "average_clustering": 0.5935685069467431,
+    "transitivity": 0.5146162458017166
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "사람",
+        "value": 0.836734693877551
+      },
+      {
+        "word": "생각",
+        "value": 0.673469387755102
+      },
+      {
+        "word": "사회주의",
+        "value": 0.6530612244897959
+      },
+      {
+        "word": "노동자",
+        "value": 0.6530612244897959
+      },
+      {
+        "word": "김상진",
+        "value": 0.5714285714285714
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "사회주의",
+        "value": 0.33751417233560094
+      },
+      {
+        "word": "사람",
+        "value": 0.3337585034013606
+      },
+      {
+        "word": "자본주의",
+        "value": 0.3319869614512472
+      },
+      {
+        "word": "김상진",
+        "value": 0.13945578231292516
+      },
+      {
+        "word": "생각",
+        "value": 0.11224489795918367
+      }
+    ]
+  }
+}

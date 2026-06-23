@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1994_사람의 향기_송기원_tagged.txt",
+    "author": "송기원",
+    "title": "사람의 향기",
+    "year": "1994",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 15359,
+    "unique_morphemes": 2332,
+    "shannon_entropy": 8.678525951895024
+  },
+  "readability_metrics": {
+    "total_word_count": 6691,
+    "long_word_count": 1742,
+    "average_sentence_length_words": 10.62063492063492,
+    "long_word_ratio_pct": 26.034972350919144,
+    "lix_readability_score": 36.65560727155406
+  }
+}

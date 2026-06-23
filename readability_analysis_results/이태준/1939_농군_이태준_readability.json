@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1939_농군_이태준_tagged.txt",
+    "author": "이태준",
+    "title": "농군",
+    "year": "1939",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 7593,
+    "unique_morphemes": 1686,
+    "shannon_entropy": 8.712312793836505
+  },
+  "readability_metrics": {
+    "total_word_count": 3298,
+    "long_word_count": 795,
+    "average_sentence_length_words": 7.4112359550561795,
+    "long_word_ratio_pct": 24.105518496058217,
+    "lix_readability_score": 31.516754451114394
+  }
+}

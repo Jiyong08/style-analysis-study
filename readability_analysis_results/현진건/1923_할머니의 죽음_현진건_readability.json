@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1923_할머니의 죽음_현진건_tagged.txt",
+    "author": "현진건",
+    "title": "할머니의 죽음",
+    "year": "1923",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 5487,
+    "unique_morphemes": 1316,
+    "shannon_entropy": 8.45103675468586
+  },
+  "readability_metrics": {
+    "total_word_count": 2345,
+    "long_word_count": 585,
+    "average_sentence_length_words": 8.003412969283277,
+    "long_word_ratio_pct": 24.946695095948826,
+    "lix_readability_score": 32.9501080652321
+  }
+}

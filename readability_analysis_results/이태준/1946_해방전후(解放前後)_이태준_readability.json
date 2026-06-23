@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1946_해방전후(解放前後)_이태준_tagged.txt",
+    "author": "이태준",
+    "title": "해방전후(解放前後)",
+    "year": "1946",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 18109,
+    "unique_morphemes": 3156,
+    "shannon_entropy": 9.067954443489654
+  },
+  "readability_metrics": {
+    "total_word_count": 7599,
+    "long_word_count": 2063,
+    "average_sentence_length_words": 12.02373417721519,
+    "long_word_ratio_pct": 27.14830898802474,
+    "lix_readability_score": 39.17204316523993
+  }
+}

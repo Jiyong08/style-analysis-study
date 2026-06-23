@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1933_산골 나그네_김유정_tagged.txt",
+    "author": "김유정",
+    "title": "산골 나그네",
+    "year": "1933",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 76,
+    "density": 0.062040816326530614,
+    "average_clustering": 0.24837085137085135,
+    "transitivity": 0.19672131147540983
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "나그네",
+        "value": 0.22448979591836732
+      },
+      {
+        "word": "소리",
+        "value": 0.18367346938775508
+      },
+      {
+        "word": "주인",
+        "value": 0.18367346938775508
+      },
+      {
+        "word": "계집",
+        "value": 0.14285714285714285
+      },
+      {
+        "word": "사람",
+        "value": 0.14285714285714285
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "주인",
+        "value": 0.259155328798186
+      },
+      {
+        "word": "나그네",
+        "value": 0.2310515873015873
+      },
+      {
+        "word": "소리",
+        "value": 0.2109835600907029
+      },
+      {
+        "word": "사람",
+        "value": 0.209297052154195
+      },
+      {
+        "word": "머리",
+        "value": 0.1562358276643991
+      }
+    ]
+  }
+}

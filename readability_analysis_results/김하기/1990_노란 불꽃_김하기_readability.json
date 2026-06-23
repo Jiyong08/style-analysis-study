@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1990_노란 불꽃_김하기_tagged.txt",
+    "author": "김하기",
+    "title": "노란 불꽃",
+    "year": "1990",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 11173,
+    "unique_morphemes": 2405,
+    "shannon_entropy": 8.76760129475003
+  },
+  "readability_metrics": {
+    "total_word_count": 4611,
+    "long_word_count": 1443,
+    "average_sentence_length_words": 7.1934477379095165,
+    "long_word_ratio_pct": 31.29472999349382,
+    "lix_readability_score": 38.48817773140334
+  }
+}

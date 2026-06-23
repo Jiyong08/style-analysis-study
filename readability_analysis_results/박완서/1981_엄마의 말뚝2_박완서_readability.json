@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1981_엄마의 말뚝2_박완서_tagged.txt",
+    "author": "박완서",
+    "title": "엄마의 말뚝2",
+    "year": "1981",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 27666,
+    "unique_morphemes": 3753,
+    "shannon_entropy": 8.837898195268764
+  },
+  "readability_metrics": {
+    "total_word_count": 12193,
+    "long_word_count": 3115,
+    "average_sentence_length_words": 11.279370952821461,
+    "long_word_ratio_pct": 25.547445255474454,
+    "lix_readability_score": 36.82681620829592
+  }
+}

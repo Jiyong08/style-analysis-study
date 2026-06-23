@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1925_물레방아_나도향_tagged.txt",
+    "author": "나도향",
+    "title": "물레방아",
+    "year": "1925",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 7129,
+    "unique_morphemes": 1335,
+    "shannon_entropy": 8.347794543949881
+  },
+  "readability_metrics": {
+    "total_word_count": 3109,
+    "long_word_count": 649,
+    "average_sentence_length_words": 7.791979949874687,
+    "long_word_ratio_pct": 20.874879382438085,
+    "lix_readability_score": 28.66685933231277
+  }
+}

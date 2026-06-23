@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1938_소망_채만식_tagged.txt",
+    "author": "채만식",
+    "title": "소망",
+    "year": "1938",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 144,
+    "density": 0.11755102040816326,
+    "average_clustering": 0.4821691184632361,
+    "transitivity": 0.36619718309859156
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "사람",
+        "value": 0.3469387755102041
+      },
+      {
+        "word": "언니",
+        "value": 0.32653061224489793
+      },
+      {
+        "word": "신경",
+        "value": 0.3061224489795918
+      },
+      {
+        "word": "여름",
+        "value": 0.26530612244897955
+      },
+      {
+        "word": "생각",
+        "value": 0.24489795918367346
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "언니",
+        "value": 0.20251601903387614
+      },
+      {
+        "word": "사람",
+        "value": 0.19778012756329083
+      },
+      {
+        "word": "신경",
+        "value": 0.1568571097270077
+      },
+      {
+        "word": "여름",
+        "value": 0.1358068660364579
+      },
+      {
+        "word": "겨울",
+        "value": 0.10441232048374907
+      }
+    ]
+  }
+}

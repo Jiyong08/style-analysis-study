@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1987_언젠가는 다시 만나리_이외수_tagged.txt",
+    "author": "이외수",
+    "title": "언젠가는 다시 만나리",
+    "year": "1987",
+    "is_excluded_from_display": true
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 221,
+    "density": 0.18040816326530612,
+    "average_clustering": 0.49413361182428117,
+    "transitivity": 0.3578088578088578
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "사내",
+        "value": 0.6938775510204082
+      },
+      {
+        "word": "여자",
+        "value": 0.6122448979591836
+      },
+      {
+        "word": "청년",
+        "value": 0.3469387755102041
+      },
+      {
+        "word": "모습",
+        "value": 0.32653061224489793
+      },
+      {
+        "word": "대합실",
+        "value": 0.26530612244897955
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "사내",
+        "value": 0.5442176870748299
+      },
+      {
+        "word": "여자",
+        "value": 0.31313775510204084
+      },
+      {
+        "word": "청년",
+        "value": 0.1679421768707483
+      },
+      {
+        "word": "열차",
+        "value": 0.12939342403628118
+      },
+      {
+        "word": "대합실",
+        "value": 0.09892290249433107
+      }
+    ]
+  }
+}

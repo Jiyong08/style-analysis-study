@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "2006_짝짝이 구두와 고양이와 하드락_박성_tagged.txt",
+    "author": "박성",
+    "title": "짝짝이 구두와 고양이와 하드락",
+    "year": "2006",
+    "is_excluded_from_display": true
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 162,
+    "density": 0.13224489795918368,
+    "average_clustering": 0.38924222509516626,
+    "transitivity": 0.29583975346687214
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "고양이",
+        "value": 0.42857142857142855
+      },
+      {
+        "word": "친구",
+        "value": 0.3469387755102041
+      },
+      {
+        "word": "생각",
+        "value": 0.3469387755102041
+      },
+      {
+        "word": "여자",
+        "value": 0.3061224489795918
+      },
+      {
+        "word": "기타",
+        "value": 0.26530612244897955
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "고양이",
+        "value": 0.484814342403628
+      },
+      {
+        "word": "친구",
+        "value": 0.3383503401360544
+      },
+      {
+        "word": "생각",
+        "value": 0.17671485260770978
+      },
+      {
+        "word": "여자",
+        "value": 0.14962443310657594
+      },
+      {
+        "word": "시작",
+        "value": 0.09243197278911562
+      }
+    ]
+  }
+}

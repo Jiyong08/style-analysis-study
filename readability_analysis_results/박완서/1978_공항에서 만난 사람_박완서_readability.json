@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1978_공항에서 만난 사람_박완서_tagged.txt",
+    "author": "박완서",
+    "title": "공항에서 만난 사람",
+    "year": "1978",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 10194,
+    "unique_morphemes": 1981,
+    "shannon_entropy": 8.697809770873477
+  },
+  "readability_metrics": {
+    "total_word_count": 4576,
+    "long_word_count": 1128,
+    "average_sentence_length_words": 11.733333333333333,
+    "long_word_ratio_pct": 24.65034965034965,
+    "lix_readability_score": 36.38368298368298
+  }
+}

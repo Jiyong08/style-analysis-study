@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "2001_일식_이혜경_tagged.txt",
+    "author": "이혜경",
+    "title": "일식",
+    "year": "2001",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 225,
+    "density": 0.1836734693877551,
+    "average_clustering": 0.5122348723401354,
+    "transitivity": 0.35038084874863984
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "영월",
+        "value": 0.7959183673469387
+      },
+      {
+        "word": "다마이",
+        "value": 0.5714285714285714
+      },
+      {
+        "word": "남편",
+        "value": 0.3877551020408163
+      },
+      {
+        "word": "시작",
+        "value": 0.3061224489795918
+      },
+      {
+        "word": "여자",
+        "value": 0.2857142857142857
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "영월",
+        "value": 0.7287414965986394
+      },
+      {
+        "word": "다마이",
+        "value": 0.5022675736961452
+      },
+      {
+        "word": "남편",
+        "value": 0.13605442176870747
+      },
+      {
+        "word": "노래",
+        "value": 0.04421768707482993
+      },
+      {
+        "word": "사랑",
+        "value": 0.03443877551020408
+      }
+    ]
+  }
+}

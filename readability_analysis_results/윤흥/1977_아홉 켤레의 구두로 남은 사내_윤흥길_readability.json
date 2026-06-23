@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1977_아홉 켤레의 구두로 남은 사내_윤흥길_tagged.txt",
+    "author": "윤흥길",
+    "title": "아홉 켤레의 구두로 남은 사내",
+    "year": "1977",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 22048,
+    "unique_morphemes": 3613,
+    "shannon_entropy": 9.053846017933417
+  },
+  "readability_metrics": {
+    "total_word_count": 9708,
+    "long_word_count": 2579,
+    "average_sentence_length_words": 10.495135135135135,
+    "long_word_ratio_pct": 26.565718994643593,
+    "lix_readability_score": 37.060854129778726
+  }
+}

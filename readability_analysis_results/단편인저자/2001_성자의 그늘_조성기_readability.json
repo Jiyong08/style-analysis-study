@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "2001_성자의 그늘_조성기_tagged.txt",
+    "author": "조성기",
+    "title": "성자의 그늘",
+    "year": "2001",
+    "is_excluded_from_display": true
+  },
+  "entropy_metrics": {
+    "total_morphemes": 8153,
+    "unique_morphemes": 1515,
+    "shannon_entropy": 8.476498945945707
+  },
+  "readability_metrics": {
+    "total_word_count": 3640,
+    "long_word_count": 891,
+    "average_sentence_length_words": 9.62962962962963,
+    "long_word_ratio_pct": 24.478021978021978,
+    "lix_readability_score": 34.107651607651604
+  }
+}

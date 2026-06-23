@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "2000_먼지의 집_원재길_tagged.txt",
+    "author": "원재길",
+    "title": "먼지의 집",
+    "year": "2000",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 7985,
+    "unique_morphemes": 1552,
+    "shannon_entropy": 8.275004310220273
+  },
+  "readability_metrics": {
+    "total_word_count": 3576,
+    "long_word_count": 773,
+    "average_sentence_length_words": 8.917705735660848,
+    "long_word_ratio_pct": 21.61633109619687,
+    "lix_readability_score": 30.53403683185772
+  }
+}

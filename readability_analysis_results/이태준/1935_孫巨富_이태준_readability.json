@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1935_孫巨富_이태준_tagged.txt",
+    "author": "이태준",
+    "title": "孫巨富",
+    "year": "1935",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 3818,
+    "unique_morphemes": 908,
+    "shannon_entropy": 8.278497763521175
+  },
+  "readability_metrics": {
+    "total_word_count": 1580,
+    "long_word_count": 339,
+    "average_sentence_length_words": 5.962264150943396,
+    "long_word_ratio_pct": 21.455696202531644,
+    "lix_readability_score": 27.41796035347504
+  }
+}

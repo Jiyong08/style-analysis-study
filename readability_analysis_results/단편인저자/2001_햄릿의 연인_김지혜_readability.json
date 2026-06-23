@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "2001_햄릿의 연인_김지혜_tagged.txt",
+    "author": "김지혜",
+    "title": "햄릿의 연인",
+    "year": "2001",
+    "is_excluded_from_display": true
+  },
+  "entropy_metrics": {
+    "total_morphemes": 65108,
+    "unique_morphemes": 5117,
+    "shannon_entropy": 8.81999448422358
+  },
+  "readability_metrics": {
+    "total_word_count": 28304,
+    "long_word_count": 6451,
+    "average_sentence_length_words": 6.32209068572705,
+    "long_word_ratio_pct": 22.791831543244772,
+    "lix_readability_score": 29.113922228971823
+  }
+}

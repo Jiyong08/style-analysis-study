@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "2003_비틀즈의 다섯번째 멤버_김나정_tagged.txt",
+    "author": "김나정",
+    "title": "비틀즈의 다섯번째 멤버",
+    "year": "2003",
+    "is_excluded_from_display": true
+  },
+  "entropy_metrics": {
+    "total_morphemes": 6315,
+    "unique_morphemes": 1216,
+    "shannon_entropy": 8.008494893257913
+  },
+  "readability_metrics": {
+    "total_word_count": 2895,
+    "long_word_count": 609,
+    "average_sentence_length_words": 8.539823008849558,
+    "long_word_ratio_pct": 21.036269430051814,
+    "lix_readability_score": 29.57609243890137
+  }
+}

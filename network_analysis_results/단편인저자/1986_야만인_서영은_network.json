@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1986_야만인_서영은_tagged.txt",
+    "author": "서영은",
+    "title": "야만인",
+    "year": "1986",
+    "is_excluded_from_display": true
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 752,
+    "density": 0.6138775510204082,
+    "average_clustering": 0.6832019416042595,
+    "transitivity": 0.6696555589084795
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "사람",
+        "value": 0.9999999999999999
+      },
+      {
+        "word": "생각",
+        "value": 0.9387755102040816
+      },
+      {
+        "word": "여자",
+        "value": 0.8571428571428571
+      },
+      {
+        "word": "소리",
+        "value": 0.836734693877551
+      },
+      {
+        "word": "자신",
+        "value": 0.8163265306122448
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "여자",
+        "value": 0.2895691609977324
+      },
+      {
+        "word": "생각",
+        "value": 0.1767857142857143
+      },
+      {
+        "word": "소리",
+        "value": 0.15348639455782312
+      },
+      {
+        "word": "얼굴",
+        "value": 0.13832199546485263
+      },
+      {
+        "word": "유나",
+        "value": 0.11751700680272108
+      }
+    ]
+  }
+}

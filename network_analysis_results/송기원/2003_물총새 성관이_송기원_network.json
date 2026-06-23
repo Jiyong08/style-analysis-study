@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "2003_물총새 성관이_송기원_tagged.txt",
+    "author": "송기원",
+    "title": "물총새 성관이",
+    "year": "2003",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 266,
+    "density": 0.21714285714285714,
+    "average_clustering": 0.5080085587024089,
+    "transitivity": 0.4167385677308024
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "시인",
+        "value": 0.6326530612244897
+      },
+      {
+        "word": "사람",
+        "value": 0.4897959183673469
+      },
+      {
+        "word": "술자리",
+        "value": 0.4897959183673469
+      },
+      {
+        "word": "새재",
+        "value": 0.44897959183673464
+      },
+      {
+        "word": "작가",
+        "value": 0.4081632653061224
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "시인",
+        "value": 0.36858701814058953
+      },
+      {
+        "word": "사람",
+        "value": 0.2222080498866213
+      },
+      {
+        "word": "새재",
+        "value": 0.2087159863945578
+      },
+      {
+        "word": "작가",
+        "value": 0.18611819727891155
+      },
+      {
+        "word": "요리",
+        "value": 0.12276077097505672
+      }
+    ]
+  }
+}

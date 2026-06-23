@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1972_일락서산_이문구_tagged.txt",
+    "author": "이문구",
+    "title": "일락서산",
+    "year": "1972",
+    "is_excluded_from_display": true
+  },
+  "entropy_metrics": {
+    "total_morphemes": 24462,
+    "unique_morphemes": 4519,
+    "shannon_entropy": 9.20495689749977
+  },
+  "readability_metrics": {
+    "total_word_count": 10314,
+    "long_word_count": 2831,
+    "average_sentence_length_words": 13.82573726541555,
+    "long_word_ratio_pct": 27.44812875702928,
+    "lix_readability_score": 41.27386602244483
+  }
+}

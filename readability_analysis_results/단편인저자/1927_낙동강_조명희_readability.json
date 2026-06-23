@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1927_낙동강_조명희_tagged.txt",
+    "author": "조명희",
+    "title": "낙동강",
+    "year": "1927",
+    "is_excluded_from_display": true
+  },
+  "entropy_metrics": {
+    "total_morphemes": 6859,
+    "unique_morphemes": 1519,
+    "shannon_entropy": 8.588554118650562
+  },
+  "readability_metrics": {
+    "total_word_count": 3172,
+    "long_word_count": 603,
+    "average_sentence_length_words": 9.011363636363637,
+    "long_word_ratio_pct": 19.010088272383353,
+    "lix_readability_score": 28.02145190874699
+  }
+}

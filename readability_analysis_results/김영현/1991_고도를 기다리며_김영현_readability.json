@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1991_고도를 기다리며_김영현_tagged.txt",
+    "author": "김영현",
+    "title": "고도를 기다리며",
+    "year": "1991",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 17955,
+    "unique_morphemes": 2571,
+    "shannon_entropy": 8.706557082631488
+  },
+  "readability_metrics": {
+    "total_word_count": 7636,
+    "long_word_count": 2023,
+    "average_sentence_length_words": 7.954166666666667,
+    "long_word_ratio_pct": 26.49292823467784,
+    "lix_readability_score": 34.44709490134451
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1990_지금은 고통뿐일지라도_권용득_tagged.txt",
+    "author": "권용득",
+    "title": "지금은 고통뿐일지라도",
+    "year": "1990",
+    "is_excluded_from_display": true
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 331,
+    "density": 0.2702040816326531,
+    "average_clustering": 0.5005089989115329,
+    "transitivity": 0.43190440060698027
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "생각",
+        "value": 0.6938775510204082
+      },
+      {
+        "word": "선생",
+        "value": 0.6326530612244897
+      },
+      {
+        "word": "학생",
+        "value": 0.5918367346938775
+      },
+      {
+        "word": "학교",
+        "value": 0.5918367346938775
+      },
+      {
+        "word": "정숙이",
+        "value": 0.5306122448979591
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "선생",
+        "value": 0.31814868804664725
+      },
+      {
+        "word": "학생",
+        "value": 0.2685029964366699
+      },
+      {
+        "word": "생각",
+        "value": 0.1668792517006803
+      },
+      {
+        "word": "정숙이",
+        "value": 0.11836734693877547
+      },
+      {
+        "word": "성적",
+        "value": 0.11238662131519275
+      }
+    ]
+  }
+}

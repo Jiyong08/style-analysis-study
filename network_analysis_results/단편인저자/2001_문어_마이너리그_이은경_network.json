@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "2001_문어_마이너리그_이은경_tagged.txt",
+    "author": "마이너리그",
+    "title": "문어",
+    "year": "2001",
+    "is_excluded_from_display": true
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 713,
+    "density": 0.5820408163265306,
+    "average_clustering": 0.6797147588610453,
+    "transitivity": 0.6505188679245283
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "조국",
+        "value": 0.9795918367346939
+      },
+      {
+        "word": "승주",
+        "value": 0.9591836734693877
+      },
+      {
+        "word": "생각",
+        "value": 0.9183673469387754
+      },
+      {
+        "word": "사람",
+        "value": 0.8775510204081632
+      },
+      {
+        "word": "자신",
+        "value": 0.8775510204081632
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "조국",
+        "value": 0.8056972789115646
+      },
+      {
+        "word": "승주",
+        "value": 0.2585034013605442
+      },
+      {
+        "word": "생각",
+        "value": 0.10204081632653061
+      },
+      {
+        "word": "사람",
+        "value": 0.05187074829931972
+      },
+      {
+        "word": "여자",
+        "value": 0.046768707482993194
+      }
+    ]
+  }
+}

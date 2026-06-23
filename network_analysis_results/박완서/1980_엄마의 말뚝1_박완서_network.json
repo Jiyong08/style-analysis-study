@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1980_엄마의 말뚝1_박완서_tagged.txt",
+    "author": "박완서",
+    "title": "엄마의 말뚝1",
+    "year": "1980",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 297,
+    "density": 0.24244897959183673,
+    "average_clustering": 0.47931382099352215,
+    "transitivity": 0.40004622140050844
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "어머니",
+        "value": 0.7959183673469387
+      },
+      {
+        "word": "사람",
+        "value": 0.5510204081632653
+      },
+      {
+        "word": "생각",
+        "value": 0.5510204081632653
+      },
+      {
+        "word": "오빠",
+        "value": 0.4897959183673469
+      },
+      {
+        "word": "마음",
+        "value": 0.4081632653061224
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "어머니",
+        "value": 0.5993055555555555
+      },
+      {
+        "word": "오빠",
+        "value": 0.38218537414965986
+      },
+      {
+        "word": "수술",
+        "value": 0.16879251700680273
+      },
+      {
+        "word": "생각",
+        "value": 0.14108560090702948
+      },
+      {
+        "word": "사람",
+        "value": 0.12755102040816327
+      }
+    ]
+  }
+}

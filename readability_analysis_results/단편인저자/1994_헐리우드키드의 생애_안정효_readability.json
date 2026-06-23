@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1994_헐리우드키드의 생애_안정효_tagged.txt",
+    "author": "안정효",
+    "title": "헐리우드키드의 생애",
+    "year": "1994",
+    "is_excluded_from_display": true
+  },
+  "entropy_metrics": {
+    "total_morphemes": 139119,
+    "unique_morphemes": 10772,
+    "shannon_entropy": 9.506418188050096
+  },
+  "readability_metrics": {
+    "total_word_count": 64391,
+    "long_word_count": 18347,
+    "average_sentence_length_words": 26.885594989561586,
+    "long_word_ratio_pct": 28.493112391483283,
+    "lix_readability_score": 55.37870738104487
+  }
+}

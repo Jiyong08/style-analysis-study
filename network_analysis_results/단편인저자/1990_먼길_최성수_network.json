@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1990_먼길_최성수_tagged.txt",
+    "author": "최성수",
+    "title": "먼길",
+    "year": "1990",
+    "is_excluded_from_display": true
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 422,
+    "density": 0.34448979591836737,
+    "average_clustering": 0.5809763031774752,
+    "transitivity": 0.4999386879215205
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "정우",
+        "value": 0.7959183673469387
+      },
+      {
+        "word": "선생",
+        "value": 0.6938775510204082
+      },
+      {
+        "word": "교사",
+        "value": 0.673469387755102
+      },
+      {
+        "word": "탈퇴",
+        "value": 0.6326530612244897
+      },
+      {
+        "word": "아이",
+        "value": 0.5510204081632653
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "정우",
+        "value": 0.5918367346938775
+      },
+      {
+        "word": "선생",
+        "value": 0.29939058956916104
+      },
+      {
+        "word": "학교",
+        "value": 0.15943877551020408
+      },
+      {
+        "word": "아버지",
+        "value": 0.11819727891156462
+      },
+      {
+        "word": "탈퇴",
+        "value": 0.08744331065759638
+      }
+    ]
+  }
+}

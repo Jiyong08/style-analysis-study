@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1999_내 사랑 나의 암놈_최인석_tagged.txt",
+    "author": "최인석",
+    "title": "내 사랑 나의 암놈",
+    "year": "1999",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 46262,
+    "unique_morphemes": 4009,
+    "shannon_entropy": 8.688773374177902
+  },
+  "readability_metrics": {
+    "total_word_count": 20251,
+    "long_word_count": 4843,
+    "average_sentence_length_words": 9.259716506630086,
+    "long_word_ratio_pct": 23.914868401560415,
+    "lix_readability_score": 33.1745849081905
+  }
+}

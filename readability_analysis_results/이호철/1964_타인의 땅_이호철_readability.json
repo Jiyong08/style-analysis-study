@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1964_타인의 땅_이호철_tagged.txt",
+    "author": "이호철",
+    "title": "타인의 땅",
+    "year": "1964",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 13841,
+    "unique_morphemes": 2546,
+    "shannon_entropy": 8.962583768810388
+  },
+  "readability_metrics": {
+    "total_word_count": 6046,
+    "long_word_count": 1736,
+    "average_sentence_length_words": 12.11623246492986,
+    "long_word_ratio_pct": 28.713198809130002,
+    "lix_readability_score": 40.829431274059864
+  }
+}

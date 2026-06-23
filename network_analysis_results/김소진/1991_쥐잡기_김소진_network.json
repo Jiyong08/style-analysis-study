@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1991_쥐잡기_김소진_tagged.txt",
+    "author": "김소진",
+    "title": "쥐잡기",
+    "year": "1991",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 189,
+    "density": 0.15428571428571428,
+    "average_clustering": 0.5503609996814331,
+    "transitivity": 0.3164113785557987
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "아버지",
+        "value": 0.7346938775510203
+      },
+      {
+        "word": "철원",
+        "value": 0.5714285714285714
+      },
+      {
+        "word": "사람",
+        "value": 0.42857142857142855
+      },
+      {
+        "word": "소리",
+        "value": 0.4081632653061224
+      },
+      {
+        "word": "자신",
+        "value": 0.3469387755102041
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "아버지",
+        "value": 0.7327097505668934
+      },
+      {
+        "word": "철원",
+        "value": 0.34226190476190477
+      },
+      {
+        "word": "사람",
+        "value": 0.13988095238095238
+      },
+      {
+        "word": "소리",
+        "value": 0.12429138321995463
+      },
+      {
+        "word": "문턱",
+        "value": 0.04124149659863945
+      }
+    ]
+  }
+}

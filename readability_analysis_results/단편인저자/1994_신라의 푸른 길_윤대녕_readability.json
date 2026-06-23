@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1994_신라의 푸른 길_윤대녕_tagged.txt",
+    "author": "윤대녕",
+    "title": "신라의 푸른 길",
+    "year": "1994",
+    "is_excluded_from_display": true
+  },
+  "entropy_metrics": {
+    "total_morphemes": 10913,
+    "unique_morphemes": 2050,
+    "shannon_entropy": 8.684539134635225
+  },
+  "readability_metrics": {
+    "total_word_count": 4823,
+    "long_word_count": 1154,
+    "average_sentence_length_words": 10.349785407725323,
+    "long_word_ratio_pct": 23.92701637984657,
+    "lix_readability_score": 34.27680178757189
+  }
+}

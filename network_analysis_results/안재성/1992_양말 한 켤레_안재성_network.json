@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1992_양말 한 켤레_안재성_tagged.txt",
+    "author": "안재성",
+    "title": "양말 한 켤레",
+    "year": "1992",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 260,
+    "density": 0.21224489795918366,
+    "average_clustering": 0.48458387697103633,
+    "transitivity": 0.39765721331689274
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "사람",
+        "value": 0.6122448979591836
+      },
+      {
+        "word": "시작",
+        "value": 0.4693877551020408
+      },
+      {
+        "word": "윤호",
+        "value": 0.44897959183673464
+      },
+      {
+        "word": "생각",
+        "value": 0.3877551020408163
+      },
+      {
+        "word": "운동",
+        "value": 0.3877551020408163
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "사람",
+        "value": 0.2680747894395854
+      },
+      {
+        "word": "시작",
+        "value": 0.25118440233236144
+      },
+      {
+        "word": "최루탄",
+        "value": 0.20836167800453506
+      },
+      {
+        "word": "윤호",
+        "value": 0.1130810657596372
+      },
+      {
+        "word": "생각",
+        "value": 0.10811467444120505
+      }
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1991_살_이호철_tagged.txt",
+    "author": "이호철",
+    "title": "살",
+    "year": "1991",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 244,
+    "density": 0.19918367346938776,
+    "average_clustering": 0.5109224489534087,
+    "transitivity": 0.43138610438990665
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "타까다",
+        "value": 0.5714285714285714
+      },
+      {
+        "word": "차림",
+        "value": 0.44897959183673464
+      },
+      {
+        "word": "사람",
+        "value": 0.42857142857142855
+      },
+      {
+        "word": "십장",
+        "value": 0.4081632653061224
+      },
+      {
+        "word": "재훈",
+        "value": 0.3877551020408163
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "타까다",
+        "value": 0.2672347021836817
+      },
+      {
+        "word": "차림",
+        "value": 0.2386971730083975
+      },
+      {
+        "word": "사람",
+        "value": 0.19295946400538236
+      },
+      {
+        "word": "재훈",
+        "value": 0.18762755102040815
+      },
+      {
+        "word": "아이",
+        "value": 0.08091661267681675
+      }
+    ]
+  }
+}

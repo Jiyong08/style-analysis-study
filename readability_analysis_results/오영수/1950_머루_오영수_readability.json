@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1950_머루_오영수_tagged.txt",
+    "author": "오영수",
+    "title": "머루",
+    "year": "1950",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 5439,
+    "unique_morphemes": 1289,
+    "shannon_entropy": 8.363454671647915
+  },
+  "readability_metrics": {
+    "total_word_count": 2402,
+    "long_word_count": 527,
+    "average_sentence_length_words": 7.41358024691358,
+    "long_word_ratio_pct": 21.940049958368025,
+    "lix_readability_score": 29.353630205281604
+  }
+}

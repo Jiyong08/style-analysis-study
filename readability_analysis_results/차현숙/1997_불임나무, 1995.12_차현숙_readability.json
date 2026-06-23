@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1997_불임나무, 1995.12_차현숙_tagged.txt",
+    "author": "차현숙",
+    "title": "불임나무, 1995.12",
+    "year": "1997",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 15010,
+    "unique_morphemes": 2348,
+    "shannon_entropy": 8.687097390538764
+  },
+  "readability_metrics": {
+    "total_word_count": 6675,
+    "long_word_count": 1421,
+    "average_sentence_length_words": 7.681242807825086,
+    "long_word_ratio_pct": 21.288389513108616,
+    "lix_readability_score": 28.9696323209337
+  }
+}

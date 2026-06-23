@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1933_꽃나무는 심어 놓고_이태준_tagged.txt",
+    "author": "이태준",
+    "title": "꽃나무는 심어 놓고",
+    "year": "1933",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 4726,
+    "unique_morphemes": 1123,
+    "shannon_entropy": 8.350602971510765
+  },
+  "readability_metrics": {
+    "total_word_count": 2102,
+    "long_word_count": 490,
+    "average_sentence_length_words": 10.00952380952381,
+    "long_word_ratio_pct": 23.311132254995243,
+    "lix_readability_score": 33.320656064519056
+  }
+}

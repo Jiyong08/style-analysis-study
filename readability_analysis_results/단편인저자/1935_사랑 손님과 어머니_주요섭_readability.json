@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1935_사랑 손님과 어머니_주요섭_tagged.txt",
+    "author": "주요섭",
+    "title": "사랑 손님과 어머니",
+    "year": "1935",
+    "is_excluded_from_display": true
+  },
+  "entropy_metrics": {
+    "total_morphemes": 10504,
+    "unique_morphemes": 1334,
+    "shannon_entropy": 8.121496664820476
+  },
+  "readability_metrics": {
+    "total_word_count": 4759,
+    "long_word_count": 1231,
+    "average_sentence_length_words": 8.093537414965986,
+    "long_word_ratio_pct": 25.86677873502837,
+    "lix_readability_score": 33.960316149994355
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1979_춤추는 사제_이청준_tagged.txt",
+    "author": "이청준",
+    "title": "춤추는 사제",
+    "year": "1979",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 114350,
+    "unique_morphemes": 6439,
+    "shannon_entropy": 8.94688224443327
+  },
+  "readability_metrics": {
+    "total_word_count": 50836,
+    "long_word_count": 12759,
+    "average_sentence_length_words": 12.76004016064257,
+    "long_word_ratio_pct": 25.09835549610512,
+    "lix_readability_score": 37.85839565674769
+  }
+}

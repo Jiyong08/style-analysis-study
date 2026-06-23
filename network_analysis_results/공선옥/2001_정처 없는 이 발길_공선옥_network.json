@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "2001_정처 없는 이 발길_공선옥_tagged.txt",
+    "author": "공선옥",
+    "title": "정처 없는 이 발길",
+    "year": "2001",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 218,
+    "density": 0.17795918367346938,
+    "average_clustering": 0.5798161853626249,
+    "transitivity": 0.39492466296590006
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "갑생",
+        "value": 0.8163265306122448
+      },
+      {
+        "word": "아들",
+        "value": 0.4081632653061224
+      },
+      {
+        "word": "사람",
+        "value": 0.36734693877551017
+      },
+      {
+        "word": "아내",
+        "value": 0.3469387755102041
+      },
+      {
+        "word": "희망",
+        "value": 0.26530612244897955
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "갑생",
+        "value": 0.7701955782312924
+      },
+      {
+        "word": "아들",
+        "value": 0.25907029478458043
+      },
+      {
+        "word": "사람",
+        "value": 0.1639739229024943
+      },
+      {
+        "word": "이사",
+        "value": 0.13690476190476192
+      },
+      {
+        "word": "오늘",
+        "value": 0.03996598639455782
+      }
+    ]
+  }
+}

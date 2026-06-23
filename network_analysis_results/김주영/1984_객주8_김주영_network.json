@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1984_객주8_김주영_tagged.txt",
+    "author": "김주영",
+    "title": "객주8",
+    "year": "1984",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 756,
+    "density": 0.6171428571428571,
+    "average_clustering": 0.6945515498380175,
+    "transitivity": 0.6755622188905547
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "사람",
+        "value": 0.9795918367346939
+      },
+      {
+        "word": "행수",
+        "value": 0.9795918367346939
+      },
+      {
+        "word": "이용익",
+        "value": 0.9183673469387754
+      },
+      {
+        "word": "처소",
+        "value": 0.8571428571428571
+      },
+      {
+        "word": "길소개",
+        "value": 0.836734693877551
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "행수",
+        "value": 0.6337159863945578
+      },
+      {
+        "word": "사람",
+        "value": 0.36288265306122447
+      },
+      {
+        "word": "이용익",
+        "value": 0.08843537414965986
+      },
+      {
+        "word": "길소개",
+        "value": 0.06526360544217687
+      },
+      {
+        "word": "중전",
+        "value": 0.03996598639455782
+      }
+    ]
+  }
+}

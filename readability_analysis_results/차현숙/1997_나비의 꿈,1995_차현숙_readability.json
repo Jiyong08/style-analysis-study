@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1997_나비의 꿈,1995_차현숙_tagged.txt",
+    "author": "차현숙",
+    "title": "나비의 꿈,1995",
+    "year": "1997",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 12458,
+    "unique_morphemes": 2014,
+    "shannon_entropy": 8.48511885566041
+  },
+  "readability_metrics": {
+    "total_word_count": 5464,
+    "long_word_count": 1163,
+    "average_sentence_length_words": 7.739376770538244,
+    "long_word_ratio_pct": 21.284773060029284,
+    "lix_readability_score": 29.024149830567527
+  }
+}

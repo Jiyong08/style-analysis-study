@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1931_고향_이태준_tagged.txt",
+    "author": "이태준",
+    "title": "고향",
+    "year": "1931",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 8618,
+    "unique_morphemes": 1668,
+    "shannon_entropy": 8.589556711694877
+  },
+  "readability_metrics": {
+    "total_word_count": 3753,
+    "long_word_count": 882,
+    "average_sentence_length_words": 8.303097345132743,
+    "long_word_ratio_pct": 23.501199040767386,
+    "lix_readability_score": 31.80429638590013
+  }
+}

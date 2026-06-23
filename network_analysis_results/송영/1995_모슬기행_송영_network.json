@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1995_모슬기행_송영_tagged.txt",
+    "author": "송영",
+    "title": "모슬기행",
+    "year": "1995",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 464,
+    "density": 0.3787755102040816,
+    "average_clustering": 0.5541517960571599,
+    "transitivity": 0.49553849346337414
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "김정",
+        "value": 0.8775510204081632
+      },
+      {
+        "word": "사람",
+        "value": 0.7551020408163265
+      },
+      {
+        "word": "생각",
+        "value": 0.6938775510204082
+      },
+      {
+        "word": "가잘",
+        "value": 0.673469387755102
+      },
+      {
+        "word": "로라",
+        "value": 0.6326530612244897
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "김정",
+        "value": 0.5830498866213152
+      },
+      {
+        "word": "박해수",
+        "value": 0.24022108843537415
+      },
+      {
+        "word": "사람",
+        "value": 0.1848781179138322
+      },
+      {
+        "word": "로라",
+        "value": 0.14866780045351471
+      },
+      {
+        "word": "시간",
+        "value": 0.0858843537414966
+      }
+    ]
+  }
+}

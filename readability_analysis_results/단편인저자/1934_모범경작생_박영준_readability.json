@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1934_모범경작생_박영준_tagged.txt",
+    "author": "박영준",
+    "title": "모범경작생",
+    "year": "1934",
+    "is_excluded_from_display": true
+  },
+  "entropy_metrics": {
+    "total_morphemes": 7400,
+    "unique_morphemes": 1347,
+    "shannon_entropy": 8.41306812249359
+  },
+  "readability_metrics": {
+    "total_word_count": 3194,
+    "long_word_count": 666,
+    "average_sentence_length_words": 10.270096463022508,
+    "long_word_ratio_pct": 20.851596743894802,
+    "lix_readability_score": 31.12169320691731
+  }
+}

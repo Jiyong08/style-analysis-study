@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "2001_언론낙서백일장_김종광_tagged.txt",
+    "author": "김종광",
+    "title": "언론낙서백일장",
+    "year": "2001",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 393,
+    "density": 0.32081632653061226,
+    "average_clustering": 0.6215839094498932,
+    "transitivity": 0.5011691348402182
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "언론",
+        "value": 0.8163265306122448
+      },
+      {
+        "word": "낙서",
+        "value": 0.7959183673469387
+      },
+      {
+        "word": "백일장",
+        "value": 0.7755102040816326
+      },
+      {
+        "word": "범종",
+        "value": 0.7346938775510203
+      },
+      {
+        "word": "문학",
+        "value": 0.6530612244897959
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "낙서",
+        "value": 0.5396825396825397
+      },
+      {
+        "word": "언론",
+        "value": 0.268140589569161
+      },
+      {
+        "word": "범종",
+        "value": 0.24744897959183673
+      },
+      {
+        "word": "문학",
+        "value": 0.18140589569160998
+      },
+      {
+        "word": "백일장",
+        "value": 0.15334467120181405
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1999_우체부와 올리비아 핫세와 로버트 레드포드_김경욱_tagged.txt",
+    "author": "김경욱",
+    "title": "우체부와 올리비아 핫세와 로버트 레드포드",
+    "year": "1999",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 7570,
+    "unique_morphemes": 1327,
+    "shannon_entropy": 8.086259207151555
+  },
+  "readability_metrics": {
+    "total_word_count": 3349,
+    "long_word_count": 878,
+    "average_sentence_length_words": 7.898584905660377,
+    "long_word_ratio_pct": 26.216781128695132,
+    "lix_readability_score": 34.11536603435551
+  }
+}

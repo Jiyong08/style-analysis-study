@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1990_아무도 죽지 않는다_정종명_tagged.txt",
+    "author": "정종명",
+    "title": "아무도 죽지 않는다",
+    "year": "1990",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 27366,
+    "unique_morphemes": 3566,
+    "shannon_entropy": 8.885173417506191
+  },
+  "readability_metrics": {
+    "total_word_count": 12343,
+    "long_word_count": 3184,
+    "average_sentence_length_words": 9.788263283108645,
+    "long_word_ratio_pct": 25.795997731507736,
+    "lix_readability_score": 35.58426101461638
+  }
+}

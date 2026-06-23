@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1991_살_이호철_tagged.txt",
+    "author": "이호철",
+    "title": "살",
+    "year": "1991",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 9405,
+    "unique_morphemes": 2236,
+    "shannon_entropy": 9.03211244249098
+  },
+  "readability_metrics": {
+    "total_word_count": 3954,
+    "long_word_count": 1227,
+    "average_sentence_length_words": 11.698224852071005,
+    "long_word_ratio_pct": 31.03186646433991,
+    "lix_readability_score": 42.73009131641091
+  }
+}

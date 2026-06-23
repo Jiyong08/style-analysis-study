@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1945_소낙비(소나기)_김유정_tagged.txt",
+    "author": "김유정",
+    "title": "소낙비(소나기)",
+    "year": "1945",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 6458,
+    "unique_morphemes": 1685,
+    "shannon_entropy": 8.72446745973995
+  },
+  "readability_metrics": {
+    "total_word_count": 2965,
+    "long_word_count": 587,
+    "average_sentence_length_words": 10.940959409594097,
+    "long_word_ratio_pct": 19.79763912310287,
+    "lix_readability_score": 30.738598532696965
+  }
+}

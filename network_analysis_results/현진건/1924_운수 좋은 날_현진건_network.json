@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1924_운수 좋은 날_현진건_tagged.txt",
+    "author": "현진건",
+    "title": "운수 좋은 날",
+    "year": "1924",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 203,
+    "density": 0.1657142857142857,
+    "average_clustering": 0.5409836001631667,
+    "transitivity": 0.38483259378781765
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "첨지",
+        "value": 0.7346938775510203
+      },
+      {
+        "word": "얼굴",
+        "value": 0.42857142857142855
+      },
+      {
+        "word": "사람",
+        "value": 0.4081632653061224
+      },
+      {
+        "word": "소리",
+        "value": 0.3469387755102041
+      },
+      {
+        "word": "인력거",
+        "value": 0.3469387755102041
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "첨지",
+        "value": 0.6700113378684808
+      },
+      {
+        "word": "오라",
+        "value": 0.13732993197278912
+      },
+      {
+        "word": "얼굴",
+        "value": 0.08378684807256234
+      },
+      {
+        "word": "사람",
+        "value": 0.08285147392290247
+      },
+      {
+        "word": "설렁탕",
+        "value": 0.06767290249433107
+      }
+    ]
+  }
+}

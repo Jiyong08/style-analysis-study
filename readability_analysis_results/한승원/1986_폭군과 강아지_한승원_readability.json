@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1986_폭군과 강아지_한승원_tagged.txt",
+    "author": "한승원",
+    "title": "폭군과 강아지",
+    "year": "1986",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 182347,
+    "unique_morphemes": 9137,
+    "shannon_entropy": 8.972873587055938
+  },
+  "readability_metrics": {
+    "total_word_count": 77008,
+    "long_word_count": 18973,
+    "average_sentence_length_words": 8.762858443331815,
+    "long_word_ratio_pct": 24.637699979222937,
+    "lix_readability_score": 33.40055842255475
+  }
+}

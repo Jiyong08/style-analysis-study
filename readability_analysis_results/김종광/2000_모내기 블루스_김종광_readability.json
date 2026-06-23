@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "2000_모내기 블루스_김종광_tagged.txt",
+    "author": "김종광",
+    "title": "모내기 블루스",
+    "year": "2000",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 10396,
+    "unique_morphemes": 2142,
+    "shannon_entropy": 8.781757567724107
+  },
+  "readability_metrics": {
+    "total_word_count": 4287,
+    "long_word_count": 1195,
+    "average_sentence_length_words": 8.731160896130346,
+    "long_word_ratio_pct": 27.87497084208071,
+    "lix_readability_score": 36.606131738211054
+  }
+}

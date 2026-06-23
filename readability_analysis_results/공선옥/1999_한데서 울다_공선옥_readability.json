@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1999_한데서 울다_공선옥_tagged.txt",
+    "author": "공선옥",
+    "title": "한데서 울다",
+    "year": "1999",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 10834,
+    "unique_morphemes": 1886,
+    "shannon_entropy": 8.581398745786235
+  },
+  "readability_metrics": {
+    "total_word_count": 4682,
+    "long_word_count": 1228,
+    "average_sentence_length_words": 9.754166666666666,
+    "long_word_ratio_pct": 26.228107646305,
+    "lix_readability_score": 35.98227431297167
+  }
+}

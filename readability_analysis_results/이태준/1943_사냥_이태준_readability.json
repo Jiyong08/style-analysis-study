@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1943_사냥_이태준_tagged.txt",
+    "author": "이태준",
+    "title": "사냥",
+    "year": "1943",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 5305,
+    "unique_morphemes": 1316,
+    "shannon_entropy": 8.52736742631989
+  },
+  "readability_metrics": {
+    "total_word_count": 2315,
+    "long_word_count": 520,
+    "average_sentence_length_words": 10.475113122171946,
+    "long_word_ratio_pct": 22.4622030237581,
+    "lix_readability_score": 32.93731614593005
+  }
+}

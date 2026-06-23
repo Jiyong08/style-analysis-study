@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1999_내 사랑 나의 귀신_최인석_tagged.txt",
+    "author": "최인석",
+    "title": "내 사랑 나의 귀신",
+    "year": "1999",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 43988,
+    "unique_morphemes": 4192,
+    "shannon_entropy": 8.701926926955734
+  },
+  "readability_metrics": {
+    "total_word_count": 19046,
+    "long_word_count": 5045,
+    "average_sentence_length_words": 9.8327310273619,
+    "long_word_ratio_pct": 26.488501522629424,
+    "lix_readability_score": 36.32123254999132
+  }
+}

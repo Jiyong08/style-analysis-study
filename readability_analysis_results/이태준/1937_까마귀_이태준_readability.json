@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1937_까마귀_이태준_tagged.txt",
+    "author": "이태준",
+    "title": "까마귀",
+    "year": "1937",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 7144,
+    "unique_morphemes": 1542,
+    "shannon_entropy": 8.642374370516313
+  },
+  "readability_metrics": {
+    "total_word_count": 3183,
+    "long_word_count": 728,
+    "average_sentence_length_words": 10.136942675159236,
+    "long_word_ratio_pct": 22.871504869619855,
+    "lix_readability_score": 33.00844754477909
+  }
+}

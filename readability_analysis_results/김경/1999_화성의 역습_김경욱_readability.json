@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1999_화성의 역습_김경욱_tagged.txt",
+    "author": "김경욱",
+    "title": "화성의 역습",
+    "year": "1999",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 21650,
+    "unique_morphemes": 2849,
+    "shannon_entropy": 8.42884033159501
+  },
+  "readability_metrics": {
+    "total_word_count": 9142,
+    "long_word_count": 2343,
+    "average_sentence_length_words": 6.957382039573821,
+    "long_word_ratio_pct": 25.628965215488954,
+    "lix_readability_score": 32.586347255062776
+  }
+}

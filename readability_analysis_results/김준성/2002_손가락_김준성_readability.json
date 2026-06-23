@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "2002_손가락_김준성_tagged.txt",
+    "author": "김준성",
+    "title": "손가락",
+    "year": "2002",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 8638,
+    "unique_morphemes": 1511,
+    "shannon_entropy": 8.221253604541072
+  },
+  "readability_metrics": {
+    "total_word_count": 3601,
+    "long_word_count": 1058,
+    "average_sentence_length_words": 19.785714285714285,
+    "long_word_ratio_pct": 29.380727575673426,
+    "lix_readability_score": 49.16644186138771
+  }
+}

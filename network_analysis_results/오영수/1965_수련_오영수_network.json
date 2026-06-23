@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1965_수련_오영수_tagged.txt",
+    "author": "오영수",
+    "title": "수련",
+    "year": "1965",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 307,
+    "density": 0.2506122448979592,
+    "average_clustering": 0.5928579037595264,
+    "transitivity": 0.44090735798703773
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "정옥이",
+        "value": 0.9183673469387754
+      },
+      {
+        "word": "정옥",
+        "value": 0.7346938775510203
+      },
+      {
+        "word": "낚시",
+        "value": 0.6938775510204082
+      },
+      {
+        "word": "여인",
+        "value": 0.6122448979591836
+      },
+      {
+        "word": "자리",
+        "value": 0.42857142857142855
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "정옥이",
+        "value": 0.6455498866213152
+      },
+      {
+        "word": "낚시",
+        "value": 0.19508219954648526
+      },
+      {
+        "word": "정옥",
+        "value": 0.11961451247165535
+      },
+      {
+        "word": "고기",
+        "value": 0.11649659863945577
+      },
+      {
+        "word": "자리",
+        "value": 0.08843537414965986
+      }
+    ]
+  }
+}

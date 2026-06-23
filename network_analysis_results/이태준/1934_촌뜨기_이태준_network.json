@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1934_촌뜨기_이태준_tagged.txt",
+    "author": "이태준",
+    "title": "촌뜨기",
+    "year": "1934",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 198,
+    "density": 0.16163265306122448,
+    "average_clustering": 0.5601668196668197,
+    "transitivity": 0.35402906208718626
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "장군이",
+        "value": 0.7755102040816326
+      },
+      {
+        "word": "아내",
+        "value": 0.44897959183673464
+      },
+      {
+        "word": "소리",
+        "value": 0.32653061224489793
+      },
+      {
+        "word": "사람",
+        "value": 0.3061224489795918
+      },
+      {
+        "word": "안악굴",
+        "value": 0.26530612244897955
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "장군이",
+        "value": 0.8110827664399092
+      },
+      {
+        "word": "아내",
+        "value": 0.2607709750566894
+      },
+      {
+        "word": "안악굴",
+        "value": 0.15915532879818595
+      },
+      {
+        "word": "사람",
+        "value": 0.07086167800453515
+      },
+      {
+        "word": "거리",
+        "value": 0.05222505668934241
+      }
+    ]
+  }
+}

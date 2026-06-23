@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1964_무진기행_김승옥_tagged.txt",
+    "author": "김승옥",
+    "title": "무진기행",
+    "year": "1964",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 15723,
+    "unique_morphemes": 2133,
+    "shannon_entropy": 8.392748277700525
+  },
+  "readability_metrics": {
+    "total_word_count": 6636,
+    "long_word_count": 1521,
+    "average_sentence_length_words": 7.937799043062201,
+    "long_word_ratio_pct": 22.920433996383363,
+    "lix_readability_score": 30.858233039445565
+  }
+}

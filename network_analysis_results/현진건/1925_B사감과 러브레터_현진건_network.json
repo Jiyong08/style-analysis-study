@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1925_B사감과 러브레터_현진건_tagged.txt",
+    "author": "현진건",
+    "title": "B사감과 러브레터",
+    "year": "1925",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 210,
+    "density": 0.17142857142857143,
+    "average_clustering": 0.6195856841592472,
+    "transitivity": 0.44273743016759776
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "소리",
+        "value": 0.4693877551020408
+      },
+      {
+        "word": "편지",
+        "value": 0.4081632653061224
+      },
+      {
+        "word": "사내",
+        "value": 0.3469387755102041
+      },
+      {
+        "word": "학교",
+        "value": 0.3469387755102041
+      },
+      {
+        "word": "기숙",
+        "value": 0.32653061224489793
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "소리",
+        "value": 0.2934496814598854
+      },
+      {
+        "word": "편지",
+        "value": 0.22293151387539148
+      },
+      {
+        "word": "사내",
+        "value": 0.16855782987798293
+      },
+      {
+        "word": "기숙",
+        "value": 0.09609248461289277
+      },
+      {
+        "word": "학생",
+        "value": 0.0944076638591945
+      }
+    ]
+  }
+}

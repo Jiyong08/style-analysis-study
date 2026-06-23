@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1956_오분간_김성한_tagged.txt",
+    "author": "김성한",
+    "title": "오분간",
+    "year": "1956",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 68,
+    "density": 0.05551020408163265,
+    "average_clustering": 0.298,
+    "transitivity": 0.467680608365019
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "프로메테우스",
+        "value": 0.16326530612244897
+      },
+      {
+        "word": "쇠사슬",
+        "value": 0.16326530612244897
+      },
+      {
+        "word": "천사",
+        "value": 0.14285714285714285
+      },
+      {
+        "word": "자유",
+        "value": 0.14285714285714285
+      },
+      {
+        "word": "혼자",
+        "value": 0.14285714285714285
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "프로메테우스",
+        "value": 0.33418367346938777
+      },
+      {
+        "word": "천사",
+        "value": 0.2919501133786848
+      },
+      {
+        "word": "쇠사슬",
+        "value": 0.22406462585034007
+      },
+      {
+        "word": "소리",
+        "value": 0.15844671201814056
+      },
+      {
+        "word": "생각",
+        "value": 0.08673469387755102
+      }
+    ]
+  }
+}

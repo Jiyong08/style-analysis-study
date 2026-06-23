@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1991_그러나 사랑은 아름답다_정종명_tagged.txt",
+    "author": "정종명",
+    "title": "그러나 사랑은 아름답다",
+    "year": "1991",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 31120,
+    "unique_morphemes": 3355,
+    "shannon_entropy": 8.657499834070107
+  },
+  "readability_metrics": {
+    "total_word_count": 13831,
+    "long_word_count": 3370,
+    "average_sentence_length_words": 7.364749733759319,
+    "long_word_ratio_pct": 24.36555563589039,
+    "lix_readability_score": 31.73030536964971
+  }
+}

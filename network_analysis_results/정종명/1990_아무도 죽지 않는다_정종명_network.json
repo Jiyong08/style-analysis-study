@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1990_아무도 죽지 않는다_정종명_tagged.txt",
+    "author": "정종명",
+    "title": "아무도 죽지 않는다",
+    "year": "1990",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 439,
+    "density": 0.35836734693877553,
+    "average_clustering": 0.5545854329455673,
+    "transitivity": 0.49492646220499376
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "사람",
+        "value": 0.7959183673469387
+      },
+      {
+        "word": "사장",
+        "value": 0.7346938775510203
+      },
+      {
+        "word": "병원",
+        "value": 0.673469387755102
+      },
+      {
+        "word": "나중",
+        "value": 0.6122448979591836
+      },
+      {
+        "word": "생각",
+        "value": 0.5714285714285714
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "사장",
+        "value": 0.4176587301587302
+      },
+      {
+        "word": "사람",
+        "value": 0.4072066326530613
+      },
+      {
+        "word": "병원",
+        "value": 0.21605725623582764
+      },
+      {
+        "word": "여자",
+        "value": 0.07635345804988664
+      },
+      {
+        "word": "동생",
+        "value": 0.059771825396825386
+      }
+    ]
+  }
+}

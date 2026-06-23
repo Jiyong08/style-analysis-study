@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "2007_젊은 느티나무_강신재_tagged.txt",
+    "author": "강신재",
+    "title": "젊은 느티나무",
+    "year": "2007",
+    "is_excluded_from_display": true
+  },
+  "entropy_metrics": {
+    "total_morphemes": 10818,
+    "unique_morphemes": 1911,
+    "shannon_entropy": 8.408914493131991
+  },
+  "readability_metrics": {
+    "total_word_count": 4833,
+    "long_word_count": 1008,
+    "average_sentence_length_words": 8.434554973821989,
+    "long_word_ratio_pct": 20.85661080074488,
+    "lix_readability_score": 29.291165774566867
+  }
+}

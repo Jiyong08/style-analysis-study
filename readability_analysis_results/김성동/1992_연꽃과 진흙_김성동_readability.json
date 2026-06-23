@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1992_연꽃과 진흙_김성동_tagged.txt",
+    "author": "김성동",
+    "title": "연꽃과 진흙",
+    "year": "1992",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 26753,
+    "unique_morphemes": 3659,
+    "shannon_entropy": 9.0802198937949
+  },
+  "readability_metrics": {
+    "total_word_count": 11244,
+    "long_word_count": 3098,
+    "average_sentence_length_words": 7.0895334174022695,
+    "long_word_ratio_pct": 27.552472429740305,
+    "lix_readability_score": 34.64200584714258
+  }
+}

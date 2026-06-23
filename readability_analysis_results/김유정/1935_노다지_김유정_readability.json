@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1935_노다지_김유정_tagged.txt",
+    "author": "김유정",
+    "title": "노다지",
+    "year": "1935",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 5326,
+    "unique_morphemes": 1396,
+    "shannon_entropy": 8.577038931439564
+  },
+  "readability_metrics": {
+    "total_word_count": 2386,
+    "long_word_count": 446,
+    "average_sentence_length_words": 7.122388059701493,
+    "long_word_ratio_pct": 18.692372170997487,
+    "lix_readability_score": 25.81476023069898
+  }
+}

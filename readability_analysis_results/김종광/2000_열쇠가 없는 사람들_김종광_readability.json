@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "2000_열쇠가 없는 사람들_김종광_tagged.txt",
+    "author": "김종광",
+    "title": "열쇠가 없는 사람들",
+    "year": "2000",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 13078,
+    "unique_morphemes": 2147,
+    "shannon_entropy": 8.492294004622757
+  },
+  "readability_metrics": {
+    "total_word_count": 5064,
+    "long_word_count": 1570,
+    "average_sentence_length_words": 5.964664310954063,
+    "long_word_ratio_pct": 31.003159557661927,
+    "lix_readability_score": 36.967823868615994
+  }
+}

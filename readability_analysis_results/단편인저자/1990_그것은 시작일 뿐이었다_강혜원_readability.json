@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1990_그것은 시작일 뿐이었다_강혜원_tagged.txt",
+    "author": "강혜원",
+    "title": "그것은 시작일 뿐이었다",
+    "year": "1990",
+    "is_excluded_from_display": true
+  },
+  "entropy_metrics": {
+    "total_morphemes": 12465,
+    "unique_morphemes": 1819,
+    "shannon_entropy": 8.348455780769765
+  },
+  "readability_metrics": {
+    "total_word_count": 5026,
+    "long_word_count": 1327,
+    "average_sentence_length_words": 5.3927038626609445,
+    "long_word_ratio_pct": 26.402705929168324,
+    "lix_readability_score": 31.795409791829268
+  }
+}

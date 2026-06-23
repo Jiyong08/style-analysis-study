@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1973_여름의 잔해_박범신_tagged.txt",
+    "author": "박범신",
+    "title": "여름의 잔해",
+    "year": "1973",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 278,
+    "density": 0.22693877551020408,
+    "average_clustering": 0.620037799465296,
+    "transitivity": 0.39280774550484093
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "여자",
+        "value": 0.8775510204081632
+      },
+      {
+        "word": "오빠",
+        "value": 0.7551020408163265
+      },
+      {
+        "word": "언니",
+        "value": 0.6938775510204082
+      },
+      {
+        "word": "헛간",
+        "value": 0.3469387755102041
+      },
+      {
+        "word": "재실",
+        "value": 0.3469387755102041
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "오빠",
+        "value": 0.4818273539574559
+      },
+      {
+        "word": "여자",
+        "value": 0.40568985530720225
+      },
+      {
+        "word": "언니",
+        "value": 0.23579223356009066
+      },
+      {
+        "word": "금붕어",
+        "value": 0.10218253968253968
+      },
+      {
+        "word": "노송",
+        "value": 0.04787718658892129
+      }
+    ]
+  }
+}

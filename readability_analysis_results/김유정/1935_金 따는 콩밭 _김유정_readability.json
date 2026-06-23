@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1935_金 따는 콩밭 _김유정_tagged.txt",
+    "author": "김유정",
+    "title": "金 따는 콩밭 ",
+    "year": "1935",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 5976,
+    "unique_morphemes": 1517,
+    "shannon_entropy": 8.58015256273424
+  },
+  "readability_metrics": {
+    "total_word_count": 2635,
+    "long_word_count": 530,
+    "average_sentence_length_words": 6.934210526315789,
+    "long_word_ratio_pct": 20.113851992409867,
+    "lix_readability_score": 27.048062518725658
+  }
+}

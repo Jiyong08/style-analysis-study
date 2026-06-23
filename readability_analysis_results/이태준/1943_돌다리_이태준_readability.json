@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1943_돌다리_이태준_tagged.txt",
+    "author": "이태준",
+    "title": "돌다리",
+    "year": "1943",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 4631,
+    "unique_morphemes": 1181,
+    "shannon_entropy": 8.55295055065511
+  },
+  "readability_metrics": {
+    "total_word_count": 1968,
+    "long_word_count": 455,
+    "average_sentence_length_words": 10.637837837837838,
+    "long_word_ratio_pct": 23.119918699186993,
+    "lix_readability_score": 33.75775653702483
+  }
+}

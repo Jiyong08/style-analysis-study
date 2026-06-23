@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "2001_얼굴 없는 전쟁_윤정구_tagged.txt",
+    "author": "윤정구",
+    "title": "얼굴 없는 전쟁",
+    "year": "2001",
+    "is_excluded_from_display": true
+  },
+  "entropy_metrics": {
+    "total_morphemes": 123521,
+    "unique_morphemes": 7172,
+    "shannon_entropy": 8.857184805080042
+  },
+  "readability_metrics": {
+    "total_word_count": 51367,
+    "long_word_count": 12976,
+    "average_sentence_length_words": 7.13034425319267,
+    "long_word_ratio_pct": 25.261354566161152,
+    "lix_readability_score": 32.39169881935382
+  }
+}

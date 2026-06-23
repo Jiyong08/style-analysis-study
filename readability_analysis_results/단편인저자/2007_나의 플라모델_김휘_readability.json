@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "2007_나의 플라모델_김휘_tagged.txt",
+    "author": "김휘",
+    "title": "나의 플라모델",
+    "year": "2007",
+    "is_excluded_from_display": true
+  },
+  "entropy_metrics": {
+    "total_morphemes": 24877,
+    "unique_morphemes": 3100,
+    "shannon_entropy": 8.669375788178979
+  },
+  "readability_metrics": {
+    "total_word_count": 10710,
+    "long_word_count": 2802,
+    "average_sentence_length_words": 7.44266851980542,
+    "long_word_ratio_pct": 26.162464985994397,
+    "lix_readability_score": 33.60513350579982
+  }
+}

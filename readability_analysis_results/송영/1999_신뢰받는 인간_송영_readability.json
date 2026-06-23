@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1999_신뢰받는 인간_송영_tagged.txt",
+    "author": "송영",
+    "title": "신뢰받는 인간",
+    "year": "1999",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 10787,
+    "unique_morphemes": 1758,
+    "shannon_entropy": 8.489243285930323
+  },
+  "readability_metrics": {
+    "total_word_count": 4782,
+    "long_word_count": 1153,
+    "average_sentence_length_words": 8.36013986013986,
+    "long_word_ratio_pct": 24.11125052279381,
+    "lix_readability_score": 32.47139038293367
+  }
+}

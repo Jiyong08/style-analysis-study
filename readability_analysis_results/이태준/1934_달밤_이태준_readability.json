@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1934_달밤_이태준_tagged.txt",
+    "author": "이태준",
+    "title": "달밤",
+    "year": "1934",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 4290,
+    "unique_morphemes": 939,
+    "shannon_entropy": 8.219974147549463
+  },
+  "readability_metrics": {
+    "total_word_count": 1842,
+    "long_word_count": 405,
+    "average_sentence_length_words": 8.186666666666667,
+    "long_word_ratio_pct": 21.98697068403909,
+    "lix_readability_score": 30.173637350705757
+  }
+}

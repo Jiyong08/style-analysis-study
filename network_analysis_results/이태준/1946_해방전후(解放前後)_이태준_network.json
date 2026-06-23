@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1946_해방전후(解放前後)_이태준_tagged.txt",
+    "author": "이태준",
+    "title": "해방전후(解放前後)",
+    "year": "1946",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 464,
+    "density": 0.3787755102040816,
+    "average_clustering": 0.5970974652605666,
+    "transitivity": 0.5555555555555556
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "조선",
+        "value": 0.7959183673469387
+      },
+      {
+        "word": "직원",
+        "value": 0.6530612244897959
+      },
+      {
+        "word": "사람",
+        "value": 0.6326530612244897
+      },
+      {
+        "word": "민족",
+        "value": 0.6326530612244897
+      },
+      {
+        "word": "자신",
+        "value": 0.5918367346938775
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "조선",
+        "value": 0.34090642209264654
+      },
+      {
+        "word": "민족",
+        "value": 0.18730361192095887
+      },
+      {
+        "word": "사람",
+        "value": 0.13126720926465824
+      },
+      {
+        "word": "직원",
+        "value": 0.12890954000647875
+      },
+      {
+        "word": "생각",
+        "value": 0.09718881600259152
+      }
+    ]
+  }
+}

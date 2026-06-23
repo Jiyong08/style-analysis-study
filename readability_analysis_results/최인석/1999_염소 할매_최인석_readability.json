@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1999_염소 할매_최인석_tagged.txt",
+    "author": "최인석",
+    "title": "염소 할매",
+    "year": "1999",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 25278,
+    "unique_morphemes": 3214,
+    "shannon_entropy": 8.798217158235909
+  },
+  "readability_metrics": {
+    "total_word_count": 11235,
+    "long_word_count": 3126,
+    "average_sentence_length_words": 11.642487046632125,
+    "long_word_ratio_pct": 27.823765020026702,
+    "lix_readability_score": 39.466252066658825
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1988_포도나무집 풍경_김영현_tagged.txt",
+    "author": "김영현",
+    "title": "포도나무집 풍경",
+    "year": "1988",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 17072,
+    "unique_morphemes": 2879,
+    "shannon_entropy": 8.78368623065267
+  },
+  "readability_metrics": {
+    "total_word_count": 7387,
+    "long_word_count": 1938,
+    "average_sentence_length_words": 8.87860576923077,
+    "long_word_ratio_pct": 26.235278191417354,
+    "lix_readability_score": 35.113883960648124
+  }
+}

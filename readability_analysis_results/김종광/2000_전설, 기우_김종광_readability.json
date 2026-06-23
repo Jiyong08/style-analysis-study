@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "2000_전설, 기우_김종광_tagged.txt",
+    "author": "김종광",
+    "title": "전설, 기우",
+    "year": "2000",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 10863,
+    "unique_morphemes": 1685,
+    "shannon_entropy": 8.304425576571438
+  },
+  "readability_metrics": {
+    "total_word_count": 4319,
+    "long_word_count": 1194,
+    "average_sentence_length_words": 6.305109489051095,
+    "long_word_ratio_pct": 27.64528826117157,
+    "lix_readability_score": 33.95039775022266
+  }
+}

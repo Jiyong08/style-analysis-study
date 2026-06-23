@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "2009_헤이,Mr.차페크!_이정민_tagged.txt",
+    "author": "이정민",
+    "title": "헤이,Mr.차페크!",
+    "year": "2009",
+    "is_excluded_from_display": true
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 428,
+    "density": 0.34938775510204084,
+    "average_clustering": 0.5007577741500762,
+    "transitivity": 0.456601466992665
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "사람",
+        "value": 0.7142857142857142
+      },
+      {
+        "word": "얼굴",
+        "value": 0.6530612244897959
+      },
+      {
+        "word": "여자",
+        "value": 0.6530612244897959
+      },
+      {
+        "word": "생각",
+        "value": 0.5918367346938775
+      },
+      {
+        "word": "자신",
+        "value": 0.5510204081632653
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "사람",
+        "value": 0.29676870748299317
+      },
+      {
+        "word": "클라라",
+        "value": 0.16539115646258504
+      },
+      {
+        "word": "얼굴",
+        "value": 0.15950963718820863
+      },
+      {
+        "word": "생각",
+        "value": 0.12748015873015875
+      },
+      {
+        "word": "여자",
+        "value": 0.0915532879818594
+      }
+    ]
+  }
+}

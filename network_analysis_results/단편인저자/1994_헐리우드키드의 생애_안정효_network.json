@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1994_헐리우드키드의 생애_안정효_tagged.txt",
+    "author": "안정효",
+    "title": "헐리우드키드의 생애",
+    "year": "1994",
+    "is_excluded_from_display": true
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 1225,
+    "density": 1.0,
+    "average_clustering": 1.0,
+    "transitivity": 1.0
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "영화",
+        "value": 0.9999999999999999
+      },
+      {
+        "word": "병석이",
+        "value": 0.9999999999999999
+      },
+      {
+        "word": "사람",
+        "value": 0.9999999999999999
+      },
+      {
+        "word": "여자",
+        "value": 0.9999999999999999
+      },
+      {
+        "word": "생각",
+        "value": 0.9999999999999999
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "영화",
+        "value": 0.8210034013605442
+      },
+      {
+        "word": "병석이",
+        "value": 0.21726190476190477
+      },
+      {
+        "word": "사람",
+        "value": 0.11394557823129252
+      },
+      {
+        "word": "여자",
+        "value": 0.0
+      },
+      {
+        "word": "생각",
+        "value": 0.0
+      }
+    ]
+  }
+}

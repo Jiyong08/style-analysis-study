@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1995_기다림이 없는 풍경_차현숙_tagged.txt",
+    "author": "차현숙",
+    "title": "기다림이 없는 풍경",
+    "year": "1995",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 9792,
+    "unique_morphemes": 1658,
+    "shannon_entropy": 8.3337016441901
+  },
+  "readability_metrics": {
+    "total_word_count": 4299,
+    "long_word_count": 890,
+    "average_sentence_length_words": 7.176961602671119,
+    "long_word_ratio_pct": 20.70248895091882,
+    "lix_readability_score": 27.87945055358994
+  }
+}

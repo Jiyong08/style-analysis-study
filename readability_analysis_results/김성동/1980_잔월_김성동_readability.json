@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1980_잔월_김성동_tagged.txt",
+    "author": "김성동",
+    "title": "잔월",
+    "year": "1980",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 8946,
+    "unique_morphemes": 1857,
+    "shannon_entropy": 8.617846540426013
+  },
+  "readability_metrics": {
+    "total_word_count": 3726,
+    "long_word_count": 985,
+    "average_sentence_length_words": 6.46875,
+    "long_word_ratio_pct": 26.435856146001072,
+    "lix_readability_score": 32.90460614600107
+  }
+}

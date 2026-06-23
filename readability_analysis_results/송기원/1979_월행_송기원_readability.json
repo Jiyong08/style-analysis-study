@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1979_월행_송기원_tagged.txt",
+    "author": "송기원",
+    "title": "월행",
+    "year": "1979",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 5782,
+    "unique_morphemes": 1265,
+    "shannon_entropy": 8.217935428232979
+  },
+  "readability_metrics": {
+    "total_word_count": 2470,
+    "long_word_count": 525,
+    "average_sentence_length_words": 6.730245231607629,
+    "long_word_ratio_pct": 21.25506072874494,
+    "lix_readability_score": 27.98530596035257
+  }
+}

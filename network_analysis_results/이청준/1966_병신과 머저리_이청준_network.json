@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1966_병신과 머저리_이청준_tagged.txt",
+    "author": "이청준",
+    "title": "병신과 머저리",
+    "year": "1966",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 308,
+    "density": 0.25142857142857145,
+    "average_clustering": 0.5719678878728949,
+    "transitivity": 0.42892257271609996
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "이야기",
+        "value": 0.7346938775510203
+      },
+      {
+        "word": "소설",
+        "value": 0.6122448979591836
+      },
+      {
+        "word": "생각",
+        "value": 0.5918367346938775
+      },
+      {
+        "word": "관모",
+        "value": 0.5102040816326531
+      },
+      {
+        "word": "일병",
+        "value": 0.5102040816326531
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "이야기",
+        "value": 0.5311933106575962
+      },
+      {
+        "word": "일병",
+        "value": 0.27579365079365076
+      },
+      {
+        "word": "관모",
+        "value": 0.232922335600907
+      },
+      {
+        "word": "생각",
+        "value": 0.18484977324263036
+      },
+      {
+        "word": "소설",
+        "value": 0.14346655328798186
+      }
+    ]
+  }
+}

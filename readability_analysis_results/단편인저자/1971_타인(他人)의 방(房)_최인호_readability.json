@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1971_타인(他人)의 방(房)_최인호_tagged.txt",
+    "author": "최인호",
+    "title": "타인(他人)의 방(房)",
+    "year": "1971",
+    "is_excluded_from_display": true
+  },
+  "entropy_metrics": {
+    "total_morphemes": 7287,
+    "unique_morphemes": 1460,
+    "shannon_entropy": 8.241624847803411
+  },
+  "readability_metrics": {
+    "total_word_count": 3243,
+    "long_word_count": 779,
+    "average_sentence_length_words": 8.423376623376623,
+    "long_word_ratio_pct": 24.020968239284613,
+    "lix_readability_score": 32.44434486266124
+  }
+}

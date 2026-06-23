@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1980_잔월_김성동_tagged.txt",
+    "author": "김성동",
+    "title": "잔월",
+    "year": "1980",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 230,
+    "density": 0.18775510204081633,
+    "average_clustering": 0.5711158489575968,
+    "transitivity": 0.4142538975501114
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "아이",
+        "value": 0.6938775510204082
+      },
+      {
+        "word": "아낙",
+        "value": 0.6122448979591836
+      },
+      {
+        "word": "소리",
+        "value": 0.4897959183673469
+      },
+      {
+        "word": "사람",
+        "value": 0.4897959183673469
+      },
+      {
+        "word": "여자",
+        "value": 0.3877551020408163
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "아이",
+        "value": 0.4552154195011337
+      },
+      {
+        "word": "아낙",
+        "value": 0.44940476190476186
+      },
+      {
+        "word": "사람",
+        "value": 0.2013888888888889
+      },
+      {
+        "word": "사내",
+        "value": 0.08503401360544217
+      },
+      {
+        "word": "엄마",
+        "value": 0.07213718820861677
+      }
+    ]
+  }
+}

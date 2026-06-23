@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1957_불신 시대_박경리_tagged.txt",
+    "author": "박경리",
+    "title": "불신 시대",
+    "year": "1957",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 12057,
+    "unique_morphemes": 2201,
+    "shannon_entropy": 8.570660835190973
+  },
+  "readability_metrics": {
+    "total_word_count": 5246,
+    "long_word_count": 1260,
+    "average_sentence_length_words": 7.829850746268657,
+    "long_word_ratio_pct": 24.01829965688143,
+    "lix_readability_score": 31.84815040315009
+  }
+}

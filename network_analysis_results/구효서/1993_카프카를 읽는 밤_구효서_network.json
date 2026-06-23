@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1993_카프카를 읽는 밤_구효서_tagged.txt",
+    "author": "구효서",
+    "title": "카프카를 읽는 밤",
+    "year": "1993",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 179,
+    "density": 0.14612244897959184,
+    "average_clustering": 0.34325417719535367,
+    "transitivity": 0.30843043180260454
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "생각",
+        "value": 0.3469387755102041
+      },
+      {
+        "word": "얘기",
+        "value": 0.3061224489795918
+      },
+      {
+        "word": "모텔",
+        "value": 0.3061224489795918
+      },
+      {
+        "word": "표정",
+        "value": 0.26530612244897955
+      },
+      {
+        "word": "고개",
+        "value": 0.24489795918367346
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "얘기",
+        "value": 0.13633259219993912
+      },
+      {
+        "word": "모텔",
+        "value": 0.11807288752441812
+      },
+      {
+        "word": "친구",
+        "value": 0.11161260319423587
+      },
+      {
+        "word": "생각",
+        "value": 0.08039426087895474
+      },
+      {
+        "word": "여자",
+        "value": 0.07278847144918574
+      }
+    ]
+  }
+}

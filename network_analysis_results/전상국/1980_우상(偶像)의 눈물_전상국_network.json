@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1980_우상(偶像)의 눈물_전상국_tagged.txt",
+    "author": "전상국",
+    "title": "우상(偶像)의 눈물",
+    "year": "1980",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 339,
+    "density": 0.276734693877551,
+    "average_clustering": 0.6145944807988821,
+    "transitivity": 0.43691663984551016
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "기표",
+        "value": 0.9183673469387754
+      },
+      {
+        "word": "선생",
+        "value": 0.6938775510204082
+      },
+      {
+        "word": "담임",
+        "value": 0.673469387755102
+      },
+      {
+        "word": "아이",
+        "value": 0.6326530612244897
+      },
+      {
+        "word": "형우",
+        "value": 0.6122448979591836
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "기표",
+        "value": 0.7137896825396824
+      },
+      {
+        "word": "담임",
+        "value": 0.2902494331065759
+      },
+      {
+        "word": "선생",
+        "value": 0.1960034013605442
+      },
+      {
+        "word": "생각",
+        "value": 0.06660997732426303
+      },
+      {
+        "word": "형우",
+        "value": 0.04428854875283446
+      }
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1974_고압선(高壓線)_조선작_tagged.txt",
+    "author": "조선작",
+    "title": "고압선(高壓線)",
+    "year": "1974",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 199,
+    "density": 0.16244897959183674,
+    "average_clustering": 0.5448643578643578,
+    "transitivity": 0.32737276478679506
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "아내",
+        "value": 0.5714285714285714
+      },
+      {
+        "word": "고압선",
+        "value": 0.5102040816326531
+      },
+      {
+        "word": "아이",
+        "value": 0.44897959183673464
+      },
+      {
+        "word": "복덕방",
+        "value": 0.32653061224489793
+      },
+      {
+        "word": "살이",
+        "value": 0.32653061224489793
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "아내",
+        "value": 0.6759141156462584
+      },
+      {
+        "word": "고압선",
+        "value": 0.38558673469387755
+      },
+      {
+        "word": "아이",
+        "value": 0.2844387755102041
+      },
+      {
+        "word": "복덕방",
+        "value": 0.1837018140589569
+      },
+      {
+        "word": "영감",
+        "value": 0.0684452947845805
+      }
+    ]
+  }
+}

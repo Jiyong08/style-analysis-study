@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1965_수련_오영수_tagged.txt",
+    "author": "오영수",
+    "title": "수련",
+    "year": "1965",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 13271,
+    "unique_morphemes": 2039,
+    "shannon_entropy": 8.628889706447751
+  },
+  "readability_metrics": {
+    "total_word_count": 5769,
+    "long_word_count": 1332,
+    "average_sentence_length_words": 6.63103448275862,
+    "long_word_ratio_pct": 23.088923556942277,
+    "lix_readability_score": 29.7199580397009
+  }
+}

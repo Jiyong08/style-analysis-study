@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1993_반야원을 향햐여_채희윤_tagged.txt",
+    "author": "채희윤",
+    "title": "반야원을 향햐여",
+    "year": "1993",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 152,
+    "density": 0.12408163265306123,
+    "average_clustering": 0.34690004440004435,
+    "transitivity": 0.28596646072374227
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "생각",
+        "value": 0.32653061224489793
+      },
+      {
+        "word": "나이",
+        "value": 0.2857142857142857
+      },
+      {
+        "word": "남자",
+        "value": 0.26530612244897955
+      },
+      {
+        "word": "자신",
+        "value": 0.26530612244897955
+      },
+      {
+        "word": "촌부",
+        "value": 0.26530612244897955
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "사람",
+        "value": 0.19568553611920955
+      },
+      {
+        "word": "생각",
+        "value": 0.18202947845804993
+      },
+      {
+        "word": "남자",
+        "value": 0.1680359842349638
+      },
+      {
+        "word": "어머니",
+        "value": 0.1574344023323615
+      },
+      {
+        "word": "자신",
+        "value": 0.13303166504697117
+      }
+    ]
+  }
+}

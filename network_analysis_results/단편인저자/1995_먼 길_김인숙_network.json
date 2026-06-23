@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1995_먼 길_김인숙_tagged.txt",
+    "author": "김인숙",
+    "title": "먼 길",
+    "year": "1995",
+    "is_excluded_from_display": true
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 450,
+    "density": 0.3673469387755102,
+    "average_clustering": 0.6142013194732401,
+    "transitivity": 0.5132110662107554
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "한영",
+        "value": 0.8979591836734693
+      },
+      {
+        "word": "자신",
+        "value": 0.8163265306122448
+      },
+      {
+        "word": "명우",
+        "value": 0.7959183673469387
+      },
+      {
+        "word": "한림",
+        "value": 0.7959183673469387
+      },
+      {
+        "word": "사람",
+        "value": 0.7142857142857142
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "한영",
+        "value": 0.5831916099773242
+      },
+      {
+        "word": "자신",
+        "value": 0.4115646258503401
+      },
+      {
+        "word": "명우",
+        "value": 0.2069160997732426
+      },
+      {
+        "word": "사람",
+        "value": 0.18239795918367346
+      },
+      {
+        "word": "한림",
+        "value": 0.17609126984126983
+      }
+    ]
+  }
+}

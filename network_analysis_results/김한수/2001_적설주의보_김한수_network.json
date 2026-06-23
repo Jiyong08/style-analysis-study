@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "2001_적설주의보_김한수_tagged.txt",
+    "author": "김한수",
+    "title": "적설주의보",
+    "year": "2001",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 296,
+    "density": 0.2416326530612245,
+    "average_clustering": 0.6036273633347802,
+    "transitivity": 0.4162770930726732
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "석호",
+        "value": 0.9387755102040816
+      },
+      {
+        "word": "아빠",
+        "value": 0.673469387755102
+      },
+      {
+        "word": "사람",
+        "value": 0.5714285714285714
+      },
+      {
+        "word": "하나",
+        "value": 0.5102040816326531
+      },
+      {
+        "word": "소리",
+        "value": 0.44897959183673464
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "석호",
+        "value": 0.8273809523809523
+      },
+      {
+        "word": "아빠",
+        "value": 0.31760204081632654
+      },
+      {
+        "word": "아파트",
+        "value": 0.078656462585034
+      },
+      {
+        "word": "하나",
+        "value": 0.057823129251700675
+      },
+      {
+        "word": "허공",
+        "value": 0.04081632653061224
+      }
+    ]
+  }
+}

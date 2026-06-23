@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1932_不遇先生_이태준_tagged.txt",
+    "author": "이태준",
+    "title": "不遇先生",
+    "year": "1932",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 4364,
+    "unique_morphemes": 1081,
+    "shannon_entropy": 8.424226981891856
+  },
+  "readability_metrics": {
+    "total_word_count": 1881,
+    "long_word_count": 445,
+    "average_sentence_length_words": 9.220588235294118,
+    "long_word_ratio_pct": 23.657628920786816,
+    "lix_readability_score": 32.878217156080936
+  }
+}

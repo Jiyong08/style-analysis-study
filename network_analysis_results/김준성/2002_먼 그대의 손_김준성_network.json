@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "2002_먼 그대의 손_김준성_tagged.txt",
+    "author": "김준성",
+    "title": "먼 그대의 손",
+    "year": "2002",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 314,
+    "density": 0.2563265306122449,
+    "average_clustering": 0.47187209711582156,
+    "transitivity": 0.39241043035827855
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "사람",
+        "value": 0.7551020408163265
+      },
+      {
+        "word": "강대",
+        "value": 0.6530612244897959
+      },
+      {
+        "word": "생각",
+        "value": 0.4897959183673469
+      },
+      {
+        "word": "남편",
+        "value": 0.42857142857142855
+      },
+      {
+        "word": "커피숍",
+        "value": 0.4081632653061224
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "강대",
+        "value": 0.41687925170068024
+      },
+      {
+        "word": "사람",
+        "value": 0.4168083900226757
+      },
+      {
+        "word": "생각",
+        "value": 0.16142290249433106
+      },
+      {
+        "word": "동민",
+        "value": 0.08000283446712018
+      },
+      {
+        "word": "소리",
+        "value": 0.06547619047619048
+      }
+    ]
+  }
+}

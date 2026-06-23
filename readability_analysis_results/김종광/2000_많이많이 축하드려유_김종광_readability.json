@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "2000_많이많이 축하드려유_김종광_tagged.txt",
+    "author": "김종광",
+    "title": "많이많이 축하드려유",
+    "year": "2000",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 11885,
+    "unique_morphemes": 2371,
+    "shannon_entropy": 8.867891049144013
+  },
+  "readability_metrics": {
+    "total_word_count": 4809,
+    "long_word_count": 1360,
+    "average_sentence_length_words": 6.551771117166212,
+    "long_word_ratio_pct": 28.280307756290288,
+    "lix_readability_score": 34.8320788734565
+  }
+}

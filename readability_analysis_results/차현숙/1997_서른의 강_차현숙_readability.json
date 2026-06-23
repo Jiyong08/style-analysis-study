@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1997_서른의 강_차현숙_tagged.txt",
+    "author": "차현숙",
+    "title": "서른의 강",
+    "year": "1997",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 5163,
+    "unique_morphemes": 1273,
+    "shannon_entropy": 8.361139020353193
+  },
+  "readability_metrics": {
+    "total_word_count": 2281,
+    "long_word_count": 516,
+    "average_sentence_length_words": 6.768545994065282,
+    "long_word_ratio_pct": 22.62165716790881,
+    "lix_readability_score": 29.390203161974092
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1968_강_서정인_tagged.txt",
+    "author": "서정인",
+    "title": "강",
+    "year": "1968",
+    "is_excluded_from_display": true
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 128,
+    "density": 0.10448979591836735,
+    "average_clustering": 0.3771716427363486,
+    "transitivity": 0.3127962085308057
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "사람",
+        "value": 0.5102040816326531
+      },
+      {
+        "word": "여자",
+        "value": 0.36734693877551017
+      },
+      {
+        "word": "생각",
+        "value": 0.26530612244897955
+      },
+      {
+        "word": "머리",
+        "value": 0.26530612244897955
+      },
+      {
+        "word": "창밖",
+        "value": 0.24489795918367346
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "사람",
+        "value": 0.5160289115646258
+      },
+      {
+        "word": "여자",
+        "value": 0.30783730158730155
+      },
+      {
+        "word": "소리",
+        "value": 0.14446570294784583
+      },
+      {
+        "word": "생각",
+        "value": 0.11723356009070293
+      },
+      {
+        "word": "고개",
+        "value": 0.0862953514739229
+      }
+    ]
+  }
+}

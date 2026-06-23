@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1994_빈집_신경숙_tagged.txt",
+    "author": "신경숙",
+    "title": "빈집",
+    "year": "1994",
+    "is_excluded_from_display": true
+  },
+  "entropy_metrics": {
+    "total_morphemes": 14265,
+    "unique_morphemes": 1949,
+    "shannon_entropy": 8.439843326244484
+  },
+  "readability_metrics": {
+    "total_word_count": 6532,
+    "long_word_count": 1309,
+    "average_sentence_length_words": 10.351822503961966,
+    "long_word_ratio_pct": 20.03980404164115,
+    "lix_readability_score": 30.391626545603117
+  }
+}

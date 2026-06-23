@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1938_태평천하_채만식_tagged.txt",
+    "author": "채만식",
+    "title": "태평천하",
+    "year": "1938",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 92172,
+    "unique_morphemes": 7796,
+    "shannon_entropy": 9.531640108532786
+  },
+  "readability_metrics": {
+    "total_word_count": 41095,
+    "long_word_count": 9343,
+    "average_sentence_length_words": 9.845471969333973,
+    "long_word_ratio_pct": 22.735125927728433,
+    "lix_readability_score": 32.580597897062404
+  }
+}

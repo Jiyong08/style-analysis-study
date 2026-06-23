@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1999_홀로어멈_공선옥_tagged.txt",
+    "author": "공선옥",
+    "title": "홀로어멈",
+    "year": "1999",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 11684,
+    "unique_morphemes": 2033,
+    "shannon_entropy": 8.7331980664637
+  },
+  "readability_metrics": {
+    "total_word_count": 5141,
+    "long_word_count": 1263,
+    "average_sentence_length_words": 8.773037542662117,
+    "long_word_ratio_pct": 24.56720482396421,
+    "lix_readability_score": 33.34024236662633
+  }
+}

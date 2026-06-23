@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1991_시인과 도둑_이문열_tagged.txt",
+    "author": "이문열",
+    "title": "시인과 도둑",
+    "year": "1991",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 9178,
+    "unique_morphemes": 1832,
+    "shannon_entropy": 8.577799147921487
+  },
+  "readability_metrics": {
+    "total_word_count": 3877,
+    "long_word_count": 1006,
+    "average_sentence_length_words": 11.270348837209303,
+    "long_word_ratio_pct": 25.947897859169462,
+    "lix_readability_score": 37.21824669637876
+  }
+}

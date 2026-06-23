@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1978_역신의 축제_박범신_tagged.txt",
+    "author": "박범신",
+    "title": "역신의 축제",
+    "year": "1978",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 197,
+    "density": 0.16081632653061226,
+    "average_clustering": 0.3911464782780572,
+    "transitivity": 0.35439961108410306
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "전도사",
+        "value": 0.5510204081632653
+      },
+      {
+        "word": "누나",
+        "value": 0.42857142857142855
+      },
+      {
+        "word": "진사",
+        "value": 0.4081632653061224
+      },
+      {
+        "word": "사람",
+        "value": 0.32653061224489793
+      },
+      {
+        "word": "마을",
+        "value": 0.32653061224489793
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "전도사",
+        "value": 0.45255810657596374
+      },
+      {
+        "word": "누나",
+        "value": 0.32901077097505665
+      },
+      {
+        "word": "나뭇가지",
+        "value": 0.13010204081632654
+      },
+      {
+        "word": "이마",
+        "value": 0.12329931972789115
+      },
+      {
+        "word": "진사",
+        "value": 0.10448554421768708
+      }
+    ]
+  }
+}

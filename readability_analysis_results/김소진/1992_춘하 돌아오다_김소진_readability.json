@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1992_춘하 돌아오다_김소진_tagged.txt",
+    "author": "김소진",
+    "title": "춘하 돌아오다",
+    "year": "1992",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 9754,
+    "unique_morphemes": 2594,
+    "shannon_entropy": 9.187421692928257
+  },
+  "readability_metrics": {
+    "total_word_count": 4226,
+    "long_word_count": 1211,
+    "average_sentence_length_words": 9.475336322869955,
+    "long_word_ratio_pct": 28.655939422621863,
+    "lix_readability_score": 38.13127574549182
+  }
+}

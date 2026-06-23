@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "2000_배신_김종광_tagged.txt",
+    "author": "김종광",
+    "title": "배신",
+    "year": "2000",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 17025,
+    "unique_morphemes": 2711,
+    "shannon_entropy": 8.730480387844608
+  },
+  "readability_metrics": {
+    "total_word_count": 6841,
+    "long_word_count": 2066,
+    "average_sentence_length_words": 7.765039727582293,
+    "long_word_ratio_pct": 30.200263119426985,
+    "lix_readability_score": 37.965302847009276
+  }
+}

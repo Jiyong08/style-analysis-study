@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1937_땡볕_김유정_tagged.txt",
+    "author": "김유정",
+    "title": "땡볕",
+    "year": "1937",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 178,
+    "density": 0.14530612244897959,
+    "average_clustering": 0.33048553476107656,
+    "transitivity": 0.3038216560509554
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "아내",
+        "value": 0.4081632653061224
+      },
+      {
+        "word": "소리",
+        "value": 0.3877551020408163
+      },
+      {
+        "word": "고개",
+        "value": 0.36734693877551017
+      },
+      {
+        "word": "생각",
+        "value": 0.2857142857142857
+      },
+      {
+        "word": "다음",
+        "value": 0.2857142857142857
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "아내",
+        "value": 0.5099854227405248
+      },
+      {
+        "word": "소리",
+        "value": 0.35497448979591834
+      },
+      {
+        "word": "생각",
+        "value": 0.13005952380952382
+      },
+      {
+        "word": "고개",
+        "value": 0.08547538062844183
+      },
+      {
+        "word": "간호부",
+        "value": 0.07879818594104308
+      }
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "2002_어떤 종점_김준성_tagged.txt",
+    "author": "김준성",
+    "title": "어떤 종점",
+    "year": "2002",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 174,
+    "density": 0.14204081632653062,
+    "average_clustering": 0.4217211657737973,
+    "transitivity": 0.2978994271164863
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "사람",
+        "value": 0.5714285714285714
+      },
+      {
+        "word": "카바레",
+        "value": 0.3877551020408163
+      },
+      {
+        "word": "종업원",
+        "value": 0.3061224489795918
+      },
+      {
+        "word": "얼굴",
+        "value": 0.2857142857142857
+      },
+      {
+        "word": "두목",
+        "value": 0.24489795918367346
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "사람",
+        "value": 0.42664196631033363
+      },
+      {
+        "word": "카바레",
+        "value": 0.3107527534823453
+      },
+      {
+        "word": "종업원",
+        "value": 0.1662202380952381
+      },
+      {
+        "word": "얼굴",
+        "value": 0.11418650793650793
+      },
+      {
+        "word": "제복",
+        "value": 0.0742063492063492
+      }
+    ]
+  }
+}

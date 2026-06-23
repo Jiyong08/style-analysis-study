@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1993_허공을 나는 화살은 정지되어 있다_박정규_tagged.txt",
+    "author": "박정규",
+    "title": "허공을 나는 화살은 정지되어 있다",
+    "year": "1993",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 9876,
+    "unique_morphemes": 2287,
+    "shannon_entropy": 8.84401259939905
+  },
+  "readability_metrics": {
+    "total_word_count": 4332,
+    "long_word_count": 1196,
+    "average_sentence_length_words": 12.20281690140845,
+    "long_word_ratio_pct": 27.60849492151431,
+    "lix_readability_score": 39.81131182292276
+  }
+}

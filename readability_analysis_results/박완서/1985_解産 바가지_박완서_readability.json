@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1985_解産 바가지_박완서_tagged.txt",
+    "author": "박완서",
+    "title": "解産 바가지",
+    "year": "1985",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 14130,
+    "unique_morphemes": 2488,
+    "shannon_entropy": 8.77836660517579
+  },
+  "readability_metrics": {
+    "total_word_count": 6185,
+    "long_word_count": 1493,
+    "average_sentence_length_words": 9.23134328358209,
+    "long_word_ratio_pct": 24.139046079223927,
+    "lix_readability_score": 33.370389362806016
+  }
+}

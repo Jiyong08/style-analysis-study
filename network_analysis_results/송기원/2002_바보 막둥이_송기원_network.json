@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "2002_바보 막둥이_송기원_tagged.txt",
+    "author": "송기원",
+    "title": "바보 막둥이",
+    "year": "2002",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 248,
+    "density": 0.20244897959183675,
+    "average_clustering": 0.5110018421495051,
+    "transitivity": 0.3569643972517177
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "막둥이",
+        "value": 0.836734693877551
+      },
+      {
+        "word": "선생",
+        "value": 0.5510204081632653
+      },
+      {
+        "word": "해창",
+        "value": 0.4081632653061224
+      },
+      {
+        "word": "자신",
+        "value": 0.36734693877551017
+      },
+      {
+        "word": "장터",
+        "value": 0.3469387755102041
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "막둥이",
+        "value": 0.7691326530612244
+      },
+      {
+        "word": "선생",
+        "value": 0.31951530612244905
+      },
+      {
+        "word": "노인",
+        "value": 0.15376984126984125
+      },
+      {
+        "word": "장터",
+        "value": 0.07886904761904762
+      },
+      {
+        "word": "웃음",
+        "value": 0.07738095238095238
+      }
+    ]
+  }
+}

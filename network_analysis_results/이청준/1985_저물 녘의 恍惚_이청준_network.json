@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1985_저물 녘의 恍惚_이청준_tagged.txt",
+    "author": "이청준",
+    "title": "저물 녘의 恍惚",
+    "year": "1985",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 193,
+    "density": 0.15755102040816327,
+    "average_clustering": 0.4103069022480787,
+    "transitivity": 0.3342712436691052
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "할머니",
+        "value": 0.44897959183673464
+      },
+      {
+        "word": "생각",
+        "value": 0.3469387755102041
+      },
+      {
+        "word": "아이",
+        "value": 0.3061224489795918
+      },
+      {
+        "word": "화초",
+        "value": 0.3061224489795918
+      },
+      {
+        "word": "시작",
+        "value": 0.3061224489795918
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "할머니",
+        "value": 0.35507369614512474
+      },
+      {
+        "word": "아이",
+        "value": 0.23103741496598643
+      },
+      {
+        "word": "박사",
+        "value": 0.16985544217687074
+      },
+      {
+        "word": "화초",
+        "value": 0.1206065759637188
+      },
+      {
+        "word": "시작",
+        "value": 0.10246598639455783
+      }
+    ]
+  }
+}

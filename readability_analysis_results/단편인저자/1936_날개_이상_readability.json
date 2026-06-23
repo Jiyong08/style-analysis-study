@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1936_날개_이상_tagged.txt",
+    "author": "이상",
+    "title": "날개",
+    "year": "1936",
+    "is_excluded_from_display": true
+  },
+  "entropy_metrics": {
+    "total_morphemes": 12707,
+    "unique_morphemes": 1915,
+    "shannon_entropy": 8.211604517256484
+  },
+  "readability_metrics": {
+    "total_word_count": 5898,
+    "long_word_count": 1148,
+    "average_sentence_length_words": 9.158385093167702,
+    "long_word_ratio_pct": 19.46422516107155,
+    "lix_readability_score": 28.62261025423925
+  }
+}

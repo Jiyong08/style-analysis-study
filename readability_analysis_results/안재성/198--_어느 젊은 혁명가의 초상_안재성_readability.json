@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "198--_어느 젊은 혁명가의 초상_안재성_tagged.txt",
+    "author": "안재성",
+    "title": "어느 젊은 혁명가의 초상",
+    "year": "198--",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 24561,
+    "unique_morphemes": 3101,
+    "shannon_entropy": 8.86650309490297
+  },
+  "readability_metrics": {
+    "total_word_count": 10299,
+    "long_word_count": 3291,
+    "average_sentence_length_words": 8.160855784469097,
+    "long_word_ratio_pct": 31.954558695018935,
+    "lix_readability_score": 40.11541447948803
+  }
+}

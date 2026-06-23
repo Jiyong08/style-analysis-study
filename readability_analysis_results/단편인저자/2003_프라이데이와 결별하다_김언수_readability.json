@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "2003_프라이데이와 결별하다_김언수_tagged.txt",
+    "author": "김언수",
+    "title": "프라이데이와 결별하다",
+    "year": "2003",
+    "is_excluded_from_display": true
+  },
+  "entropy_metrics": {
+    "total_morphemes": 29682,
+    "unique_morphemes": 2688,
+    "shannon_entropy": 8.486445172421467
+  },
+  "readability_metrics": {
+    "total_word_count": 13488,
+    "long_word_count": 3157,
+    "average_sentence_length_words": 11.769633507853403,
+    "long_word_ratio_pct": 23.405990510083036,
+    "lix_readability_score": 35.17562401793644
+  }
+}

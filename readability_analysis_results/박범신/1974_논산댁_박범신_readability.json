@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1974_논산댁_박범신_tagged.txt",
+    "author": "박범신",
+    "title": "논산댁",
+    "year": "1974",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 9653,
+    "unique_morphemes": 2028,
+    "shannon_entropy": 8.716101159822882
+  },
+  "readability_metrics": {
+    "total_word_count": 4097,
+    "long_word_count": 1245,
+    "average_sentence_length_words": 8.791845493562231,
+    "long_word_ratio_pct": 30.388088845496704,
+    "lix_readability_score": 39.17993433905893
+  }
+}

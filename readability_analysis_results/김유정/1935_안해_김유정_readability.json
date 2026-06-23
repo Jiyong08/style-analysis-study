@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1935_안해_김유정_tagged.txt",
+    "author": "김유정",
+    "title": "안해",
+    "year": "1935",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 5937,
+    "unique_morphemes": 1346,
+    "shannon_entropy": 8.612470202544163
+  },
+  "readability_metrics": {
+    "total_word_count": 2810,
+    "long_word_count": 517,
+    "average_sentence_length_words": 9.825174825174825,
+    "long_word_ratio_pct": 18.398576512455517,
+    "lix_readability_score": 28.22375133763034
+  }
+}

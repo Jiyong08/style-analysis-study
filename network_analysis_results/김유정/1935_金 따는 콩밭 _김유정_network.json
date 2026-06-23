@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1935_金 따는 콩밭 _김유정_tagged.txt",
+    "author": "김유정",
+    "title": "金 따는 콩밭 ",
+    "year": "1935",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 101,
+    "density": 0.08244897959183674,
+    "average_clustering": 0.43383533133533136,
+    "transitivity": 0.33612040133779264
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "영식이",
+        "value": 0.32653061224489793
+      },
+      {
+        "word": "아내",
+        "value": 0.26530612244897955
+      },
+      {
+        "word": "남편",
+        "value": 0.24489795918367346
+      },
+      {
+        "word": "수재",
+        "value": 0.2040816326530612
+      },
+      {
+        "word": "오늘",
+        "value": 0.2040816326530612
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "남편",
+        "value": 0.30002834467120176
+      },
+      {
+        "word": "영식이",
+        "value": 0.28904478458049887
+      },
+      {
+        "word": "아내",
+        "value": 0.26566043083900226
+      },
+      {
+        "word": "버력",
+        "value": 0.14930555555555552
+      },
+      {
+        "word": "수재",
+        "value": 0.12011054421768708
+      }
+    ]
+  }
+}

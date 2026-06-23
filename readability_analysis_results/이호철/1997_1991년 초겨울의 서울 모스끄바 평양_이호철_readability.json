@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1997_1991년 초겨울의 서울 모스끄바 평양_이호철_tagged.txt",
+    "author": "이호철",
+    "title": "1991년 초겨울의 서울 모스끄바 평양",
+    "year": "1997",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 33420,
+    "unique_morphemes": 4048,
+    "shannon_entropy": 9.120482050434205
+  },
+  "readability_metrics": {
+    "total_word_count": 14305,
+    "long_word_count": 4654,
+    "average_sentence_length_words": 10.97851112816577,
+    "long_word_ratio_pct": 32.53407899335897,
+    "lix_readability_score": 43.51259012152474
+  }
+}

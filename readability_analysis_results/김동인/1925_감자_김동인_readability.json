@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1925_감자_김동인_tagged.txt",
+    "author": "김동인",
+    "title": "감자",
+    "year": "1925",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 3520,
+    "unique_morphemes": 845,
+    "shannon_entropy": 7.999289415158791
+  },
+  "readability_metrics": {
+    "total_word_count": 1536,
+    "long_word_count": 328,
+    "average_sentence_length_words": 7.641791044776119,
+    "long_word_ratio_pct": 21.354166666666668,
+    "lix_readability_score": 28.995957711442788
+  }
+}

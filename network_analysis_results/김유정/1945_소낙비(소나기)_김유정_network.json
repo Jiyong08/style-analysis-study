@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1945_소낙비(소나기)_김유정_tagged.txt",
+    "author": "김유정",
+    "title": "소낙비(소나기)",
+    "year": "1945",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 184,
+    "density": 0.15020408163265306,
+    "average_clustering": 0.4407881334351923,
+    "transitivity": 0.33812154696132596
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "아내",
+        "value": 0.5714285714285714
+      },
+      {
+        "word": "남편",
+        "value": 0.36734693877551017
+      },
+      {
+        "word": "엄마",
+        "value": 0.3469387755102041
+      },
+      {
+        "word": "주사",
+        "value": 0.3061224489795918
+      },
+      {
+        "word": "계집",
+        "value": 0.2857142857142857
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "아내",
+        "value": 0.5107254211208293
+      },
+      {
+        "word": "남편",
+        "value": 0.20347930839002268
+      },
+      {
+        "word": "엄마",
+        "value": 0.12531179138321993
+      },
+      {
+        "word": "주사",
+        "value": 0.11344246031746032
+      },
+      {
+        "word": "춘호",
+        "value": 0.0894163022351798
+      }
+    ]
+  }
+}

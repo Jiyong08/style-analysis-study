@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "2001_사촌아부지_송기원_tagged.txt",
+    "author": "송기원",
+    "title": "사촌아부지",
+    "year": "2001",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 13486,
+    "unique_morphemes": 2158,
+    "shannon_entropy": 8.678192295895764
+  },
+  "readability_metrics": {
+    "total_word_count": 5837,
+    "long_word_count": 1687,
+    "average_sentence_length_words": 11.160611854684513,
+    "long_word_ratio_pct": 28.901833133458968,
+    "lix_readability_score": 40.06244498814348
+  }
+}

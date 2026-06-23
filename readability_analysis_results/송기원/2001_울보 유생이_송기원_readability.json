@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "2001_울보 유생이_송기원_tagged.txt",
+    "author": "송기원",
+    "title": "울보 유생이",
+    "year": "2001",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 9424,
+    "unique_morphemes": 1870,
+    "shannon_entropy": 8.662204843277618
+  },
+  "readability_metrics": {
+    "total_word_count": 4099,
+    "long_word_count": 1216,
+    "average_sentence_length_words": 12.235820895522387,
+    "long_word_ratio_pct": 29.66577213954623,
+    "lix_readability_score": 41.901593035068615
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1941_별_황순원_tagged.txt",
+    "author": "황순원",
+    "title": "별",
+    "year": "1941",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 343,
+    "density": 0.28,
+    "average_clustering": 0.6980569300354021,
+    "transitivity": 0.48373734274317276
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "아이",
+        "value": 0.9999999999999999
+      },
+      {
+        "word": "누이",
+        "value": 0.8775510204081632
+      },
+      {
+        "word": "생각",
+        "value": 0.7142857142857142
+      },
+      {
+        "word": "어머니",
+        "value": 0.5714285714285714
+      },
+      {
+        "word": "얼굴",
+        "value": 0.5714285714285714
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "아이",
+        "value": 0.7806122448979591
+      },
+      {
+        "word": "누이",
+        "value": 0.46088435374149656
+      },
+      {
+        "word": "노파",
+        "value": 0.07908163265306122
+      },
+      {
+        "word": "인형",
+        "value": 0.04081632653061224
+      },
+      {
+        "word": "당나귀",
+        "value": 0.002125850340136054
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1978_집보기는 그렇게 끝났다_박완서_tagged.txt",
+    "author": "박완서",
+    "title": "집보기는 그렇게 끝났다",
+    "year": "1978",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 8525,
+    "unique_morphemes": 1608,
+    "shannon_entropy": 8.446892092655457
+  },
+  "readability_metrics": {
+    "total_word_count": 3638,
+    "long_word_count": 1006,
+    "average_sentence_length_words": 9.573684210526316,
+    "long_word_ratio_pct": 27.652556349642662,
+    "lix_readability_score": 37.226240560168975
+  }
+}

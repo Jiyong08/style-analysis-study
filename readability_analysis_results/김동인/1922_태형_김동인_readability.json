@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1922_태형_김동인_tagged.txt",
+    "author": "김동인",
+    "title": "태형",
+    "year": "1922",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 8028,
+    "unique_morphemes": 1369,
+    "shannon_entropy": 8.38913233128745
+  },
+  "readability_metrics": {
+    "total_word_count": 3445,
+    "long_word_count": 653,
+    "average_sentence_length_words": 7.192066805845512,
+    "long_word_ratio_pct": 18.95500725689405,
+    "lix_readability_score": 26.147074062739563
+  }
+}

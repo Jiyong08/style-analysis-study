@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "2002_언덕 저편_이혜경_tagged.txt",
+    "author": "이혜경",
+    "title": "언덕 저편",
+    "year": "2002",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 10461,
+    "unique_morphemes": 2156,
+    "shannon_entropy": 8.794068379827396
+  },
+  "readability_metrics": {
+    "total_word_count": 4456,
+    "long_word_count": 1298,
+    "average_sentence_length_words": 8.191176470588236,
+    "long_word_ratio_pct": 29.129263913824058,
+    "lix_readability_score": 37.320440384412294
+  }
+}

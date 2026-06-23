@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1931_아무 일도 없소_이태준_tagged.txt",
+    "author": "이태준",
+    "title": "아무 일도 없소",
+    "year": "1931",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 4757,
+    "unique_morphemes": 1187,
+    "shannon_entropy": 8.3885105930191
+  },
+  "readability_metrics": {
+    "total_word_count": 2126,
+    "long_word_count": 484,
+    "average_sentence_length_words": 9.491071428571429,
+    "long_word_ratio_pct": 22.765757290686736,
+    "lix_readability_score": 32.256828719258166
+  }
+}

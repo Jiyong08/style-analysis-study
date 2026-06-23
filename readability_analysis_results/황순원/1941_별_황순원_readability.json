@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1941_별_황순원_tagged.txt",
+    "author": "황순원",
+    "title": "별",
+    "year": "1941",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 6339,
+    "unique_morphemes": 1145,
+    "shannon_entropy": 8.20134880130219
+  },
+  "readability_metrics": {
+    "total_word_count": 2901,
+    "long_word_count": 629,
+    "average_sentence_length_words": 13.126696832579185,
+    "long_word_ratio_pct": 21.682178559117546,
+    "lix_readability_score": 34.80887539169673
+  }
+}

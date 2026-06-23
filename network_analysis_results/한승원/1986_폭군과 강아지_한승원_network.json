@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1986_폭군과 강아지_한승원_tagged.txt",
+    "author": "한승원",
+    "title": "폭군과 강아지",
+    "year": "1986",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 861,
+    "density": 0.7028571428571428,
+    "average_clustering": 0.793240239694838,
+    "transitivity": 0.7692684840164739
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "생각",
+        "value": 0.9999999999999999
+      },
+      {
+        "word": "현진",
+        "value": 0.9795918367346939
+      },
+      {
+        "word": "연희",
+        "value": 0.9591836734693877
+      },
+      {
+        "word": "사람",
+        "value": 0.9387755102040816
+      },
+      {
+        "word": "얼굴",
+        "value": 0.9183673469387754
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "현진",
+        "value": 0.7738095238095238
+      },
+      {
+        "word": "생각",
+        "value": 0.17687074829931973
+      },
+      {
+        "word": "연희",
+        "value": 0.11394557823129252
+      },
+      {
+        "word": "여사",
+        "value": 0.11224489795918367
+      },
+      {
+        "word": "담배",
+        "value": 0.08078231292517006
+      }
+    ]
+  }
+}

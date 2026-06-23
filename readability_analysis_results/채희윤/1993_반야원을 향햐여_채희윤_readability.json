@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1993_반야원을 향햐여_채희윤_tagged.txt",
+    "author": "채희윤",
+    "title": "반야원을 향햐여",
+    "year": "1993",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 8623,
+    "unique_morphemes": 1756,
+    "shannon_entropy": 8.438151650310978
+  },
+  "readability_metrics": {
+    "total_word_count": 3645,
+    "long_word_count": 955,
+    "average_sentence_length_words": 6.712707182320442,
+    "long_word_ratio_pct": 26.200274348422496,
+    "lix_readability_score": 32.91298153074294
+  }
+}

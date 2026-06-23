@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "2000_식물들의 사생활_이승우_tagged.txt",
+    "author": "이승우",
+    "title": "식물들의 사생활",
+    "year": "2000",
+    "is_excluded_from_display": true
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 701,
+    "density": 0.5722448979591837,
+    "average_clustering": 0.6897156584931348,
+    "transitivity": 0.6619468177018335
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "생각",
+        "value": 0.9591836734693877
+      },
+      {
+        "word": "어머니",
+        "value": 0.9387755102040816
+      },
+      {
+        "word": "사람",
+        "value": 0.8571428571428571
+      },
+      {
+        "word": "아버지",
+        "value": 0.836734693877551
+      },
+      {
+        "word": "여자",
+        "value": 0.836734693877551
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "어머니",
+        "value": 0.5889314058956916
+      },
+      {
+        "word": "사람",
+        "value": 0.20960884353741496
+      },
+      {
+        "word": "생각",
+        "value": 0.18112244897959184
+      },
+      {
+        "word": "나무",
+        "value": 0.09013605442176871
+      },
+      {
+        "word": "아버지",
+        "value": 0.08843537414965986
+      }
+    ]
+  }
+}

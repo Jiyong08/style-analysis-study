@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1936_산_이효석_tagged.txt",
+    "author": "이효석",
+    "title": "산",
+    "year": "1936",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 145,
+    "density": 0.11836734693877551,
+    "average_clustering": 0.5485894383394383,
+    "transitivity": 0.3911042944785276
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "나무",
+        "value": 0.673469387755102
+      },
+      {
+        "word": "생각",
+        "value": 0.26530612244897955
+      },
+      {
+        "word": "하늘",
+        "value": 0.24489795918367346
+      },
+      {
+        "word": "골짜기",
+        "value": 0.24489795918367346
+      },
+      {
+        "word": "향기",
+        "value": 0.22448979591836732
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "나무",
+        "value": 0.5736151603498543
+      },
+      {
+        "word": "골짜기",
+        "value": 0.13493885649497894
+      },
+      {
+        "word": "하늘",
+        "value": 0.11336248785228377
+      },
+      {
+        "word": "향기",
+        "value": 0.10590986394557822
+      },
+      {
+        "word": "생각",
+        "value": 0.09230644638807904
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "2003_물총새 성관이_송기원_tagged.txt",
+    "author": "송기원",
+    "title": "물총새 성관이",
+    "year": "2003",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 10428,
+    "unique_morphemes": 1878,
+    "shannon_entropy": 8.752181439513501
+  },
+  "readability_metrics": {
+    "total_word_count": 4382,
+    "long_word_count": 1311,
+    "average_sentence_length_words": 10.71393643031785,
+    "long_word_ratio_pct": 29.91784573254222,
+    "lix_readability_score": 40.63178216286007
+  }
+}

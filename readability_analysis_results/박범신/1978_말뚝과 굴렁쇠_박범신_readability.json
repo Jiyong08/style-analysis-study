@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1978_말뚝과 굴렁쇠_박범신_tagged.txt",
+    "author": "박범신",
+    "title": "말뚝과 굴렁쇠",
+    "year": "1978",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 10127,
+    "unique_morphemes": 1988,
+    "shannon_entropy": 8.651140110256788
+  },
+  "readability_metrics": {
+    "total_word_count": 4349,
+    "long_word_count": 1122,
+    "average_sentence_length_words": 8.113805970149254,
+    "long_word_ratio_pct": 25.799034260749597,
+    "lix_readability_score": 33.91284023089885
+  }
+}

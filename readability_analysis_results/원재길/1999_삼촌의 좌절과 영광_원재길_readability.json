@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1999_삼촌의 좌절과 영광_원재길_tagged.txt",
+    "author": "원재길",
+    "title": "삼촌의 좌절과 영광",
+    "year": "1999",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 11357,
+    "unique_morphemes": 2297,
+    "shannon_entropy": 8.737010303909573
+  },
+  "readability_metrics": {
+    "total_word_count": 5090,
+    "long_word_count": 1293,
+    "average_sentence_length_words": 10.715789473684211,
+    "long_word_ratio_pct": 25.402750491159136,
+    "lix_readability_score": 36.11853996484335
+  }
+}

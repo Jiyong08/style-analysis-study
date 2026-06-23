@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1975_겨울 나들이_박완서_tagged.txt",
+    "author": "박완서",
+    "title": "겨울 나들이",
+    "year": "1975",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 7298,
+    "unique_morphemes": 1608,
+    "shannon_entropy": 8.58762119426612
+  },
+  "readability_metrics": {
+    "total_word_count": 3196,
+    "long_word_count": 819,
+    "average_sentence_length_words": 10.113924050632912,
+    "long_word_ratio_pct": 25.625782227784732,
+    "lix_readability_score": 35.73970627841764
+  }
+}

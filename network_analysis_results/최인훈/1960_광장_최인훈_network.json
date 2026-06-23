@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1960_광장_최인훈_tagged.txt",
+    "author": "최인훈",
+    "title": "광장",
+    "year": "1960",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 958,
+    "density": 0.7820408163265307,
+    "average_clustering": 0.9214798723227551,
+    "transitivity": 0.9261114107404268
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "사람",
+        "value": 0.9999999999999999
+      },
+      {
+        "word": "소리",
+        "value": 0.9183673469387754
+      },
+      {
+        "word": "생각",
+        "value": 0.9183673469387754
+      },
+      {
+        "word": "마음",
+        "value": 0.9183673469387754
+      },
+      {
+        "word": "광장",
+        "value": 0.9183673469387754
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "사람",
+        "value": 0.690688775510204
+      },
+      {
+        "word": "자리",
+        "value": 0.0586734693877551
+      },
+      {
+        "word": "여자",
+        "value": 0.05442176870748299
+      },
+      {
+        "word": "사랑",
+        "value": 0.045351473922902494
+      },
+      {
+        "word": "마음",
+        "value": 0.04407596371882086
+      }
+    ]
+  }
+}

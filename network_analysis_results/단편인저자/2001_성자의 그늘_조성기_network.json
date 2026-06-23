@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "2001_성자의 그늘_조성기_tagged.txt",
+    "author": "조성기",
+    "title": "성자의 그늘",
+    "year": "2001",
+    "is_excluded_from_display": true
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 250,
+    "density": 0.20408163265306123,
+    "average_clustering": 0.4596246738917377,
+    "transitivity": 0.3486565231466494
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "아내",
+        "value": 0.5918367346938775
+      },
+      {
+        "word": "사람",
+        "value": 0.5102040816326531
+      },
+      {
+        "word": "얘기",
+        "value": 0.4897959183673469
+      },
+      {
+        "word": "그때",
+        "value": 0.42857142857142855
+      },
+      {
+        "word": "장인",
+        "value": 0.3877551020408163
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "아내",
+        "value": 0.4258219954648526
+      },
+      {
+        "word": "얘기",
+        "value": 0.1618764172335601
+      },
+      {
+        "word": "김규석",
+        "value": 0.1042233560090703
+      },
+      {
+        "word": "외조부",
+        "value": 0.10126133786848072
+      },
+      {
+        "word": "사람",
+        "value": 0.09168083900226756
+      }
+    ]
+  }
+}

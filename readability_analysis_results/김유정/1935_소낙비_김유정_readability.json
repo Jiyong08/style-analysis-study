@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1935_소낙비_김유정_tagged.txt",
+    "author": "김유정",
+    "title": "소낙비",
+    "year": "1935",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 6510,
+    "unique_morphemes": 1699,
+    "shannon_entropy": 8.715810265446866
+  },
+  "readability_metrics": {
+    "total_word_count": 2968,
+    "long_word_count": 611,
+    "average_sentence_length_words": 10.305555555555555,
+    "long_word_ratio_pct": 20.58625336927224,
+    "lix_readability_score": 30.891808924827792
+  }
+}

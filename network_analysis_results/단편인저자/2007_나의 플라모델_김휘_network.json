@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "2007_나의 플라모델_김휘_tagged.txt",
+    "author": "김휘",
+    "title": "나의 플라모델",
+    "year": "2007",
+    "is_excluded_from_display": true
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 368,
+    "density": 0.3004081632653061,
+    "average_clustering": 0.5331137331928943,
+    "transitivity": 0.44355971896955504
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "모델",
+        "value": 0.7551020408163265
+      },
+      {
+        "word": "아저씨",
+        "value": 0.7346938775510203
+      },
+      {
+        "word": "나발",
+        "value": 0.6530612244897959
+      },
+      {
+        "word": "미그",
+        "value": 0.5714285714285714
+      },
+      {
+        "word": "사장",
+        "value": 0.4897959183673469
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "아저씨",
+        "value": 0.47650226757369624
+      },
+      {
+        "word": "모델",
+        "value": 0.25718537414965986
+      },
+      {
+        "word": "미그",
+        "value": 0.18622448979591832
+      },
+      {
+        "word": "생각",
+        "value": 0.1719812925170068
+      },
+      {
+        "word": "사장",
+        "value": 0.09481292517006802
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1977_눈길_이청준_tagged.txt",
+    "author": "이청준",
+    "title": "눈길",
+    "year": "1977",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 12891,
+    "unique_morphemes": 1818,
+    "shannon_entropy": 8.443049500650414
+  },
+  "readability_metrics": {
+    "total_word_count": 5879,
+    "long_word_count": 1140,
+    "average_sentence_length_words": 10.55475763016158,
+    "long_word_ratio_pct": 19.39105290015309,
+    "lix_readability_score": 29.945810530314667
+  }
+}

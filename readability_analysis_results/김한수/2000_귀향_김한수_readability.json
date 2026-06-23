@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "2000_귀향_김한수_tagged.txt",
+    "author": "김한수",
+    "title": "귀향",
+    "year": "2000",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 9206,
+    "unique_morphemes": 2061,
+    "shannon_entropy": 8.702799731423488
+  },
+  "readability_metrics": {
+    "total_word_count": 4026,
+    "long_word_count": 1186,
+    "average_sentence_length_words": 13.60135135135135,
+    "long_word_ratio_pct": 29.458519622454048,
+    "lix_readability_score": 43.0598709738054
+  }
+}

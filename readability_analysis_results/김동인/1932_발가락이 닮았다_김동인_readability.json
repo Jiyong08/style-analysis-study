@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1932_발가락이 닮았다_김동인_tagged.txt",
+    "author": "김동인",
+    "title": "발가락이 닮았다",
+    "year": "1932",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 6060,
+    "unique_morphemes": 1181,
+    "shannon_entropy": 8.213628561367523
+  },
+  "readability_metrics": {
+    "total_word_count": 2646,
+    "long_word_count": 550,
+    "average_sentence_length_words": 8.618892508143322,
+    "long_word_ratio_pct": 20.786092214663643,
+    "lix_readability_score": 29.404984722806965
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1988_바깥 세상이 보인다_안재성_tagged.txt",
+    "author": "안재성",
+    "title": "바깥 세상이 보인다",
+    "year": "1988",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 13900,
+    "unique_morphemes": 2313,
+    "shannon_entropy": 8.73835703471217
+  },
+  "readability_metrics": {
+    "total_word_count": 5855,
+    "long_word_count": 1571,
+    "average_sentence_length_words": 7.724274406332454,
+    "long_word_ratio_pct": 26.831767719897524,
+    "lix_readability_score": 34.556042126229976
+  }
+}

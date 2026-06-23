@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1999_사람들 속내 천야만야_이호철_tagged.txt",
+    "author": "이호철",
+    "title": "사람들 속내 천야만야",
+    "year": "1999",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 494,
+    "density": 0.403265306122449,
+    "average_clustering": 0.6683998521347396,
+    "transitivity": 0.5761643835616438
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "사람",
+        "value": 0.9387755102040816
+      },
+      {
+        "word": "하사",
+        "value": 0.8979591836734693
+      },
+      {
+        "word": "김병국",
+        "value": 0.7346938775510203
+      },
+      {
+        "word": "아버지",
+        "value": 0.7142857142857142
+      },
+      {
+        "word": "동안",
+        "value": 0.6938775510204082
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "하사",
+        "value": 0.4618885649497895
+      },
+      {
+        "word": "아버지",
+        "value": 0.31232082118561716
+      },
+      {
+        "word": "김병국",
+        "value": 0.234191771946874
+      },
+      {
+        "word": "사람",
+        "value": 0.16889374797538065
+      },
+      {
+        "word": "중사",
+        "value": 0.10629251700680271
+      }
+    ]
+  }
+}

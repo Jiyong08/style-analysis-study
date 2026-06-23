@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1972_아우를 위하여_황석영_tagged.txt",
+    "author": "황석영",
+    "title": "아우를 위하여",
+    "year": "1972",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 216,
+    "density": 0.1763265306122449,
+    "average_clustering": 0.4566846803758938,
+    "transitivity": 0.4021857923497268
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "아이",
+        "value": 0.6326530612244897
+      },
+      {
+        "word": "선생",
+        "value": 0.5918367346938775
+      },
+      {
+        "word": "다음",
+        "value": 0.3877551020408163
+      },
+      {
+        "word": "학급",
+        "value": 0.36734693877551017
+      },
+      {
+        "word": "공부",
+        "value": 0.3469387755102041
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "아이",
+        "value": 0.41678206997084544
+      },
+      {
+        "word": "선생",
+        "value": 0.3313876741172659
+      },
+      {
+        "word": "메뚜기",
+        "value": 0.09126984126984128
+      },
+      {
+        "word": "혼자",
+        "value": 0.07589285714285712
+      },
+      {
+        "word": "학급",
+        "value": 0.05306122448979591
+      }
+    ]
+  }
+}

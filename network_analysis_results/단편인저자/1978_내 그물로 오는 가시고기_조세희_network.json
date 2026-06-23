@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1978_내 그물로 오는 가시고기_조세희_tagged.txt",
+    "author": "조세희",
+    "title": "내 그물로 오는 가시고기",
+    "year": "1978",
+    "is_excluded_from_display": true
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 356,
+    "density": 0.29061224489795917,
+    "average_clustering": 0.5540789355910638,
+    "transitivity": 0.46327052060044716
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "아버지",
+        "value": 0.7959183673469387
+      },
+      {
+        "word": "사람",
+        "value": 0.7959183673469387
+      },
+      {
+        "word": "공장",
+        "value": 0.5714285714285714
+      },
+      {
+        "word": "숙부",
+        "value": 0.5714285714285714
+      },
+      {
+        "word": "은강",
+        "value": 0.5102040816326531
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "사람",
+        "value": 0.43523242630385484
+      },
+      {
+        "word": "아버지",
+        "value": 0.4037698412698412
+      },
+      {
+        "word": "공장",
+        "value": 0.19486961451247165
+      },
+      {
+        "word": "생각",
+        "value": 0.10778061224489796
+      },
+      {
+        "word": "사촌",
+        "value": 0.10012755102040816
+      }
+    ]
+  }
+}

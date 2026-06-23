@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1993_아름다운 얼굴_송기원_tagged.txt",
+    "author": "송기원",
+    "title": "아름다운 얼굴",
+    "year": "1993",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 361,
+    "density": 0.2946938775510204,
+    "average_clustering": 0.5350698379573264,
+    "transitivity": 0.4561830574488802
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "자신",
+        "value": 0.7755102040816326
+      },
+      {
+        "word": "아이",
+        "value": 0.673469387755102
+      },
+      {
+        "word": "어머니",
+        "value": 0.6122448979591836
+      },
+      {
+        "word": "사내",
+        "value": 0.5510204081632653
+      },
+      {
+        "word": "얼굴",
+        "value": 0.5102040816326531
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "자신",
+        "value": 0.5521541950113378
+      },
+      {
+        "word": "어머니",
+        "value": 0.3028628117913832
+      },
+      {
+        "word": "아이",
+        "value": 0.25821995464852604
+      },
+      {
+        "word": "얼굴",
+        "value": 0.16602891156462585
+      },
+      {
+        "word": "장돌뱅이",
+        "value": 0.0818452380952381
+      }
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "2000_마음의 지도_박경철_tagged.txt",
+    "author": "박경철",
+    "title": "마음의 지도",
+    "year": "2000",
+    "is_excluded_from_display": true
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 770,
+    "density": 0.6285714285714286,
+    "average_clustering": 0.7348674540845751,
+    "transitivity": 0.7095037642677892
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "생각",
+        "value": 0.9999999999999999
+      },
+      {
+        "word": "사람",
+        "value": 0.9999999999999999
+      },
+      {
+        "word": "시작",
+        "value": 0.9183673469387754
+      },
+      {
+        "word": "자리",
+        "value": 0.8571428571428571
+      },
+      {
+        "word": "지금",
+        "value": 0.8571428571428571
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "생각",
+        "value": 0.7096088435374149
+      },
+      {
+        "word": "사람",
+        "value": 0.19047619047619047
+      },
+      {
+        "word": "펜촉",
+        "value": 0.1441326530612245
+      },
+      {
+        "word": "여자",
+        "value": 0.06802721088435373
+      },
+      {
+        "word": "순간",
+        "value": 0.06164965986394558
+      }
+    ]
+  }
+}

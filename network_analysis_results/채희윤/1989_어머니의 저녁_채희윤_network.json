@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1989_어머니의 저녁_채희윤_tagged.txt",
+    "author": "채희윤",
+    "title": "어머니의 저녁",
+    "year": "1989",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 187,
+    "density": 0.1526530612244898,
+    "average_clustering": 0.5663061466882977,
+    "transitivity": 0.3218596334376397
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "어머니",
+        "value": 0.7959183673469387
+      },
+      {
+        "word": "영혜",
+        "value": 0.4897959183673469
+      },
+      {
+        "word": "아버지",
+        "value": 0.4897959183673469
+      },
+      {
+        "word": "자신",
+        "value": 0.3061224489795918
+      },
+      {
+        "word": "오빠",
+        "value": 0.24489795918367346
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "어머니",
+        "value": 0.8272392290249433
+      },
+      {
+        "word": "영혜",
+        "value": 0.24092970521541948
+      },
+      {
+        "word": "아버지",
+        "value": 0.04917800453514739
+      },
+      {
+        "word": "오빠",
+        "value": 0.03996598639455782
+      },
+      {
+        "word": "시작",
+        "value": 0.03954081632653061
+      }
+    ]
+  }
+}

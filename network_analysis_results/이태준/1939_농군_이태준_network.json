@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1939_농군_이태준_tagged.txt",
+    "author": "이태준",
+    "title": "농군",
+    "year": "1939",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 199,
+    "density": 0.16244897959183674,
+    "average_clustering": 0.48866917352799705,
+    "transitivity": 0.40684931506849314
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "조선",
+        "value": 0.5510204081632653
+      },
+      {
+        "word": "사람",
+        "value": 0.5306122448979591
+      },
+      {
+        "word": "창권이",
+        "value": 0.3469387755102041
+      },
+      {
+        "word": "창권",
+        "value": 0.3061224489795918
+      },
+      {
+        "word": "보도랑",
+        "value": 0.3061224489795918
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "사람",
+        "value": 0.37536848072562357
+      },
+      {
+        "word": "조선",
+        "value": 0.2691326530612244
+      },
+      {
+        "word": "보도랑",
+        "value": 0.18905895691609975
+      },
+      {
+        "word": "청년",
+        "value": 0.1448625283446712
+      },
+      {
+        "word": "동네",
+        "value": 0.08886054421768708
+      }
+    ]
+  }
+}

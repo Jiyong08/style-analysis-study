@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1961_은냇골 이야기_오영수_tagged.txt",
+    "author": "오영수",
+    "title": "은냇골 이야기",
+    "year": "1961",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 16223,
+    "unique_morphemes": 2475,
+    "shannon_entropy": 8.628333866595396
+  },
+  "readability_metrics": {
+    "total_word_count": 6984,
+    "long_word_count": 1626,
+    "average_sentence_length_words": 7.700110253583241,
+    "long_word_ratio_pct": 23.281786941580755,
+    "lix_readability_score": 30.981897195163995
+  }
+}

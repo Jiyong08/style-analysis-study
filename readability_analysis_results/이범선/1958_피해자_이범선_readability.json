@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1958_피해자_이범선_tagged.txt",
+    "author": "이범선",
+    "title": "피해자",
+    "year": "1958",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 37526,
+    "unique_morphemes": 3317,
+    "shannon_entropy": 8.510483109372428
+  },
+  "readability_metrics": {
+    "total_word_count": 16462,
+    "long_word_count": 3520,
+    "average_sentence_length_words": 6.972469292672597,
+    "long_word_ratio_pct": 21.382578058559105,
+    "lix_readability_score": 28.3550473512317
+  }
+}

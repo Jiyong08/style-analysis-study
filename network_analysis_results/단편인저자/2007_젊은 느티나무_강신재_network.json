@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "2007_젊은 느티나무_강신재_tagged.txt",
+    "author": "강신재",
+    "title": "젊은 느티나무",
+    "year": "2007",
+    "is_excluded_from_display": true
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 172,
+    "density": 0.1404081632653061,
+    "average_clustering": 0.45636189845013375,
+    "transitivity": 0.3592592592592593
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "엄마",
+        "value": 0.5510204081632653
+      },
+      {
+        "word": "므슈",
+        "value": 0.3469387755102041
+      },
+      {
+        "word": "사이",
+        "value": 0.2857142857142857
+      },
+      {
+        "word": "얼굴",
+        "value": 0.26530612244897955
+      },
+      {
+        "word": "사람",
+        "value": 0.26530612244897955
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "엄마",
+        "value": 0.578148283122773
+      },
+      {
+        "word": "므슈",
+        "value": 0.21641358924522192
+      },
+      {
+        "word": "사이",
+        "value": 0.19976716877227074
+      },
+      {
+        "word": "자리",
+        "value": 0.10324546485260772
+      },
+      {
+        "word": "모양",
+        "value": 0.0625
+      }
+    ]
+  }
+}

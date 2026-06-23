@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "2000_신종 바이러스에 관한 보고서_원재길_tagged.txt",
+    "author": "원재길",
+    "title": "신종 바이러스에 관한 보고서",
+    "year": "2000",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 285,
+    "density": 0.23265306122448978,
+    "average_clustering": 0.4728462611691714,
+    "transitivity": 0.41983471074380163
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "바이러스",
+        "value": 0.5102040816326531
+      },
+      {
+        "word": "폭로",
+        "value": 0.4897959183673469
+      },
+      {
+        "word": "발표",
+        "value": 0.44897959183673464
+      },
+      {
+        "word": "내용",
+        "value": 0.42857142857142855
+      },
+      {
+        "word": "자신",
+        "value": 0.4081632653061224
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "바이러스",
+        "value": 0.3861222465176547
+      },
+      {
+        "word": "발표",
+        "value": 0.18126417233560083
+      },
+      {
+        "word": "자신",
+        "value": 0.11068999028182702
+      },
+      {
+        "word": "변호사",
+        "value": 0.09228417557499191
+      },
+      {
+        "word": "결혼",
+        "value": 0.07351190476190479
+      }
+    ]
+  }
+}

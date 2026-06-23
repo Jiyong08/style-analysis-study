@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1938_치숙(痴叔)_채만식_tagged.txt",
+    "author": "채만식",
+    "title": "치숙(痴叔)",
+    "year": "1938",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 7872,
+    "unique_morphemes": 1558,
+    "shannon_entropy": 8.724224547438482
+  },
+  "readability_metrics": {
+    "total_word_count": 3379,
+    "long_word_count": 853,
+    "average_sentence_length_words": 8.181598062953995,
+    "long_word_ratio_pct": 25.244155075466114,
+    "lix_readability_score": 33.425753138420106
+  }
+}

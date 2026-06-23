@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "2003_섬, 나는 세상 끝을 산다_한창훈_tagged.txt",
+    "author": "한창훈",
+    "title": "섬, 나는 세상 끝을 산다",
+    "year": "2003",
+    "is_excluded_from_display": true
+  },
+  "entropy_metrics": {
+    "total_morphemes": 96145,
+    "unique_morphemes": 6764,
+    "shannon_entropy": 9.02154001799109
+  },
+  "readability_metrics": {
+    "total_word_count": 41152,
+    "long_word_count": 10595,
+    "average_sentence_length_words": 8.432786885245902,
+    "long_word_ratio_pct": 25.746014774494558,
+    "lix_readability_score": 34.17880165974046
+  }
+}

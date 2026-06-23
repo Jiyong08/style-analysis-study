@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "2000_편안한 밤이 오기 전에_김종광_tagged.txt",
+    "author": "김종광",
+    "title": "편안한 밤이 오기 전에",
+    "year": "2000",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 208,
+    "density": 0.16979591836734695,
+    "average_clustering": 0.4675557187910129,
+    "transitivity": 0.37834036568213786
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "학생",
+        "value": 0.36734693877551017
+      },
+      {
+        "word": "가게",
+        "value": 0.36734693877551017
+      },
+      {
+        "word": "집권당",
+        "value": 0.36734693877551017
+      },
+      {
+        "word": "아내",
+        "value": 0.3469387755102041
+      },
+      {
+        "word": "장용",
+        "value": 0.3469387755102041
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "가게",
+        "value": 0.20680272108843537
+      },
+      {
+        "word": "학생",
+        "value": 0.18485685941043084
+      },
+      {
+        "word": "장용",
+        "value": 0.17104591836734692
+      },
+      {
+        "word": "아내",
+        "value": 0.12850765306122447
+      },
+      {
+        "word": "미스",
+        "value": 0.105553530936184
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "2001_윷을 던져라_김종광_tagged.txt",
+    "author": "김종광",
+    "title": "윷을 던져라",
+    "year": "2001",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 12600,
+    "unique_morphemes": 2390,
+    "shannon_entropy": 8.931021955118599
+  },
+  "readability_metrics": {
+    "total_word_count": 4999,
+    "long_word_count": 1485,
+    "average_sentence_length_words": 7.450074515648286,
+    "long_word_ratio_pct": 29.70594118823765,
+    "lix_readability_score": 37.156015703885934
+  }
+}

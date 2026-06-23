@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1934_촌뜨기_이태준_tagged.txt",
+    "author": "이태준",
+    "title": "촌뜨기",
+    "year": "1934",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 4635,
+    "unique_morphemes": 1151,
+    "shannon_entropy": 8.453194652121656
+  },
+  "readability_metrics": {
+    "total_word_count": 2037,
+    "long_word_count": 572,
+    "average_sentence_length_words": 10.236180904522612,
+    "long_word_ratio_pct": 28.08051055473736,
+    "lix_readability_score": 38.31669145925997
+  }
+}

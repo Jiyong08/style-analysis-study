@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "198--_봄비_안재성_tagged.txt",
+    "author": "안재성",
+    "title": "봄비",
+    "year": "198--",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 266,
+    "density": 0.21714285714285714,
+    "average_clustering": 0.5061464251462232,
+    "transitivity": 0.377640101379893
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "남편",
+        "value": 0.7346938775510203
+      },
+      {
+        "word": "사람",
+        "value": 0.5714285714285714
+      },
+      {
+        "word": "회사",
+        "value": 0.4897959183673469
+      },
+      {
+        "word": "생각",
+        "value": 0.44897959183673464
+      },
+      {
+        "word": "아이",
+        "value": 0.4081632653061224
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "남편",
+        "value": 0.7385345804988662
+      },
+      {
+        "word": "아이",
+        "value": 0.10887188208616777
+      },
+      {
+        "word": "노동자",
+        "value": 0.09467120181405896
+      },
+      {
+        "word": "사람",
+        "value": 0.08886054421768709
+      },
+      {
+        "word": "회사",
+        "value": 0.08630952380952381
+      }
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1999_염소 할매_최인석_tagged.txt",
+    "author": "최인석",
+    "title": "염소 할매",
+    "year": "1999",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 528,
+    "density": 0.4310204081632653,
+    "average_clustering": 0.6084850024810041,
+    "transitivity": 0.5596654872949501
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "사람",
+        "value": 0.8571428571428571
+      },
+      {
+        "word": "염소",
+        "value": 0.8163265306122448
+      },
+      {
+        "word": "시작",
+        "value": 0.7959183673469387
+      },
+      {
+        "word": "소리",
+        "value": 0.7551020408163265
+      },
+      {
+        "word": "경찰",
+        "value": 0.7346938775510203
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "사람",
+        "value": 0.43530328798185947
+      },
+      {
+        "word": "염소",
+        "value": 0.32298752834467115
+      },
+      {
+        "word": "경찰",
+        "value": 0.29195011337868476
+      },
+      {
+        "word": "아이",
+        "value": 0.08545918367346939
+      },
+      {
+        "word": "노인",
+        "value": 0.07015306122448979
+      }
+    ]
+  }
+}

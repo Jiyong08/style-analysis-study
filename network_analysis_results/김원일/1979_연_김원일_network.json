@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1979_연_김원일_tagged.txt",
+    "author": "김원일",
+    "title": "연",
+    "year": "1979",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 195,
+    "density": 0.15918367346938775,
+    "average_clustering": 0.44046527132997726,
+    "transitivity": 0.32531824611032534
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "아버지",
+        "value": 0.6938775510204082
+      },
+      {
+        "word": "엄마",
+        "value": 0.5102040816326531
+      },
+      {
+        "word": "순희",
+        "value": 0.3469387755102041
+      },
+      {
+        "word": "아부지",
+        "value": 0.3061224489795918
+      },
+      {
+        "word": "사람",
+        "value": 0.26530612244897955
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "아버지",
+        "value": 0.8016014739229024
+      },
+      {
+        "word": "엄마",
+        "value": 0.3601190476190476
+      },
+      {
+        "word": "사람",
+        "value": 0.20153061224489796
+      },
+      {
+        "word": "아부지",
+        "value": 0.08290816326530612
+      },
+      {
+        "word": "생각",
+        "value": 0.06972789115646258
+      }
+    ]
+  }
+}

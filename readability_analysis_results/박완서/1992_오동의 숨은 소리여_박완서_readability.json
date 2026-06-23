@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1992_오동의 숨은 소리여_박완서_tagged.txt",
+    "author": "박완서",
+    "title": "오동의 숨은 소리여",
+    "year": "1992",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 12123,
+    "unique_morphemes": 2260,
+    "shannon_entropy": 8.657816796331879
+  },
+  "readability_metrics": {
+    "total_word_count": 5184,
+    "long_word_count": 1513,
+    "average_sentence_length_words": 9.031358885017422,
+    "long_word_ratio_pct": 29.185956790123456,
+    "lix_readability_score": 38.21731567514088
+  }
+}

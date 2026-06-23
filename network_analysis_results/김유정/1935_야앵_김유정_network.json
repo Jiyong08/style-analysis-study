@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1935_야앵_김유정_tagged.txt",
+    "author": "김유정",
+    "title": "야앵",
+    "year": "1935",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 407,
+    "density": 0.33224489795918366,
+    "average_clustering": 0.7003174907122515,
+    "transitivity": 0.5493008678881388
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "정숙이",
+        "value": 0.8571428571428571
+      },
+      {
+        "word": "경자",
+        "value": 0.836734693877551
+      },
+      {
+        "word": "생각",
+        "value": 0.7142857142857142
+      },
+      {
+        "word": "사람",
+        "value": 0.6530612244897959
+      },
+      {
+        "word": "언니",
+        "value": 0.6326530612244897
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "정숙이",
+        "value": 0.5857588273404599
+      },
+      {
+        "word": "경자",
+        "value": 0.3697015711046324
+      },
+      {
+        "word": "영애",
+        "value": 0.06616456106252025
+      },
+      {
+        "word": "대답",
+        "value": 0.06460560414642046
+      },
+      {
+        "word": "소리",
+        "value": 0.05442176870748299
+      }
+    ]
+  }
+}

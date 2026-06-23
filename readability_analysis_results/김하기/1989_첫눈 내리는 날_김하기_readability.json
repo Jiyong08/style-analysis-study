@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1989_첫눈 내리는 날_김하기_tagged.txt",
+    "author": "김하기",
+    "title": "첫눈 내리는 날",
+    "year": "1989",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 15535,
+    "unique_morphemes": 3351,
+    "shannon_entropy": 9.27416435293503
+  },
+  "readability_metrics": {
+    "total_word_count": 6457,
+    "long_word_count": 2130,
+    "average_sentence_length_words": 7.9226993865030675,
+    "long_word_ratio_pct": 32.98745547467864,
+    "lix_readability_score": 40.91015486118171
+  }
+}

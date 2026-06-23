@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1935_만무방_김유정_tagged.txt",
+    "author": "김유정",
+    "title": "만무방",
+    "year": "1935",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 13533,
+    "unique_morphemes": 2665,
+    "shannon_entropy": 9.064093663732733
+  },
+  "readability_metrics": {
+    "total_word_count": 5464,
+    "long_word_count": 1355,
+    "average_sentence_length_words": 6.898989898989899,
+    "long_word_ratio_pct": 24.798682284040996,
+    "lix_readability_score": 31.697672183030896
+  }
+}

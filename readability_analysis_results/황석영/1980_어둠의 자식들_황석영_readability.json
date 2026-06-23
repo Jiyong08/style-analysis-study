@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1980_어둠의 자식들_황석영_tagged.txt",
+    "author": "황석영",
+    "title": "어둠의 자식들",
+    "year": "1980",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 170033,
+    "unique_morphemes": 8817,
+    "shannon_entropy": 9.278085006605009
+  },
+  "readability_metrics": {
+    "total_word_count": 73604,
+    "long_word_count": 18956,
+    "average_sentence_length_words": 8.321537591859808,
+    "long_word_ratio_pct": 25.754035106787676,
+    "lix_readability_score": 34.075572698647484
+  }
+}

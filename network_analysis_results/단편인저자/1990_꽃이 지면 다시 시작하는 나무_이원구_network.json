@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1990_꽃이 지면 다시 시작하는 나무_이원구_tagged.txt",
+    "author": "이원구",
+    "title": "꽃이 지면 다시 시작하는 나무",
+    "year": "1990",
+    "is_excluded_from_display": true
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 453,
+    "density": 0.36979591836734693,
+    "average_clustering": 0.6266000405428432,
+    "transitivity": 0.529646289102433
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "선생",
+        "value": 0.9591836734693877
+      },
+      {
+        "word": "교장",
+        "value": 0.8163265306122448
+      },
+      {
+        "word": "학교",
+        "value": 0.7142857142857142
+      },
+      {
+        "word": "사람",
+        "value": 0.7142857142857142
+      },
+      {
+        "word": "교사",
+        "value": 0.6938775510204082
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "선생",
+        "value": 0.9109268707482993
+      },
+      {
+        "word": "아이",
+        "value": 0.11352040816326531
+      },
+      {
+        "word": "교장",
+        "value": 0.04634353741496598
+      },
+      {
+        "word": "평교사회",
+        "value": 0.04081632653061224
+      },
+      {
+        "word": "문제",
+        "value": 0.04081632653061224
+      }
+    ]
+  }
+}

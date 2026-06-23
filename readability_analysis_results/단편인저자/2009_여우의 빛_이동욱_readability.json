@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "2009_여우의 빛_이동욱_tagged.txt",
+    "author": "이동욱",
+    "title": "여우의 빛",
+    "year": "2009",
+    "is_excluded_from_display": true
+  },
+  "entropy_metrics": {
+    "total_morphemes": 8679,
+    "unique_morphemes": 1584,
+    "shannon_entropy": 8.192037959242569
+  },
+  "readability_metrics": {
+    "total_word_count": 3907,
+    "long_word_count": 865,
+    "average_sentence_length_words": 6.7362068965517246,
+    "long_word_ratio_pct": 22.139749168159714,
+    "lix_readability_score": 28.87595606471144
+  }
+}

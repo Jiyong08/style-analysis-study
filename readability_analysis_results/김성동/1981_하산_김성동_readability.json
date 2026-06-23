@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1981_하산_김성동_tagged.txt",
+    "author": "김성동",
+    "title": "하산",
+    "year": "1981",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 5847,
+    "unique_morphemes": 1443,
+    "shannon_entropy": 8.526791551734615
+  },
+  "readability_metrics": {
+    "total_word_count": 2371,
+    "long_word_count": 773,
+    "average_sentence_length_words": 13.027472527472527,
+    "long_word_ratio_pct": 32.60227752003374,
+    "lix_readability_score": 45.62975004750626
+  }
+}

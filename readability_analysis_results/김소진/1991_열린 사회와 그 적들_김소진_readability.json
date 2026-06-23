@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1991_열린 사회와 그 적들_김소진_tagged.txt",
+    "author": "김소진",
+    "title": "열린 사회와 그 적들",
+    "year": "1991",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 10336,
+    "unique_morphemes": 2673,
+    "shannon_entropy": 9.255678000936006
+  },
+  "readability_metrics": {
+    "total_word_count": 4636,
+    "long_word_count": 1193,
+    "average_sentence_length_words": 10.144420131291028,
+    "long_word_ratio_pct": 25.73339085418464,
+    "lix_readability_score": 35.87781098547567
+  }
+}

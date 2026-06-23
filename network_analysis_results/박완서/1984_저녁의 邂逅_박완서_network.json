@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1984_저녁의 邂逅_박완서_tagged.txt",
+    "author": "박완서",
+    "title": "저녁의 邂逅",
+    "year": "1984",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 184,
+    "density": 0.15020408163265306,
+    "average_clustering": 0.41568337945737327,
+    "transitivity": 0.2929824561403509
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "영애",
+        "value": 0.5510204081632653
+      },
+      {
+        "word": "사람",
+        "value": 0.4081632653061224
+      },
+      {
+        "word": "생각",
+        "value": 0.36734693877551017
+      },
+      {
+        "word": "동안",
+        "value": 0.2857142857142857
+      },
+      {
+        "word": "여사",
+        "value": 0.26530612244897955
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "영애",
+        "value": 0.47214123744735975
+      },
+      {
+        "word": "사람",
+        "value": 0.276984126984127
+      },
+      {
+        "word": "남편",
+        "value": 0.14044784580498865
+      },
+      {
+        "word": "송도",
+        "value": 0.1331065759637188
+      },
+      {
+        "word": "생각",
+        "value": 0.07553854875283446
+      }
+    ]
+  }
+}

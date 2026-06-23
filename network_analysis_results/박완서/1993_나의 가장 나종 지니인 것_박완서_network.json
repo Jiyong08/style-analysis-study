@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1993_나의 가장 나종 지니인 것_박완서_tagged.txt",
+    "author": "박완서",
+    "title": "나의 가장 나종 지니인 것",
+    "year": "1993",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 166,
+    "density": 0.13551020408163264,
+    "average_clustering": 0.35057230351347995,
+    "transitivity": 0.3291223404255319
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "창환이",
+        "value": 0.44897959183673464
+      },
+      {
+        "word": "생각",
+        "value": 0.36734693877551017
+      },
+      {
+        "word": "사람",
+        "value": 0.32653061224489793
+      },
+      {
+        "word": "아들",
+        "value": 0.3061224489795918
+      },
+      {
+        "word": "소리",
+        "value": 0.2857142857142857
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "창환이",
+        "value": 0.26055839002267567
+      },
+      {
+        "word": "소리",
+        "value": 0.19265670553935862
+      },
+      {
+        "word": "생각",
+        "value": 0.19254535147392288
+      },
+      {
+        "word": "아들",
+        "value": 0.1884920634920635
+      },
+      {
+        "word": "사람",
+        "value": 0.13338394881762228
+      }
+    ]
+  }
+}

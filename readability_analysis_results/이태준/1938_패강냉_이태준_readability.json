@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1938_패강냉_이태준_tagged.txt",
+    "author": "이태준",
+    "title": "패강냉",
+    "year": "1938",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 4939,
+    "unique_morphemes": 1219,
+    "shannon_entropy": 8.480791226848197
+  },
+  "readability_metrics": {
+    "total_word_count": 2063,
+    "long_word_count": 408,
+    "average_sentence_length_words": 6.507886435331231,
+    "long_word_ratio_pct": 19.77702375181774,
+    "lix_readability_score": 26.28491018714897
+  }
+}

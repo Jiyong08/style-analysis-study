@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1925_감자_김동인_tagged.txt",
+    "author": "김동인",
+    "title": "감자",
+    "year": "1925",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 210,
+    "density": 0.17142857142857143,
+    "average_clustering": 0.6159362892009951,
+    "transitivity": 0.43902439024390244
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "복녀",
+        "value": 0.7346938775510203
+      },
+      {
+        "word": "사람",
+        "value": 0.44897959183673464
+      },
+      {
+        "word": "빈민굴",
+        "value": 0.36734693877551017
+      },
+      {
+        "word": "도둑",
+        "value": 0.32653061224489793
+      },
+      {
+        "word": "부처",
+        "value": 0.3061224489795918
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "복녀",
+        "value": 0.6438208616780045
+      },
+      {
+        "word": "사람",
+        "value": 0.11911848072562356
+      },
+      {
+        "word": "서방",
+        "value": 0.1187641723356009
+      },
+      {
+        "word": "동네",
+        "value": 0.09523809523809523
+      },
+      {
+        "word": "남편",
+        "value": 0.09013605442176871
+      }
+    ]
+  }
+}

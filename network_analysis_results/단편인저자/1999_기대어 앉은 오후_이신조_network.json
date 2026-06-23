@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1999_기대어 앉은 오후_이신조_tagged.txt",
+    "author": "이신조",
+    "title": "기대어 앉은 오후",
+    "year": "1999",
+    "is_excluded_from_display": true
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 412,
+    "density": 0.3363265306122449,
+    "average_clustering": 0.5275555353232736,
+    "transitivity": 0.4692544196771714
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "여자",
+        "value": 0.7959183673469387
+      },
+      {
+        "word": "윤자",
+        "value": 0.7755102040816326
+      },
+      {
+        "word": "중년",
+        "value": 0.6938775510204082
+      },
+      {
+        "word": "수영",
+        "value": 0.6530612244897959
+      },
+      {
+        "word": "생각",
+        "value": 0.6530612244897959
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "윤자",
+        "value": 0.6840986394557823
+      },
+      {
+        "word": "여자",
+        "value": 0.555484693877551
+      },
+      {
+        "word": "생각",
+        "value": 0.2465986394557823
+      },
+      {
+        "word": "엄마",
+        "value": 0.078656462585034
+      },
+      {
+        "word": "아버지",
+        "value": 0.07015306122448979
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "2001_언론낙서백일장_김종광_tagged.txt",
+    "author": "김종광",
+    "title": "언론낙서백일장",
+    "year": "2001",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 14445,
+    "unique_morphemes": 2592,
+    "shannon_entropy": 8.902027995954109
+  },
+  "readability_metrics": {
+    "total_word_count": 5886,
+    "long_word_count": 1831,
+    "average_sentence_length_words": 10.061538461538461,
+    "long_word_ratio_pct": 31.10771321780496,
+    "lix_readability_score": 41.16925167934342
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1984_눈오는 밤_김성동_tagged.txt",
+    "author": "김성동",
+    "title": "눈오는 밤",
+    "year": "1984",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 196,
+    "density": 0.16,
+    "average_clustering": 0.5209531868200599,
+    "transitivity": 0.3923745173745174
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "아낙",
+        "value": 0.4693877551020408
+      },
+      {
+        "word": "아이",
+        "value": 0.44897959183673464
+      },
+      {
+        "word": "사람",
+        "value": 0.44897959183673464
+      },
+      {
+        "word": "아부지",
+        "value": 0.3877551020408163
+      },
+      {
+        "word": "소리",
+        "value": 0.3469387755102041
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "사람",
+        "value": 0.38870464852607706
+      },
+      {
+        "word": "아낙",
+        "value": 0.32419217687074836
+      },
+      {
+        "word": "아부지",
+        "value": 0.24710884353741494
+      },
+      {
+        "word": "아이",
+        "value": 0.17176870748299314
+      },
+      {
+        "word": "시상",
+        "value": 0.12497165532879818
+      }
+    ]
+  }
+}

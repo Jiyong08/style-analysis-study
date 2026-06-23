@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1962_꺼삐딴 리_전광용_tagged.txt",
+    "author": "전광용",
+    "title": "꺼삐딴 리",
+    "year": "1962",
+    "is_excluded_from_display": true
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 265,
+    "density": 0.2163265306122449,
+    "average_clustering": 0.4548387116839129,
+    "transitivity": 0.3659314376827
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "이인국",
+        "value": 0.7959183673469387
+      },
+      {
+        "word": "박사",
+        "value": 0.7959183673469387
+      },
+      {
+        "word": "생각",
+        "value": 0.36734693877551017
+      },
+      {
+        "word": "스텐코프",
+        "value": 0.3469387755102041
+      },
+      {
+        "word": "환자",
+        "value": 0.32653061224489793
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "이인국",
+        "value": 0.43507045675413025
+      },
+      {
+        "word": "박사",
+        "value": 0.33047862001943634
+      },
+      {
+        "word": "병원",
+        "value": 0.10767431972789114
+      },
+      {
+        "word": "아들",
+        "value": 0.09144902008422416
+      },
+      {
+        "word": "시계",
+        "value": 0.07417800453514739
+      }
+    ]
+  }
+}

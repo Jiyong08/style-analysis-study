@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1993_임존성 가는 길_김소진_tagged.txt",
+    "author": "김소진",
+    "title": "임존성 가는 길",
+    "year": "1993",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 241,
+    "density": 0.19673469387755102,
+    "average_clustering": 0.5046665057239507,
+    "transitivity": 0.3746020516448532
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "세현",
+        "value": 0.6122448979591836
+      },
+      {
+        "word": "사람",
+        "value": 0.4897959183673469
+      },
+      {
+        "word": "선배",
+        "value": 0.3877551020408163
+      },
+      {
+        "word": "위원",
+        "value": 0.3877551020408163
+      },
+      {
+        "word": "백제",
+        "value": 0.3061224489795918
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "세현",
+        "value": 0.4965844671201814
+      },
+      {
+        "word": "임존성",
+        "value": 0.16801303854875282
+      },
+      {
+        "word": "사람",
+        "value": 0.09088246409674983
+      },
+      {
+        "word": "선배",
+        "value": 0.08721655328798185
+      },
+      {
+        "word": "백제",
+        "value": 0.07525510204081633
+      }
+    ]
+  }
+}

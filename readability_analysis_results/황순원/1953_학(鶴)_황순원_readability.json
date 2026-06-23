@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1953_학(鶴)_황순원_tagged.txt",
+    "author": "황순원",
+    "title": "학(鶴)",
+    "year": "1953",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 2383,
+    "unique_morphemes": 728,
+    "shannon_entropy": 8.098134933755073
+  },
+  "readability_metrics": {
+    "total_word_count": 1072,
+    "long_word_count": 233,
+    "average_sentence_length_words": 7.496503496503497,
+    "long_word_ratio_pct": 21.73507462686567,
+    "lix_readability_score": 29.231578123369168
+  }
+}

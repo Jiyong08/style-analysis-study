@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1937_福德房_이태준_tagged.txt",
+    "author": "이태준",
+    "title": "福德房",
+    "year": "1937",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 6868,
+    "unique_morphemes": 1592,
+    "shannon_entropy": 8.685359650349934
+  },
+  "readability_metrics": {
+    "total_word_count": 2973,
+    "long_word_count": 700,
+    "average_sentence_length_words": 9.175925925925926,
+    "long_word_ratio_pct": 23.545240497813655,
+    "lix_readability_score": 32.72116642373958
+  }
+}

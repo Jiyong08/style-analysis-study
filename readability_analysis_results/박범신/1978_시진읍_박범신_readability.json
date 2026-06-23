@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1978_시진읍_박범신_tagged.txt",
+    "author": "박범신",
+    "title": "시진읍",
+    "year": "1978",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 27704,
+    "unique_morphemes": 3629,
+    "shannon_entropy": 8.944603722255646
+  },
+  "readability_metrics": {
+    "total_word_count": 11269,
+    "long_word_count": 3273,
+    "average_sentence_length_words": 6.671995263469508,
+    "long_word_ratio_pct": 29.04428077025468,
+    "lix_readability_score": 35.716276033724185
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1933_돈_이효석_tagged.txt",
+    "author": "이효석",
+    "title": "돈",
+    "year": "1933",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 162,
+    "density": 0.13224489795918368,
+    "average_clustering": 0.5476253680959563,
+    "transitivity": 0.4028683181225554
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "식이",
+        "value": 0.5510204081632653
+      },
+      {
+        "word": "종묘",
+        "value": 0.4081632653061224
+      },
+      {
+        "word": "돼지",
+        "value": 0.36734693877551017
+      },
+      {
+        "word": "짐승",
+        "value": 0.2857142857142857
+      },
+      {
+        "word": "사람",
+        "value": 0.2857142857142857
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "식이",
+        "value": 0.5639810090702946
+      },
+      {
+        "word": "돼지",
+        "value": 0.18757794784580506
+      },
+      {
+        "word": "종묘",
+        "value": 0.12842970521541947
+      },
+      {
+        "word": "사람",
+        "value": 0.12219387755102039
+      },
+      {
+        "word": "말뚝",
+        "value": 0.10528628117913832
+      }
+    ]
+  }
+}

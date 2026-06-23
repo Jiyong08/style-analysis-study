@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "2000_서울, 누 거의 내리지 않음_김종광_tagged.txt",
+    "author": "김종광",
+    "title": "서울, 누 거의 내리지 않음",
+    "year": "2000",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 18330,
+    "unique_morphemes": 2508,
+    "shannon_entropy": 8.51729907539228
+  },
+  "readability_metrics": {
+    "total_word_count": 7073,
+    "long_word_count": 1810,
+    "average_sentence_length_words": 5.521467603434816,
+    "long_word_ratio_pct": 25.59027286865545,
+    "lix_readability_score": 31.11174047209027
+  }
+}

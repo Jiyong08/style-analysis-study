@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "2009_헤이,Mr.차페크!_이정민_tagged.txt",
+    "author": "이정민",
+    "title": "헤이,Mr.차페크!",
+    "year": "2009",
+    "is_excluded_from_display": true
+  },
+  "entropy_metrics": {
+    "total_morphemes": 42089,
+    "unique_morphemes": 3996,
+    "shannon_entropy": 8.521906770070714
+  },
+  "readability_metrics": {
+    "total_word_count": 18437,
+    "long_word_count": 4348,
+    "average_sentence_length_words": 8.655868544600938,
+    "long_word_ratio_pct": 23.583012420675814,
+    "lix_readability_score": 32.23888096527675
+  }
+}

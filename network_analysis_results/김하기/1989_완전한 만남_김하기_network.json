@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1989_완전한 만남_김하기_tagged.txt",
+    "author": "김하기",
+    "title": "완전한 만남",
+    "year": "1989",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 207,
+    "density": 0.1689795918367347,
+    "average_clustering": 0.49433075258075254,
+    "transitivity": 0.3776470588235294
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "춘호",
+        "value": 0.673469387755102
+      },
+      {
+        "word": "어머니",
+        "value": 0.5306122448979591
+      },
+      {
+        "word": "통님이",
+        "value": 0.5102040816326531
+      },
+      {
+        "word": "생각",
+        "value": 0.32653061224489793
+      },
+      {
+        "word": "지리산",
+        "value": 0.2857142857142857
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "춘호",
+        "value": 0.5042517006802721
+      },
+      {
+        "word": "어머니",
+        "value": 0.44862528344671215
+      },
+      {
+        "word": "통님이",
+        "value": 0.15525793650793648
+      },
+      {
+        "word": "마을",
+        "value": 0.10976473922902492
+      },
+      {
+        "word": "동지",
+        "value": 0.09098639455782312
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1982_오막살이 집 한 채_김성동_tagged.txt",
+    "author": "김성동",
+    "title": "오막살이 집 한 채",
+    "year": "1982",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 6613,
+    "unique_morphemes": 1464,
+    "shannon_entropy": 8.499632051730964
+  },
+  "readability_metrics": {
+    "total_word_count": 2895,
+    "long_word_count": 713,
+    "average_sentence_length_words": 8.391304347826088,
+    "long_word_ratio_pct": 24.6286701208981,
+    "lix_readability_score": 33.019974468724186
+  }
+}

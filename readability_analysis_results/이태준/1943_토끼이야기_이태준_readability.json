@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1943_토끼이야기_이태준_tagged.txt",
+    "author": "이태준",
+    "title": "토끼이야기",
+    "year": "1943",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 6335,
+    "unique_morphemes": 1534,
+    "shannon_entropy": 8.688610849956516
+  },
+  "readability_metrics": {
+    "total_word_count": 2766,
+    "long_word_count": 643,
+    "average_sentence_length_words": 11.670886075949367,
+    "long_word_ratio_pct": 23.24656543745481,
+    "lix_readability_score": 34.917451513404174
+  }
+}

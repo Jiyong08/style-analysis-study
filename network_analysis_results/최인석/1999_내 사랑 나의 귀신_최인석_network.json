@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1999_내 사랑 나의 귀신_최인석_tagged.txt",
+    "author": "최인석",
+    "title": "내 사랑 나의 귀신",
+    "year": "1999",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 520,
+    "density": 0.42448979591836733,
+    "average_clustering": 0.5905116143535054,
+    "transitivity": 0.546133421838699
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "어미",
+        "value": 0.9183673469387754
+      },
+      {
+        "word": "사람",
+        "value": 0.8571428571428571
+      },
+      {
+        "word": "아비",
+        "value": 0.7551020408163265
+      },
+      {
+        "word": "생각",
+        "value": 0.6530612244897959
+      },
+      {
+        "word": "세상",
+        "value": 0.6326530612244897
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "어미",
+        "value": 0.4761196145124717
+      },
+      {
+        "word": "사람",
+        "value": 0.4390447845804988
+      },
+      {
+        "word": "아비",
+        "value": 0.1798469387755102
+      },
+      {
+        "word": "사랑",
+        "value": 0.06802721088435373
+      },
+      {
+        "word": "동네",
+        "value": 0.06264172335600907
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1994_낯선여름_구효서_tagged.txt",
+    "author": "구효서",
+    "title": "낯선여름",
+    "year": "1994",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 120747,
+    "unique_morphemes": 7549,
+    "shannon_entropy": 8.806283842065925
+  },
+  "readability_metrics": {
+    "total_word_count": 50395,
+    "long_word_count": 13644,
+    "average_sentence_length_words": 8.949564908542,
+    "long_word_ratio_pct": 27.074114495485663,
+    "lix_readability_score": 36.02367940402766
+  }
+}

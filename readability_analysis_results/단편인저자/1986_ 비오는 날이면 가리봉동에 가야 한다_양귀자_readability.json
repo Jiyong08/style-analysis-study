@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1986_ 비오는 날이면 가리봉동에 가야 한다_양귀자_tagged.txt",
+    "author": "양귀자",
+    "title": " 비오는 날이면 가리봉동에 가야 한다",
+    "year": "1986",
+    "is_excluded_from_display": true
+  },
+  "entropy_metrics": {
+    "total_morphemes": 15571,
+    "unique_morphemes": 2690,
+    "shannon_entropy": 8.865800979048778
+  },
+  "readability_metrics": {
+    "total_word_count": 6884,
+    "long_word_count": 1656,
+    "average_sentence_length_words": 9.290148448043185,
+    "long_word_ratio_pct": 24.055781522370715,
+    "lix_readability_score": 33.3459299704139
+  }
+}

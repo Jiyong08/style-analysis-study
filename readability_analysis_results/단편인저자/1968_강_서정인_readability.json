@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1968_강_서정인_tagged.txt",
+    "author": "서정인",
+    "title": "강",
+    "year": "1968",
+    "is_excluded_from_display": true
+  },
+  "entropy_metrics": {
+    "total_morphemes": 8253,
+    "unique_morphemes": 1676,
+    "shannon_entropy": 8.55796141158777
+  },
+  "readability_metrics": {
+    "total_word_count": 3634,
+    "long_word_count": 805,
+    "average_sentence_length_words": 6.076923076923077,
+    "long_word_ratio_pct": 22.151898734177216,
+    "lix_readability_score": 28.228821811100293
+  }
+}

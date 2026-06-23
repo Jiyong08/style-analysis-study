@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1955_박학도_오영수_tagged.txt",
+    "author": "오영수",
+    "title": "박학도",
+    "year": "1955",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 8188,
+    "unique_morphemes": 1624,
+    "shannon_entropy": 8.539861819455552
+  },
+  "readability_metrics": {
+    "total_word_count": 3522,
+    "long_word_count": 692,
+    "average_sentence_length_words": 7.826666666666667,
+    "long_word_ratio_pct": 19.64792731402612,
+    "lix_readability_score": 27.474593980692788
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1993_안개의 상_채희윤_tagged.txt",
+    "author": "채희윤",
+    "title": "안개의 상",
+    "year": "1993",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 37315,
+    "unique_morphemes": 4691,
+    "shannon_entropy": 8.846610857005103
+  },
+  "readability_metrics": {
+    "total_word_count": 15565,
+    "long_word_count": 4661,
+    "average_sentence_length_words": 8.02319587628866,
+    "long_word_ratio_pct": 29.94539029874719,
+    "lix_readability_score": 37.96858617503585
+  }
+}

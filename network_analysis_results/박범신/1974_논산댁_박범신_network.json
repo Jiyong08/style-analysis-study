@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1974_논산댁_박범신_tagged.txt",
+    "author": "박범신",
+    "title": "논산댁",
+    "year": "1974",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 263,
+    "density": 0.2146938775510204,
+    "average_clustering": 0.5433842517635621,
+    "transitivity": 0.3998942078815128
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "논산",
+        "value": 0.7142857142857142
+      },
+      {
+        "word": "명수",
+        "value": 0.5918367346938775
+      },
+      {
+        "word": "짬밥",
+        "value": 0.5510204081632653
+      },
+      {
+        "word": "소리",
+        "value": 0.5510204081632653
+      },
+      {
+        "word": "먹이",
+        "value": 0.4081632653061224
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "논산",
+        "value": 0.5739654195011338
+      },
+      {
+        "word": "짬밥",
+        "value": 0.2036807580174927
+      },
+      {
+        "word": "명수",
+        "value": 0.20232527534823452
+      },
+      {
+        "word": "먹이",
+        "value": 0.15941043083900225
+      },
+      {
+        "word": "소리",
+        "value": 0.10859754616132167
+      }
+    ]
+  }
+}

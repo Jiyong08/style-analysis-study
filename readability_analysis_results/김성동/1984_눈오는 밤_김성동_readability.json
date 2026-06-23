@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1984_눈오는 밤_김성동_tagged.txt",
+    "author": "김성동",
+    "title": "눈오는 밤",
+    "year": "1984",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 9172,
+    "unique_morphemes": 1806,
+    "shannon_entropy": 8.882645965212772
+  },
+  "readability_metrics": {
+    "total_word_count": 3922,
+    "long_word_count": 1047,
+    "average_sentence_length_words": 7.47047619047619,
+    "long_word_ratio_pct": 26.69556348801632,
+    "lix_readability_score": 34.16603967849251
+  }
+}

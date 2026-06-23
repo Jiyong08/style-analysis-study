@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1939_영월령감_이태준_tagged.txt",
+    "author": "이태준",
+    "title": "영월령감",
+    "year": "1939",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 6095,
+    "unique_morphemes": 1405,
+    "shannon_entropy": 8.594995647347977
+  },
+  "readability_metrics": {
+    "total_word_count": 2597,
+    "long_word_count": 581,
+    "average_sentence_length_words": 7.294943820224719,
+    "long_word_ratio_pct": 22.371967654986523,
+    "lix_readability_score": 29.666911475211243
+  }
+}

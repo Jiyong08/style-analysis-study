@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "199-_욕망이론_박정규_tagged.txt",
+    "author": "박정규",
+    "title": "욕망이론",
+    "year": "199-",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 21417,
+    "unique_morphemes": 3112,
+    "shannon_entropy": 8.710232790362559
+  },
+  "readability_metrics": {
+    "total_word_count": 9448,
+    "long_word_count": 2371,
+    "average_sentence_length_words": 9.47642928786359,
+    "long_word_ratio_pct": 25.095258255715496,
+    "lix_readability_score": 34.57168754357909
+  }
+}

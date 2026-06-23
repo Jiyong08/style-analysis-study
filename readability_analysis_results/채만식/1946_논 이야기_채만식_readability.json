@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1946_논 이야기_채만식_tagged.txt",
+    "author": "채만식",
+    "title": "논 이야기",
+    "year": "1946",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 10108,
+    "unique_morphemes": 1897,
+    "shannon_entropy": 8.80440785590752
+  },
+  "readability_metrics": {
+    "total_word_count": 4120,
+    "long_word_count": 1058,
+    "average_sentence_length_words": 8.477366255144032,
+    "long_word_ratio_pct": 25.679611650485437,
+    "lix_readability_score": 34.15697790562947
+  }
+}

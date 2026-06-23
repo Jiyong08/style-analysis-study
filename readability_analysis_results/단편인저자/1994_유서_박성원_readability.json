@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1994_유서_박성원_tagged.txt",
+    "author": "박성원",
+    "title": "유서",
+    "year": "1994",
+    "is_excluded_from_display": true
+  },
+  "entropy_metrics": {
+    "total_morphemes": 12219,
+    "unique_morphemes": 1924,
+    "shannon_entropy": 8.438077091230035
+  },
+  "readability_metrics": {
+    "total_word_count": 5445,
+    "long_word_count": 1173,
+    "average_sentence_length_words": 7.767475035663338,
+    "long_word_ratio_pct": 21.542699724517906,
+    "lix_readability_score": 29.310174760181244
+  }
+}

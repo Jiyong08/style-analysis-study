@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1931_아무 일도 없소_이태준_tagged.txt",
+    "author": "이태준",
+    "title": "아무 일도 없소",
+    "year": "1931",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 145,
+    "density": 0.11836734693877551,
+    "average_clustering": 0.4418795779384015,
+    "transitivity": 0.397459165154265
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "얼굴",
+        "value": 0.3469387755102041
+      },
+      {
+        "word": "에로",
+        "value": 0.32653061224489793
+      },
+      {
+        "word": "생각",
+        "value": 0.32653061224489793
+      },
+      {
+        "word": "사람",
+        "value": 0.2857142857142857
+      },
+      {
+        "word": "유곽",
+        "value": 0.22448979591836732
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "얼굴",
+        "value": 0.32600623582766436
+      },
+      {
+        "word": "사람",
+        "value": 0.1901998299319728
+      },
+      {
+        "word": "에로",
+        "value": 0.15976473922902493
+      },
+      {
+        "word": "생각",
+        "value": 0.14964569160997734
+      },
+      {
+        "word": "여자",
+        "value": 0.1304563492063492
+      }
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1982_오막살이 집 한 채_김성동_tagged.txt",
+    "author": "김성동",
+    "title": "오막살이 집 한 채",
+    "year": "1982",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 233,
+    "density": 0.19020408163265307,
+    "average_clustering": 0.5316992289587885,
+    "transitivity": 0.38025415444770283
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "소년",
+        "value": 0.836734693877551
+      },
+      {
+        "word": "소리",
+        "value": 0.5510204081632653
+      },
+      {
+        "word": "아낙",
+        "value": 0.4897959183673469
+      },
+      {
+        "word": "중년",
+        "value": 0.36734693877551017
+      },
+      {
+        "word": "사람",
+        "value": 0.2857142857142857
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "소년",
+        "value": 0.7476473922902496
+      },
+      {
+        "word": "소리",
+        "value": 0.2731009070294784
+      },
+      {
+        "word": "중년",
+        "value": 0.2042517006802721
+      },
+      {
+        "word": "목소리",
+        "value": 0.07142857142857142
+      },
+      {
+        "word": "증말",
+        "value": 0.03996598639455782
+      }
+    ]
+  }
+}

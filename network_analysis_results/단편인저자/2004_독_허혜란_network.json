@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "2004_독_허혜란_tagged.txt",
+    "author": "허혜란",
+    "title": "독",
+    "year": "2004",
+    "is_excluded_from_display": true
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 137,
+    "density": 0.11183673469387755,
+    "average_clustering": 0.41818123706359,
+    "transitivity": 0.29938900203665986
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "아이",
+        "value": 0.3469387755102041
+      },
+      {
+        "word": "남편",
+        "value": 0.3061224489795918
+      },
+      {
+        "word": "목소리",
+        "value": 0.3061224489795918
+      },
+      {
+        "word": "아귀",
+        "value": 0.2857142857142857
+      },
+      {
+        "word": "소리",
+        "value": 0.22448979591836732
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "아이",
+        "value": 0.36522108843537415
+      },
+      {
+        "word": "목소리",
+        "value": 0.3126417233560091
+      },
+      {
+        "word": "남자",
+        "value": 0.22902494331065762
+      },
+      {
+        "word": "아귀",
+        "value": 0.17261904761904764
+      },
+      {
+        "word": "남편",
+        "value": 0.16865079365079366
+      }
+    ]
+  }
+}

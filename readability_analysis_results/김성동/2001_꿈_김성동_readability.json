@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "2001_꿈_김성동_tagged.txt",
+    "author": "김성동",
+    "title": "꿈",
+    "year": "2001",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 138448,
+    "unique_morphemes": 9562,
+    "shannon_entropy": 9.414469691870138
+  },
+  "readability_metrics": {
+    "total_word_count": 54506,
+    "long_word_count": 18899,
+    "average_sentence_length_words": 8.249735129408203,
+    "long_word_ratio_pct": 34.67324698198364,
+    "lix_readability_score": 42.92298211139184
+  }
+}

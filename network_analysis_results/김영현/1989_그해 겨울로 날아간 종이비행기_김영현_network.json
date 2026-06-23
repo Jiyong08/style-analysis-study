@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1989_그해 겨울로 날아간 종이비행기_김영현_tagged.txt",
+    "author": "김영현",
+    "title": "그해 겨울로 날아간 종이비행기",
+    "year": "1989",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 198,
+    "density": 0.16163265306122448,
+    "average_clustering": 0.38227978230919407,
+    "transitivity": 0.33663366336633666
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "아내",
+        "value": 0.42857142857142855
+      },
+      {
+        "word": "동안",
+        "value": 0.36734693877551017
+      },
+      {
+        "word": "생각",
+        "value": 0.3469387755102041
+      },
+      {
+        "word": "고문",
+        "value": 0.3061224489795918
+      },
+      {
+        "word": "사람",
+        "value": 0.26530612244897955
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "아내",
+        "value": 0.21902399848828416
+      },
+      {
+        "word": "고문",
+        "value": 0.19223356009070294
+      },
+      {
+        "word": "동안",
+        "value": 0.13984315948601664
+      },
+      {
+        "word": "생각",
+        "value": 0.1325113378684807
+      },
+      {
+        "word": "표정",
+        "value": 0.07896825396825395
+      }
+    ]
+  }
+}

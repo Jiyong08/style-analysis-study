@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1989_고래 뱃속에서_최수철_tagged.txt",
+    "author": "최수철",
+    "title": "고래 뱃속에서",
+    "year": "1989",
+    "is_excluded_from_display": true
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 982,
+    "density": 0.8016326530612244,
+    "average_clustering": 0.8371688396576725,
+    "transitivity": 0.8307236893355145
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "사람",
+        "value": 0.9999999999999999
+      },
+      {
+        "word": "자신",
+        "value": 0.9999999999999999
+      },
+      {
+        "word": "생각",
+        "value": 0.9999999999999999
+      },
+      {
+        "word": "사내",
+        "value": 0.9795918367346939
+      },
+      {
+        "word": "모습",
+        "value": 0.9795918367346939
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "사람",
+        "value": 0.38010204081632654
+      },
+      {
+        "word": "자신",
+        "value": 0.38010204081632654
+      },
+      {
+        "word": "사내",
+        "value": 0.24107142857142858
+      },
+      {
+        "word": "생각",
+        "value": 0.14753401360544216
+      },
+      {
+        "word": "소리",
+        "value": 0.07568027210884354
+      }
+    ]
+  }
+}

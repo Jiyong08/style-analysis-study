@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1985_저물 녘의 恍惚_이청준_tagged.txt",
+    "author": "이청준",
+    "title": "저물 녘의 恍惚",
+    "year": "1985",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 12044,
+    "unique_morphemes": 2326,
+    "shannon_entropy": 8.731459233309996
+  },
+  "readability_metrics": {
+    "total_word_count": 5288,
+    "long_word_count": 1449,
+    "average_sentence_length_words": 10.429980276134122,
+    "long_word_ratio_pct": 27.401664145234495,
+    "lix_readability_score": 37.831644421368615
+  }
+}

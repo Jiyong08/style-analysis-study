@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "2000_분필 교향곡_김종광_tagged.txt",
+    "author": "김종광",
+    "title": "분필 교향곡",
+    "year": "2000",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 230,
+    "density": 0.18775510204081633,
+    "average_clustering": 0.46004258160140515,
+    "transitivity": 0.39256061109266027
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "교사",
+        "value": 0.6938775510204082
+      },
+      {
+        "word": "학생",
+        "value": 0.673469387755102
+      },
+      {
+        "word": "책상",
+        "value": 0.42857142857142855
+      },
+      {
+        "word": "분필",
+        "value": 0.36734693877551017
+      },
+      {
+        "word": "일성",
+        "value": 0.3469387755102041
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "학생",
+        "value": 0.5816326530612245
+      },
+      {
+        "word": "교사",
+        "value": 0.4399092970521542
+      },
+      {
+        "word": "분필",
+        "value": 0.22236394557823128
+      },
+      {
+        "word": "머리",
+        "value": 0.09098639455782312
+      },
+      {
+        "word": "선생",
+        "value": 0.08056972789115646
+      }
+    ]
+  }
+}

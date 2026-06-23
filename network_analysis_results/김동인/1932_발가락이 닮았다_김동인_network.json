@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1932_발가락이 닮았다_김동인_tagged.txt",
+    "author": "김동인",
+    "title": "발가락이 닮았다",
+    "year": "1932",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 158,
+    "density": 0.12897959183673469,
+    "average_clustering": 0.4445895215895216,
+    "transitivity": 0.34789515488482925
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "아내",
+        "value": 0.44897959183673464
+      },
+      {
+        "word": "사람",
+        "value": 0.2857142857142857
+      },
+      {
+        "word": "검사",
+        "value": 0.2857142857142857
+      },
+      {
+        "word": "생식",
+        "value": 0.26530612244897955
+      },
+      {
+        "word": "자식",
+        "value": 0.26530612244897955
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "아내",
+        "value": 0.34256303503752494
+      },
+      {
+        "word": "생식",
+        "value": 0.19145571690214544
+      },
+      {
+        "word": "사람",
+        "value": 0.16618480725623583
+      },
+      {
+        "word": "친구",
+        "value": 0.12361755308183879
+      },
+      {
+        "word": "검사",
+        "value": 0.08224287758726533
+      }
+    ]
+  }
+}

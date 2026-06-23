@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "2000_물 속의 집_원재길_tagged.txt",
+    "author": "원재길",
+    "title": "물 속의 집",
+    "year": "2000",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 9545,
+    "unique_morphemes": 1995,
+    "shannon_entropy": 8.65143490062561
+  },
+  "readability_metrics": {
+    "total_word_count": 4468,
+    "long_word_count": 1116,
+    "average_sentence_length_words": 7.397350993377484,
+    "long_word_ratio_pct": 24.977618621307073,
+    "lix_readability_score": 32.37496961468456
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1994_사람의 향기_송기원_tagged.txt",
+    "author": "송기원",
+    "title": "사람의 향기",
+    "year": "1994",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 325,
+    "density": 0.2653061224489796,
+    "average_clustering": 0.5770123865356064,
+    "transitivity": 0.41857903433082433
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "누님",
+        "value": 0.9183673469387754
+      },
+      {
+        "word": "어머니",
+        "value": 0.673469387755102
+      },
+      {
+        "word": "양순이",
+        "value": 0.673469387755102
+      },
+      {
+        "word": "사람",
+        "value": 0.5714285714285714
+      },
+      {
+        "word": "매부",
+        "value": 0.42857142857142855
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "누님",
+        "value": 0.9265873015873016
+      },
+      {
+        "word": "어머니",
+        "value": 0.07142857142857142
+      },
+      {
+        "word": "아버지",
+        "value": 0.07142857142857142
+      },
+      {
+        "word": "고개",
+        "value": 0.03996598639455782
+      },
+      {
+        "word": "엄니",
+        "value": 0.039895124716553286
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1990_지금은 고통뿐일지라도_권용득_tagged.txt",
+    "author": "권용득",
+    "title": "지금은 고통뿐일지라도",
+    "year": "1990",
+    "is_excluded_from_display": true
+  },
+  "entropy_metrics": {
+    "total_morphemes": 10068,
+    "unique_morphemes": 1725,
+    "shannon_entropy": 8.436829180406408
+  },
+  "readability_metrics": {
+    "total_word_count": 4190,
+    "long_word_count": 1275,
+    "average_sentence_length_words": 7.9961832061068705,
+    "long_word_ratio_pct": 30.429594272076372,
+    "lix_readability_score": 38.42577747818324
+  }
+}

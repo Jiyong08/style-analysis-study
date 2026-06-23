@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1959_소나기_황순원_tagged.txt",
+    "author": "황순원",
+    "title": "소나기",
+    "year": "1959",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 4569,
+    "unique_morphemes": 1002,
+    "shannon_entropy": 7.992101952944705
+  },
+  "readability_metrics": {
+    "total_word_count": 1995,
+    "long_word_count": 436,
+    "average_sentence_length_words": 5.816326530612245,
+    "long_word_ratio_pct": 21.854636591478698,
+    "lix_readability_score": 27.670963122090942
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1952_화산댁이_오영수_tagged.txt",
+    "author": "오영수",
+    "title": "화산댁이",
+    "year": "1952",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 5085,
+    "unique_morphemes": 1271,
+    "shannon_entropy": 8.359702344677508
+  },
+  "readability_metrics": {
+    "total_word_count": 2151,
+    "long_word_count": 546,
+    "average_sentence_length_words": 7.341296928327645,
+    "long_word_ratio_pct": 25.383542538354252,
+    "lix_readability_score": 32.7248394666819
+  }
+}

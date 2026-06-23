@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "2002_어떤 솔거의 죽음_조정래_tagged.txt",
+    "author": "조정래",
+    "title": "어떤 솔거의 죽음",
+    "year": "2002",
+    "is_excluded_from_display": true
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 149,
+    "density": 0.12163265306122449,
+    "average_clustering": 0.46927587536875465,
+    "transitivity": 0.2777385159010601
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "성주",
+        "value": 0.5714285714285714
+      },
+      {
+        "word": "지루",
+        "value": 0.3877551020408163
+      },
+      {
+        "word": "그림",
+        "value": 0.36734693877551017
+      },
+      {
+        "word": "신하",
+        "value": 0.32653061224489793
+      },
+      {
+        "word": "얼굴",
+        "value": 0.2857142857142857
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "성주",
+        "value": 0.6112528344671201
+      },
+      {
+        "word": "지루",
+        "value": 0.35119047619047616
+      },
+      {
+        "word": "그림",
+        "value": 0.3089569160997732
+      },
+      {
+        "word": "신하",
+        "value": 0.10019841269841269
+      },
+      {
+        "word": "스승",
+        "value": 0.0796485260770975
+      }
+    ]
+  }
+}

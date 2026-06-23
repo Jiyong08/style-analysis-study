@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "2002_헤조갈래_송기원_tagged.txt",
+    "author": "송기원",
+    "title": "헤조갈래",
+    "year": "2002",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 9652,
+    "unique_morphemes": 1949,
+    "shannon_entropy": 8.86064962649441
+  },
+  "readability_metrics": {
+    "total_word_count": 4133,
+    "long_word_count": 1258,
+    "average_sentence_length_words": 10.384422110552764,
+    "long_word_ratio_pct": 30.43793854343092,
+    "lix_readability_score": 40.82236065398369
+  }
+}

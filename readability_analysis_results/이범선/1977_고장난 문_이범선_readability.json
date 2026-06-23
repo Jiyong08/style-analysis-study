@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1977_고장난 문_이범선_tagged.txt",
+    "author": "이범선",
+    "title": "고장난 문",
+    "year": "1977",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 7134,
+    "unique_morphemes": 1141,
+    "shannon_entropy": 8.19646234997221
+  },
+  "readability_metrics": {
+    "total_word_count": 3205,
+    "long_word_count": 755,
+    "average_sentence_length_words": 6.128107074569789,
+    "long_word_ratio_pct": 23.556942277691107,
+    "lix_readability_score": 29.685049352260897
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1981_길, 한 이십 년_이인성_tagged.txt",
+    "author": "이인성",
+    "title": "길, 한 이십 년",
+    "year": "1981",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 17702,
+    "unique_morphemes": 2786,
+    "shannon_entropy": 8.679018136104181
+  },
+  "readability_metrics": {
+    "total_word_count": 7593,
+    "long_word_count": 1760,
+    "average_sentence_length_words": 8.531460674157303,
+    "long_word_ratio_pct": 23.179244040563677,
+    "lix_readability_score": 31.710704714720983
+  }
+}

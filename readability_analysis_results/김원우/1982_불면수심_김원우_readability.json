@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1982_불면수심_김원우_tagged.txt",
+    "author": "김원우",
+    "title": "불면수심",
+    "year": "1982",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 10125,
+    "unique_morphemes": 2131,
+    "shannon_entropy": 8.832551424541602
+  },
+  "readability_metrics": {
+    "total_word_count": 4342,
+    "long_word_count": 1163,
+    "average_sentence_length_words": 12.512968299711815,
+    "long_word_ratio_pct": 26.784891754951634,
+    "lix_readability_score": 39.297860054663445
+  }
+}

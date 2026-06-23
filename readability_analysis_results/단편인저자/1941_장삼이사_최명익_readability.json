@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1941_장삼이사_최명익_tagged.txt",
+    "author": "최명익",
+    "title": "장삼이사",
+    "year": "1941",
+    "is_excluded_from_display": true
+  },
+  "entropy_metrics": {
+    "total_morphemes": 8564,
+    "unique_morphemes": 1724,
+    "shannon_entropy": 8.615510737785016
+  },
+  "readability_metrics": {
+    "total_word_count": 3821,
+    "long_word_count": 782,
+    "average_sentence_length_words": 10.613888888888889,
+    "long_word_ratio_pct": 20.46584663700602,
+    "lix_readability_score": 31.07973552589491
+  }
+}

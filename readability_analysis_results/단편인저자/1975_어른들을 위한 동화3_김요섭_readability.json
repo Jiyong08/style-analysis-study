@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1975_어른들을 위한 동화3_김요섭_tagged.txt",
+    "author": "김요섭",
+    "title": "어른들을 위한 동화3",
+    "year": "1975",
+    "is_excluded_from_display": true
+  },
+  "entropy_metrics": {
+    "total_morphemes": 10647,
+    "unique_morphemes": 2599,
+    "shannon_entropy": 9.022235161740937
+  },
+  "readability_metrics": {
+    "total_word_count": 4706,
+    "long_word_count": 1256,
+    "average_sentence_length_words": 10.5990990990991,
+    "long_word_ratio_pct": 26.689332766680835,
+    "lix_readability_score": 37.288431865779934
+  }
+}

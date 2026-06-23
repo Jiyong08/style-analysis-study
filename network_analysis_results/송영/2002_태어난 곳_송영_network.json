@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "2002_태어난 곳_송영_tagged.txt",
+    "author": "송영",
+    "title": "태어난 곳",
+    "year": "2002",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 214,
+    "density": 0.17469387755102042,
+    "average_clustering": 0.4298351498862335,
+    "transitivity": 0.35259259259259257
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "마을",
+        "value": 0.4081632653061224
+      },
+      {
+        "word": "읍내",
+        "value": 0.3469387755102041
+      },
+      {
+        "word": "포천",
+        "value": 0.32653061224489793
+      },
+      {
+        "word": "가족",
+        "value": 0.32653061224489793
+      },
+      {
+        "word": "사람",
+        "value": 0.3061224489795918
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "마을",
+        "value": 0.22620649450256294
+      },
+      {
+        "word": "똘뽀",
+        "value": 0.1353991993622845
+      },
+      {
+        "word": "읍내",
+        "value": 0.11181432890616565
+      },
+      {
+        "word": "학교",
+        "value": 0.09105820899788487
+      },
+      {
+        "word": "가족",
+        "value": 0.07884098083677916
+      }
+    ]
+  }
+}

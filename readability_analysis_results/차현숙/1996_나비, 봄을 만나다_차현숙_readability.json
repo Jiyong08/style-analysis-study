@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1996_나비, 봄을 만나다_차현숙_tagged.txt",
+    "author": "차현숙",
+    "title": "나비, 봄을 만나다",
+    "year": "1996",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 17424,
+    "unique_morphemes": 2237,
+    "shannon_entropy": 8.558257557934748
+  },
+  "readability_metrics": {
+    "total_word_count": 7691,
+    "long_word_count": 1569,
+    "average_sentence_length_words": 7.675648702594811,
+    "long_word_ratio_pct": 20.40046807957353,
+    "lix_readability_score": 28.076116782168338
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "2003_섬, 나는 세상 끝을 산다_한창훈_tagged.txt",
+    "author": "한창훈",
+    "title": "섬, 나는 세상 끝을 산다",
+    "year": "2003",
+    "is_excluded_from_display": true
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 732,
+    "density": 0.5975510204081632,
+    "average_clustering": 0.6656252167490233,
+    "transitivity": 0.6513175891310294
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "바다",
+        "value": 0.9387755102040816
+      },
+      {
+        "word": "소리",
+        "value": 0.9183673469387754
+      },
+      {
+        "word": "사람",
+        "value": 0.8775510204081632
+      },
+      {
+        "word": "사이",
+        "value": 0.7959183673469387
+      },
+      {
+        "word": "생각",
+        "value": 0.7755102040816326
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "바다",
+        "value": 0.5982851473922902
+      },
+      {
+        "word": "사람",
+        "value": 0.22349773242630389
+      },
+      {
+        "word": "소녀",
+        "value": 0.13194444444444442
+      },
+      {
+        "word": "할머니",
+        "value": 0.06335034013605442
+      },
+      {
+        "word": "세상",
+        "value": 0.06164965986394558
+      }
+    ]
+  }
+}

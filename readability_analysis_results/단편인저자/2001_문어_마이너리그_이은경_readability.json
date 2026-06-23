@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "2001_문어_마이너리그_이은경_tagged.txt",
+    "author": "마이너리그",
+    "title": "문어",
+    "year": "2001",
+    "is_excluded_from_display": true
+  },
+  "entropy_metrics": {
+    "total_morphemes": 104622,
+    "unique_morphemes": 8896,
+    "shannon_entropy": 9.264524053663973
+  },
+  "readability_metrics": {
+    "total_word_count": 45128,
+    "long_word_count": 13106,
+    "average_sentence_length_words": 10.041833555852248,
+    "long_word_ratio_pct": 29.04183655380252,
+    "lix_readability_score": 39.08367010965477
+  }
+}

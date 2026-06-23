@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "2000_그리운 흔적_이윤기_tagged.txt",
+    "author": "이윤기",
+    "title": "그리운 흔적",
+    "year": "2000",
+    "is_excluded_from_display": true
+  },
+  "entropy_metrics": {
+    "total_morphemes": 71628,
+    "unique_morphemes": 5388,
+    "shannon_entropy": 8.79308071987363
+  },
+  "readability_metrics": {
+    "total_word_count": 30408,
+    "long_word_count": 7264,
+    "average_sentence_length_words": 7.353808948004837,
+    "long_word_ratio_pct": 23.888450407787424,
+    "lix_readability_score": 31.24225935579226
+  }
+}

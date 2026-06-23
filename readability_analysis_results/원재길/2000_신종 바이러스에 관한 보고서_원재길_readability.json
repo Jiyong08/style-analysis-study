@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "2000_신종 바이러스에 관한 보고서_원재길_tagged.txt",
+    "author": "원재길",
+    "title": "신종 바이러스에 관한 보고서",
+    "year": "2000",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 4626,
+    "unique_morphemes": 1309,
+    "shannon_entropy": 8.463181852532863
+  },
+  "readability_metrics": {
+    "total_word_count": 2114,
+    "long_word_count": 615,
+    "average_sentence_length_words": 15.544117647058824,
+    "long_word_ratio_pct": 29.091769157994325,
+    "lix_readability_score": 44.63588680505315
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "2001_울보 유생이_송기원_tagged.txt",
+    "author": "송기원",
+    "title": "울보 유생이",
+    "year": "2001",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 245,
+    "density": 0.2,
+    "average_clustering": 0.5800229521832352,
+    "transitivity": 0.37364771151178916
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "유생",
+        "value": 0.8775510204081632
+      },
+      {
+        "word": "어머니",
+        "value": 0.836734693877551
+      },
+      {
+        "word": "아이",
+        "value": 0.4081632653061224
+      },
+      {
+        "word": "자리",
+        "value": 0.3061224489795918
+      },
+      {
+        "word": "당시",
+        "value": 0.3061224489795918
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "유생",
+        "value": 0.8278061224489794
+      },
+      {
+        "word": "어머니",
+        "value": 0.30272108843537415
+      },
+      {
+        "word": "자신",
+        "value": 0.04081632653061224
+      },
+      {
+        "word": "서울",
+        "value": 0.04081632653061224
+      },
+      {
+        "word": "간난",
+        "value": 0.03996598639455782
+      }
+    ]
+  }
+}

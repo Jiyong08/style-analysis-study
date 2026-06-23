@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1991_키작은 쑥부쟁이_김소진_tagged.txt",
+    "author": "김소진",
+    "title": "키작은 쑥부쟁이",
+    "year": "1991",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 9277,
+    "unique_morphemes": 2501,
+    "shannon_entropy": 9.051861257471483
+  },
+  "readability_metrics": {
+    "total_word_count": 4044,
+    "long_word_count": 1166,
+    "average_sentence_length_words": 9.404651162790698,
+    "long_word_ratio_pct": 28.83283877349159,
+    "lix_readability_score": 38.23748993628229
+  }
+}

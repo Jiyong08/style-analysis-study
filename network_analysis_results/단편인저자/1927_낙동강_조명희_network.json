@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1927_낙동강_조명희_tagged.txt",
+    "author": "조명희",
+    "title": "낙동강",
+    "year": "1927",
+    "is_excluded_from_display": true
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 219,
+    "density": 0.17877551020408164,
+    "average_clustering": 0.5289738596179723,
+    "transitivity": 0.45568137446310036
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "사람",
+        "value": 0.6530612244897959
+      },
+      {
+        "word": "성운",
+        "value": 0.4081632653061224
+      },
+      {
+        "word": "형평",
+        "value": 0.36734693877551017
+      },
+      {
+        "word": "여성",
+        "value": 0.36734693877551017
+      },
+      {
+        "word": "사원",
+        "value": 0.36734693877551017
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "사람",
+        "value": 0.5089548914804016
+      },
+      {
+        "word": "성운",
+        "value": 0.18351149983803045
+      },
+      {
+        "word": "낙동강",
+        "value": 0.09899376417233559
+      },
+      {
+        "word": "운동",
+        "value": 0.08543083900226757
+      },
+      {
+        "word": "생각",
+        "value": 0.07135770975056688
+      }
+    ]
+  }
+}

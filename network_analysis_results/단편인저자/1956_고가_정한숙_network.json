@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1956_고가_정한숙_tagged.txt",
+    "author": "정한숙",
+    "title": "고가",
+    "year": "1956",
+    "is_excluded_from_display": true
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 413,
+    "density": 0.33714285714285713,
+    "average_clustering": 0.6108161745877362,
+    "transitivity": 0.4804575786463298
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "필재",
+        "value": 0.9999999999999999
+      },
+      {
+        "word": "할아버지",
+        "value": 0.7755102040816326
+      },
+      {
+        "word": "어머니",
+        "value": 0.7142857142857142
+      },
+      {
+        "word": "길녀",
+        "value": 0.7142857142857142
+      },
+      {
+        "word": "숙부",
+        "value": 0.5918367346938775
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "필재",
+        "value": 0.9664115646258503
+      },
+      {
+        "word": "할아버지",
+        "value": 0.0782312925170068
+      },
+      {
+        "word": "어머니",
+        "value": 0.0017006802721088435
+      },
+      {
+        "word": "길녀",
+        "value": 0.00042517006802721087
+      },
+      {
+        "word": "숙부",
+        "value": 0.0
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "2000_분필 교향곡_김종광_tagged.txt",
+    "author": "김종광",
+    "title": "분필 교향곡",
+    "year": "2000",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 10233,
+    "unique_morphemes": 1502,
+    "shannon_entropy": 8.122002937020078
+  },
+  "readability_metrics": {
+    "total_word_count": 4127,
+    "long_word_count": 1029,
+    "average_sentence_length_words": 5.332041343669251,
+    "long_word_ratio_pct": 24.933365640901382,
+    "lix_readability_score": 30.26540698457063
+  }
+}

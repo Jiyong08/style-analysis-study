@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1999_그녀를 사랑해선 안 되는 단 한 가지 이유_김경욱_tagged.txt",
+    "author": "김경욱",
+    "title": "그녀를 사랑해선 안 되는 단 한 가지 이유",
+    "year": "1999",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 7952,
+    "unique_morphemes": 1359,
+    "shannon_entropy": 8.087806380931637
+  },
+  "readability_metrics": {
+    "total_word_count": 3471,
+    "long_word_count": 830,
+    "average_sentence_length_words": 7.562091503267974,
+    "long_word_ratio_pct": 23.912417170844137,
+    "lix_readability_score": 31.47450867411211
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1964_난_오영수_tagged.txt",
+    "author": "오영수",
+    "title": "난",
+    "year": "1964",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 3109,
+    "unique_morphemes": 856,
+    "shannon_entropy": 8.224270454892102
+  },
+  "readability_metrics": {
+    "total_word_count": 1299,
+    "long_word_count": 235,
+    "average_sentence_length_words": 6.695876288659794,
+    "long_word_ratio_pct": 18.09083910700539,
+    "lix_readability_score": 24.786715395665183
+  }
+}

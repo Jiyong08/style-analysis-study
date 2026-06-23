@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1999_멋진 한세상_공선옥_tagged.txt",
+    "author": "공선옥",
+    "title": "멋진 한세상",
+    "year": "1999",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 11369,
+    "unique_morphemes": 1978,
+    "shannon_entropy": 8.722267347753649
+  },
+  "readability_metrics": {
+    "total_word_count": 4896,
+    "long_word_count": 1446,
+    "average_sentence_length_words": 9.695049504950495,
+    "long_word_ratio_pct": 29.534313725490197,
+    "lix_readability_score": 39.22936323044069
+  }
+}

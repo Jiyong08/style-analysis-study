@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "2002_그가 남기고 온 자리_김준성_tagged.txt",
+    "author": "김준성",
+    "title": "그가 남기고 온 자리",
+    "year": "2002",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 201,
+    "density": 0.16408163265306122,
+    "average_clustering": 0.5035721476499465,
+    "transitivity": 0.35714285714285715
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "어머니",
+        "value": 0.6326530612244897
+      },
+      {
+        "word": "생각",
+        "value": 0.44897959183673464
+      },
+      {
+        "word": "추경",
+        "value": 0.3469387755102041
+      },
+      {
+        "word": "양로원",
+        "value": 0.32653061224489793
+      },
+      {
+        "word": "사람",
+        "value": 0.32653061224489793
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "어머니",
+        "value": 0.7008219954648526
+      },
+      {
+        "word": "생각",
+        "value": 0.29726473922902497
+      },
+      {
+        "word": "아이",
+        "value": 0.09821428571428571
+      },
+      {
+        "word": "양로원",
+        "value": 0.0881519274376417
+      },
+      {
+        "word": "형사",
+        "value": 0.07979024943310657
+      }
+    ]
+  }
+}

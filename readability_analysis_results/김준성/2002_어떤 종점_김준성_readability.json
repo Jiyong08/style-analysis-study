@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "2002_어떤 종점_김준성_tagged.txt",
+    "author": "김준성",
+    "title": "어떤 종점",
+    "year": "2002",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 7078,
+    "unique_morphemes": 1446,
+    "shannon_entropy": 8.265599220527106
+  },
+  "readability_metrics": {
+    "total_word_count": 2995,
+    "long_word_count": 800,
+    "average_sentence_length_words": 7.881578947368421,
+    "long_word_ratio_pct": 26.71118530884808,
+    "lix_readability_score": 34.5927642562165
+  }
+}

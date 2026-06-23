@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1957_수난 이대_하근찬_tagged.txt",
+    "author": "하근찬",
+    "title": "수난 이대",
+    "year": "1957",
+    "is_excluded_from_display": true
+  },
+  "entropy_metrics": {
+    "total_morphemes": 6357,
+    "unique_morphemes": 1370,
+    "shannon_entropy": 8.26151241113045
+  },
+  "readability_metrics": {
+    "total_word_count": 2788,
+    "long_word_count": 674,
+    "average_sentence_length_words": 7.514824797843666,
+    "long_word_ratio_pct": 24.17503586800574,
+    "lix_readability_score": 31.689860665849405
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1982_객주5_김주영_tagged.txt",
+    "author": "김주영",
+    "title": "객주5",
+    "year": "1982",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 137477,
+    "unique_morphemes": 10394,
+    "shannon_entropy": 9.571930817395959
+  },
+  "readability_metrics": {
+    "total_word_count": 56306,
+    "long_word_count": 18461,
+    "average_sentence_length_words": 10.67614713689799,
+    "long_word_ratio_pct": 32.78691436081412,
+    "lix_readability_score": 43.46306149771211
+  }
+}

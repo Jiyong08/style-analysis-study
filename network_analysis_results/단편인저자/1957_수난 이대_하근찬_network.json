@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1957_수난 이대_하근찬_tagged.txt",
+    "author": "하근찬",
+    "title": "수난 이대",
+    "year": "1957",
+    "is_excluded_from_display": true
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 141,
+    "density": 0.11510204081632654,
+    "average_clustering": 0.47609625668449196,
+    "transitivity": 0.30444444444444446
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "만도",
+        "value": 0.7142857142857142
+      },
+      {
+        "word": "진수",
+        "value": 0.32653061224489793
+      },
+      {
+        "word": "소리",
+        "value": 0.22448979591836732
+      },
+      {
+        "word": "사람",
+        "value": 0.2040816326530612
+      },
+      {
+        "word": "아들",
+        "value": 0.2040816326530612
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "만도",
+        "value": 0.7321428571428572
+      },
+      {
+        "word": "진수",
+        "value": 0.26186224489795923
+      },
+      {
+        "word": "사람",
+        "value": 0.07312925170068027
+      },
+      {
+        "word": "여편네",
+        "value": 0.07270408163265306
+      },
+      {
+        "word": "팔뚝",
+        "value": 0.06292517006802721
+      }
+    ]
+  }
+}

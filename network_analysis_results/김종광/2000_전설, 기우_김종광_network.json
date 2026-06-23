@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "2000_전설, 기우_김종광_tagged.txt",
+    "author": "김종광",
+    "title": "전설, 기우",
+    "year": "2000",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 277,
+    "density": 0.22612244897959183,
+    "average_clustering": 0.5473138005269584,
+    "transitivity": 0.4317111459968603
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "철주",
+        "value": 0.673469387755102
+      },
+      {
+        "word": "탈영",
+        "value": 0.5306122448979591
+      },
+      {
+        "word": "소설",
+        "value": 0.5102040816326531
+      },
+      {
+        "word": "시간",
+        "value": 0.44897959183673464
+      },
+      {
+        "word": "검사",
+        "value": 0.42857142857142855
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "철주",
+        "value": 0.6131660997732425
+      },
+      {
+        "word": "소설",
+        "value": 0.3385062358276644
+      },
+      {
+        "word": "탈영",
+        "value": 0.07405045351473924
+      },
+      {
+        "word": "경비",
+        "value": 0.07249149659863946
+      },
+      {
+        "word": "생각",
+        "value": 0.06611394557823128
+      }
+    ]
+  }
+}

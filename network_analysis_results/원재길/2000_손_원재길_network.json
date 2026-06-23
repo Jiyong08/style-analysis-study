@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "2000_손_원재길_tagged.txt",
+    "author": "원재길",
+    "title": "손",
+    "year": "2000",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 232,
+    "density": 0.1893877551020408,
+    "average_clustering": 0.3660373963841456,
+    "transitivity": 0.35080121264616715
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "소설",
+        "value": 0.3877551020408163
+      },
+      {
+        "word": "여자",
+        "value": 0.36734693877551017
+      },
+      {
+        "word": "사람",
+        "value": 0.36734693877551017
+      },
+      {
+        "word": "자신",
+        "value": 0.32653061224489793
+      },
+      {
+        "word": "소리",
+        "value": 0.2857142857142857
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "여자",
+        "value": 0.18307823129251702
+      },
+      {
+        "word": "자신",
+        "value": 0.15454223356009064
+      },
+      {
+        "word": "소설",
+        "value": 0.11832482993197278
+      },
+      {
+        "word": "작가",
+        "value": 0.0945578231292517
+      },
+      {
+        "word": "사랑",
+        "value": 0.07294501133786849
+      }
+    ]
+  }
+}

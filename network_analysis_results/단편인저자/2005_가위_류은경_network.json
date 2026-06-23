@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "2005_가위_류은경_tagged.txt",
+    "author": "류은경",
+    "title": "가위",
+    "year": "2005",
+    "is_excluded_from_display": true
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 145,
+    "density": 0.11836734693877551,
+    "average_clustering": 0.4344908542721842,
+    "transitivity": 0.27832512315270935
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "남자",
+        "value": 0.4693877551020408
+      },
+      {
+        "word": "사이",
+        "value": 0.3469387755102041
+      },
+      {
+        "word": "가위",
+        "value": 0.32653061224489793
+      },
+      {
+        "word": "머리",
+        "value": 0.3061224489795918
+      },
+      {
+        "word": "미용실",
+        "value": 0.26530612244897955
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "남자",
+        "value": 0.5156037414965986
+      },
+      {
+        "word": "머리",
+        "value": 0.2733701814058957
+      },
+      {
+        "word": "가위",
+        "value": 0.22718253968253965
+      },
+      {
+        "word": "사이",
+        "value": 0.19306972789115645
+      },
+      {
+        "word": "미용실",
+        "value": 0.08799603174603172
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1983_동경_오정희_오정희_tagged.txt",
+    "author": "오정희",
+    "title": "동경",
+    "year": "1983",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 11587,
+    "unique_morphemes": 2197,
+    "shannon_entropy": 8.681870668510307
+  },
+  "readability_metrics": {
+    "total_word_count": 5229,
+    "long_word_count": 1215,
+    "average_sentence_length_words": 9.96,
+    "long_word_ratio_pct": 23.23580034423408,
+    "lix_readability_score": 33.19580034423408
+  }
+}

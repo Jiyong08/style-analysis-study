@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "2000_벽에서 빠져나온 여자_원재길_tagged.txt",
+    "author": "원재길",
+    "title": "벽에서 빠져나온 여자",
+    "year": "2000",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 4038,
+    "unique_morphemes": 1026,
+    "shannon_entropy": 8.278068008661073
+  },
+  "readability_metrics": {
+    "total_word_count": 1851,
+    "long_word_count": 484,
+    "average_sentence_length_words": 10.283333333333333,
+    "long_word_ratio_pct": 26.148028092922743,
+    "lix_readability_score": 36.431361426256075
+  }
+}

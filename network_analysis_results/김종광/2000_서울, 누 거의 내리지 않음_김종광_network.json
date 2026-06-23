@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "2000_서울, 누 거의 내리지 않음_김종광_tagged.txt",
+    "author": "김종광",
+    "title": "서울, 누 거의 내리지 않음",
+    "year": "2000",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 177,
+    "density": 0.14448979591836736,
+    "average_clustering": 0.40160083552498416,
+    "transitivity": 0.31803490627020037
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "생각",
+        "value": 0.42857142857142855
+      },
+      {
+        "word": "자신",
+        "value": 0.3877551020408163
+      },
+      {
+        "word": "선배",
+        "value": 0.3469387755102041
+      },
+      {
+        "word": "사람",
+        "value": 0.3061224489795918
+      },
+      {
+        "word": "면접",
+        "value": 0.26530612244897955
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "생각",
+        "value": 0.34552862811791385
+      },
+      {
+        "word": "선배",
+        "value": 0.21947278911564627
+      },
+      {
+        "word": "자신",
+        "value": 0.16256377551020407
+      },
+      {
+        "word": "사람",
+        "value": 0.13188775510204082
+      },
+      {
+        "word": "후배",
+        "value": 0.06900510204081634
+      }
+    ]
+  }
+}

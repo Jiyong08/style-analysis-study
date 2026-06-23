@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1999_고려인 니나_송영_tagged.txt",
+    "author": "송영",
+    "title": "고려인 니나",
+    "year": "1999",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 250,
+    "density": 0.20408163265306123,
+    "average_clustering": 0.5423341198189495,
+    "transitivity": 0.3964797136038186
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "니나",
+        "value": 0.8163265306122448
+      },
+      {
+        "word": "사람",
+        "value": 0.5306122448979591
+      },
+      {
+        "word": "아이",
+        "value": 0.4081632653061224
+      },
+      {
+        "word": "버스",
+        "value": 0.3877551020408163
+      },
+      {
+        "word": "부또보",
+        "value": 0.36734693877551017
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "니나",
+        "value": 0.8653628117913831
+      },
+      {
+        "word": "아이",
+        "value": 0.18622448979591835
+      },
+      {
+        "word": "버스",
+        "value": 0.17410714285714285
+      },
+      {
+        "word": "유즈나야",
+        "value": 0.07504251700680271
+      },
+      {
+        "word": "사람",
+        "value": 0.04563492063492063
+      }
+    ]
+  }
+}

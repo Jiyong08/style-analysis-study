@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1990_노란 불꽃_김하기_tagged.txt",
+    "author": "김하기",
+    "title": "노란 불꽃",
+    "year": "1990",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 181,
+    "density": 0.14775510204081632,
+    "average_clustering": 0.4133918303918304,
+    "transitivity": 0.2906735751295337
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "병모",
+        "value": 0.8163265306122448
+      },
+      {
+        "word": "동지",
+        "value": 0.32653061224489793
+      },
+      {
+        "word": "소리",
+        "value": 0.3061224489795918
+      },
+      {
+        "word": "중사",
+        "value": 0.2857142857142857
+      },
+      {
+        "word": "아버지",
+        "value": 0.24489795918367346
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "병모",
+        "value": 0.8543509070294784
+      },
+      {
+        "word": "동지",
+        "value": 0.11415816326530612
+      },
+      {
+        "word": "아버지",
+        "value": 0.10168650793650794
+      },
+      {
+        "word": "어머니",
+        "value": 0.07482993197278912
+      },
+      {
+        "word": "대열",
+        "value": 0.06951530612244898
+      }
+    ]
+  }
+}

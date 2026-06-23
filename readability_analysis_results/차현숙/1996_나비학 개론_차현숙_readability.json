@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1996_나비학 개론_차현숙_tagged.txt",
+    "author": "차현숙",
+    "title": "나비학 개론",
+    "year": "1996",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 16716,
+    "unique_morphemes": 1938,
+    "shannon_entropy": 8.345716024664586
+  },
+  "readability_metrics": {
+    "total_word_count": 7333,
+    "long_word_count": 1601,
+    "average_sentence_length_words": 7.407070707070707,
+    "long_word_ratio_pct": 21.832810582299196,
+    "lix_readability_score": 29.239881289369904
+  }
+}

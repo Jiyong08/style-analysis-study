@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1956_고가_정한숙_tagged.txt",
+    "author": "정한숙",
+    "title": "고가",
+    "year": "1956",
+    "is_excluded_from_display": true
+  },
+  "entropy_metrics": {
+    "total_morphemes": 14043,
+    "unique_morphemes": 2053,
+    "shannon_entropy": 8.443325762220812
+  },
+  "readability_metrics": {
+    "total_word_count": 6281,
+    "long_word_count": 1482,
+    "average_sentence_length_words": 10.718430034129693,
+    "long_word_ratio_pct": 23.594968953988218,
+    "lix_readability_score": 34.31339898811791
+  }
+}

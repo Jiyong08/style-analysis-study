@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1986_아버지의 강_유재용_tagged.txt",
+    "author": "유재용",
+    "title": "아버지의 강",
+    "year": "1986",
+    "is_excluded_from_display": true
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 822,
+    "density": 0.6710204081632654,
+    "average_clustering": 0.7708705125615966,
+    "transitivity": 0.7460554371002133
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "생각",
+        "value": 0.9999999999999999
+      },
+      {
+        "word": "사람",
+        "value": 0.9795918367346939
+      },
+      {
+        "word": "마음",
+        "value": 0.9591836734693877
+      },
+      {
+        "word": "아버지",
+        "value": 0.9387755102040816
+      },
+      {
+        "word": "자신",
+        "value": 0.9183673469387754
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "아버지",
+        "value": 0.6113945578231292
+      },
+      {
+        "word": "사람",
+        "value": 0.3516156462585034
+      },
+      {
+        "word": "생각",
+        "value": 0.12202380952380952
+      },
+      {
+        "word": "얘기",
+        "value": 0.07227891156462585
+      },
+      {
+        "word": "연화",
+        "value": 0.03486394557823129
+      }
+    ]
+  }
+}

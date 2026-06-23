@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1980_엄마의 말뚝1_박완서_tagged.txt",
+    "author": "박완서",
+    "title": "엄마의 말뚝1",
+    "year": "1980",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 25683,
+    "unique_morphemes": 3685,
+    "shannon_entropy": 8.91518890708411
+  },
+  "readability_metrics": {
+    "total_word_count": 11135,
+    "long_word_count": 3042,
+    "average_sentence_length_words": 9.590869939707149,
+    "long_word_ratio_pct": 27.319263583295914,
+    "lix_readability_score": 36.91013352300306
+  }
+}

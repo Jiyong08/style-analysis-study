@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1937_두꺼비_김유정_tagged.txt",
+    "author": "김유정",
+    "title": "두꺼비",
+    "year": "1937",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 2610,
+    "unique_morphemes": 864,
+    "shannon_entropy": 8.415760652182774
+  },
+  "readability_metrics": {
+    "total_word_count": 1264,
+    "long_word_count": 250,
+    "average_sentence_length_words": 28.727272727272727,
+    "long_word_ratio_pct": 19.77848101265823,
+    "lix_readability_score": 48.50575373993095
+  }
+}

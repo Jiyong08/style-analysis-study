@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1979_월행_송기원_tagged.txt",
+    "author": "송기원",
+    "title": "월행",
+    "year": "1979",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 214,
+    "density": 0.17469387755102042,
+    "average_clustering": 0.6630204955251854,
+    "transitivity": 0.3655742920776328
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "사내",
+        "value": 0.8979591836734693
+      },
+      {
+        "word": "노인",
+        "value": 0.6530612244897959
+      },
+      {
+        "word": "아이",
+        "value": 0.42857142857142855
+      },
+      {
+        "word": "마을",
+        "value": 0.4081632653061224
+      },
+      {
+        "word": "얼굴",
+        "value": 0.36734693877551017
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "사내",
+        "value": 0.8886054421768708
+      },
+      {
+        "word": "노인",
+        "value": 0.18664965986394558
+      },
+      {
+        "word": "얼굴",
+        "value": 0.04081632653061224
+      },
+      {
+        "word": "아부지",
+        "value": 0.04081632653061224
+      },
+      {
+        "word": "사람",
+        "value": 0.03996598639455782
+      }
+    ]
+  }
+}

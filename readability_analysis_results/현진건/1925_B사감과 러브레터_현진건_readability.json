@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1925_B사감과 러브레터_현진건_tagged.txt",
+    "author": "현진건",
+    "title": "B사감과 러브레터",
+    "year": "1925",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 2966,
+    "unique_morphemes": 928,
+    "shannon_entropy": 8.41073832920854
+  },
+  "readability_metrics": {
+    "total_word_count": 1326,
+    "long_word_count": 309,
+    "average_sentence_length_words": 11.839285714285714,
+    "long_word_ratio_pct": 23.30316742081448,
+    "lix_readability_score": 35.14245313510019
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1993_꿈꾸는 인큐베이터_박완서_tagged.txt",
+    "author": "박완서",
+    "title": "꿈꾸는 인큐베이터",
+    "year": "1993",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 25764,
+    "unique_morphemes": 3591,
+    "shannon_entropy": 8.856154482388476
+  },
+  "readability_metrics": {
+    "total_word_count": 11320,
+    "long_word_count": 2879,
+    "average_sentence_length_words": 10.026572187776793,
+    "long_word_ratio_pct": 25.43286219081272,
+    "lix_readability_score": 35.45943437858951
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1992_벌거벗은 마음_김원우_tagged.txt",
+    "author": "김원우",
+    "title": "벌거벗은 마음",
+    "year": "1992",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 31502,
+    "unique_morphemes": 4990,
+    "shannon_entropy": 9.298068830788903
+  },
+  "readability_metrics": {
+    "total_word_count": 13714,
+    "long_word_count": 3833,
+    "average_sentence_length_words": 10.815457413249211,
+    "long_word_ratio_pct": 27.949540615429488,
+    "lix_readability_score": 38.7649980286787
+  }
+}

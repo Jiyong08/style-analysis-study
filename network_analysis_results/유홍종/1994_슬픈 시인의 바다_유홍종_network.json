@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1994_슬픈 시인의 바다_유홍종_tagged.txt",
+    "author": "유홍종",
+    "title": "슬픈 시인의 바다",
+    "year": "1994",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 670,
+    "density": 0.5469387755102041,
+    "average_clustering": 0.6715851845380354,
+    "transitivity": 0.6431509016134135
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "시인",
+        "value": 0.8775510204081632
+      },
+      {
+        "word": "한은옥",
+        "value": 0.8571428571428571
+      },
+      {
+        "word": "미려",
+        "value": 0.8163265306122448
+      },
+      {
+        "word": "남편",
+        "value": 0.7959183673469387
+      },
+      {
+        "word": "서포리",
+        "value": 0.7755102040816326
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "미려",
+        "value": 0.3282312925170068
+      },
+      {
+        "word": "시인",
+        "value": 0.22354024943310657
+      },
+      {
+        "word": "서포리",
+        "value": 0.2052295918367347
+      },
+      {
+        "word": "한은옥",
+        "value": 0.2000425170068027
+      },
+      {
+        "word": "석하",
+        "value": 0.18459467120181405
+      }
+    ]
+  }
+}

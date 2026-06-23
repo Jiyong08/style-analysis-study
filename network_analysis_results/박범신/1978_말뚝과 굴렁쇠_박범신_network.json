@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1978_말뚝과 굴렁쇠_박범신_tagged.txt",
+    "author": "박범신",
+    "title": "말뚝과 굴렁쇠",
+    "year": "1978",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 213,
+    "density": 0.17387755102040817,
+    "average_clustering": 0.4916439439334176,
+    "transitivity": 0.3188640973630832
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "나미",
+        "value": 0.7755102040816326
+      },
+      {
+        "word": "노파",
+        "value": 0.42857142857142855
+      },
+      {
+        "word": "안심",
+        "value": 0.3469387755102041
+      },
+      {
+        "word": "별장",
+        "value": 0.3469387755102041
+      },
+      {
+        "word": "생각",
+        "value": 0.3061224489795918
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "나미",
+        "value": 0.7081976838354389
+      },
+      {
+        "word": "노파",
+        "value": 0.21464002267573692
+      },
+      {
+        "word": "안심",
+        "value": 0.13860544217687074
+      },
+      {
+        "word": "사장",
+        "value": 0.10646258503401361
+      },
+      {
+        "word": "별장",
+        "value": 0.09842687074829931
+      }
+    ]
+  }
+}

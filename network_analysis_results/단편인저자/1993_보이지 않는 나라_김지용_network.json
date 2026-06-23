@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1993_보이지 않는 나라_김지용_tagged.txt",
+    "author": "김지용",
+    "title": "보이지 않는 나라",
+    "year": "1993",
+    "is_excluded_from_display": true
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 786,
+    "density": 0.6416326530612245,
+    "average_clustering": 0.7384566468838561,
+    "transitivity": 0.7128491181207527
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "형기",
+        "value": 0.9999999999999999
+      },
+      {
+        "word": "생각",
+        "value": 0.9795918367346939
+      },
+      {
+        "word": "반장",
+        "value": 0.9591836734693877
+      },
+      {
+        "word": "형사",
+        "value": 0.9387755102040816
+      },
+      {
+        "word": "춘기",
+        "value": 0.8775510204081632
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "형기",
+        "value": 0.6135204081632653
+      },
+      {
+        "word": "반장",
+        "value": 0.383078231292517
+      },
+      {
+        "word": "생각",
+        "value": 0.14285714285714285
+      },
+      {
+        "word": "경찰",
+        "value": 0.09013605442176871
+      },
+      {
+        "word": "형사",
+        "value": 0.06972789115646258
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1999_기대어 앉은 오후_이신조_tagged.txt",
+    "author": "이신조",
+    "title": "기대어 앉은 오후",
+    "year": "1999",
+    "is_excluded_from_display": true
+  },
+  "entropy_metrics": {
+    "total_morphemes": 54998,
+    "unique_morphemes": 5279,
+    "shannon_entropy": 8.972762735402991
+  },
+  "readability_metrics": {
+    "total_word_count": 24037,
+    "long_word_count": 6292,
+    "average_sentence_length_words": 6.729283314669653,
+    "long_word_ratio_pct": 26.176311519740402,
+    "lix_readability_score": 32.90559483441005
+  }
+}

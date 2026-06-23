@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1984_저녁의 邂逅_박완서_tagged.txt",
+    "author": "박완서",
+    "title": "저녁의 邂逅",
+    "year": "1984",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 12865,
+    "unique_morphemes": 2500,
+    "shannon_entropy": 8.824975117532102
+  },
+  "readability_metrics": {
+    "total_word_count": 5607,
+    "long_word_count": 1515,
+    "average_sentence_length_words": 10.157608695652174,
+    "long_word_ratio_pct": 27.01979668271803,
+    "lix_readability_score": 37.1774053783702
+  }
+}

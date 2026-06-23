@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "2002_펭귄의 날개_오정은_tagged.txt",
+    "author": "오정은",
+    "title": "펭귄의 날개",
+    "year": "2002",
+    "is_excluded_from_display": true
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 853,
+    "density": 0.6963265306122449,
+    "average_clustering": 0.7643217757665784,
+    "transitivity": 0.7488389311435687
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "예리",
+        "value": 0.9999999999999999
+      },
+      {
+        "word": "자신",
+        "value": 0.9795918367346939
+      },
+      {
+        "word": "사람",
+        "value": 0.9795918367346939
+      },
+      {
+        "word": "혁진",
+        "value": 0.9591836734693877
+      },
+      {
+        "word": "생각",
+        "value": 0.9591836734693877
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "예리",
+        "value": 0.941751700680272
+      },
+      {
+        "word": "선우",
+        "value": 0.11904761904761904
+      },
+      {
+        "word": "자신",
+        "value": 0.08035714285714285
+      },
+      {
+        "word": "생각",
+        "value": 0.0391156462585034
+      },
+      {
+        "word": "사람",
+        "value": 0.0391156462585034
+      }
+    ]
+  }
+}

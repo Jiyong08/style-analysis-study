@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1994_신라의 푸른 길_윤대녕_tagged.txt",
+    "author": "윤대녕",
+    "title": "신라의 푸른 길",
+    "year": "1994",
+    "is_excluded_from_display": true
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 262,
+    "density": 0.21387755102040817,
+    "average_clustering": 0.4913799164536276,
+    "transitivity": 0.40540540540540543
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "생각",
+        "value": 0.5102040816326531
+      },
+      {
+        "word": "동안",
+        "value": 0.4693877551020408
+      },
+      {
+        "word": "경주",
+        "value": 0.44897959183673464
+      },
+      {
+        "word": "석굴암",
+        "value": 0.44897959183673464
+      },
+      {
+        "word": "바다",
+        "value": 0.42857142857142855
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "강릉",
+        "value": 0.20732102364755423
+      },
+      {
+        "word": "버스",
+        "value": 0.194185293164885
+      },
+      {
+        "word": "생각",
+        "value": 0.15239714933592483
+      },
+      {
+        "word": "바다",
+        "value": 0.15056891804340783
+      },
+      {
+        "word": "경주",
+        "value": 0.12232142857142858
+      }
+    ]
+  }
+}

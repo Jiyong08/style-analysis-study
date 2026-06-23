@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "199-_느후스탄_박정규_tagged.txt",
+    "author": "박정규",
+    "title": "느후스탄",
+    "year": "199-",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 478,
+    "density": 0.3902040816326531,
+    "average_clustering": 0.5619956747792528,
+    "transitivity": 0.5241358760429082
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "할아버지",
+        "value": 0.7755102040816326
+      },
+      {
+        "word": "노인",
+        "value": 0.6938775510204082
+      },
+      {
+        "word": "생각",
+        "value": 0.6530612244897959
+      },
+      {
+        "word": "소리",
+        "value": 0.6122448979591836
+      },
+      {
+        "word": "작은아버지",
+        "value": 0.5918367346938775
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "할아버지",
+        "value": 0.4758361678004535
+      },
+      {
+        "word": "노인",
+        "value": 0.20479024943310659
+      },
+      {
+        "word": "작품",
+        "value": 0.17226473922902494
+      },
+      {
+        "word": "아버지",
+        "value": 0.159297052154195
+      },
+      {
+        "word": "이야기",
+        "value": 0.054209183673469385
+      }
+    ]
+  }
+}

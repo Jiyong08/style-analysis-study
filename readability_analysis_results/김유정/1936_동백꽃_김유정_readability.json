@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1936_동백꽃_김유정_tagged.txt",
+    "author": "김유정",
+    "title": "동백꽃",
+    "year": "1936",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 3860,
+    "unique_morphemes": 988,
+    "shannon_entropy": 8.363726245263864
+  },
+  "readability_metrics": {
+    "total_word_count": 1784,
+    "long_word_count": 378,
+    "average_sentence_length_words": 10.432748538011696,
+    "long_word_ratio_pct": 21.18834080717489,
+    "lix_readability_score": 31.621089345186583
+  }
+}

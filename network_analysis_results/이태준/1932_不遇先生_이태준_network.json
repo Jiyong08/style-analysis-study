@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1932_不遇先生_이태준_tagged.txt",
+    "author": "이태준",
+    "title": "不遇先生",
+    "year": "1932",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 196,
+    "density": 0.16,
+    "average_clustering": 0.5487218064013729,
+    "transitivity": 0.5770295202952029
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "사람",
+        "value": 0.42857142857142855
+      },
+      {
+        "word": "선생",
+        "value": 0.4081632653061224
+      },
+      {
+        "word": "여관",
+        "value": 0.36734693877551017
+      },
+      {
+        "word": "친구",
+        "value": 0.36734693877551017
+      },
+      {
+        "word": "생각",
+        "value": 0.36734693877551017
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "사람",
+        "value": 0.19699304852366073
+      },
+      {
+        "word": "선생",
+        "value": 0.16680983651646913
+      },
+      {
+        "word": "주인",
+        "value": 0.13197352534087226
+      },
+      {
+        "word": "생각",
+        "value": 0.061928167731739155
+      },
+      {
+        "word": "친구",
+        "value": 0.05725376994509647
+      }
+    ]
+  }
+}

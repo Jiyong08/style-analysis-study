@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1980_옥상의 민들레꽃_박완서_tagged.txt",
+    "author": "박완서",
+    "title": "옥상의 민들레꽃",
+    "year": "1980",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 6794,
+    "unique_morphemes": 1146,
+    "shannon_entropy": 8.189538720645853
+  },
+  "readability_metrics": {
+    "total_word_count": 3002,
+    "long_word_count": 824,
+    "average_sentence_length_words": 7.638676844783715,
+    "long_word_ratio_pct": 27.448367754830112,
+    "lix_readability_score": 35.087044599613826
+  }
+}

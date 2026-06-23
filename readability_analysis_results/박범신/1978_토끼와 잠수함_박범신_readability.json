@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1978_토끼와 잠수함_박범신_tagged.txt",
+    "author": "박범신",
+    "title": "토끼와 잠수함",
+    "year": "1978",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 7896,
+    "unique_morphemes": 1704,
+    "shannon_entropy": 8.473750058703784
+  },
+  "readability_metrics": {
+    "total_word_count": 3383,
+    "long_word_count": 881,
+    "average_sentence_length_words": 7.275268817204301,
+    "long_word_ratio_pct": 26.041974578776234,
+    "lix_readability_score": 33.31724339598053
+  }
+}

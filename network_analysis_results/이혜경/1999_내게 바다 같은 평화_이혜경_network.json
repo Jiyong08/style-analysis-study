@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1999_내게 바다 같은 평화_이혜경_tagged.txt",
+    "author": "이혜경",
+    "title": "내게 바다 같은 평화",
+    "year": "1999",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 198,
+    "density": 0.16163265306122448,
+    "average_clustering": 0.37012538923065236,
+    "transitivity": 0.3380281690140845
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "기사",
+        "value": 0.42857142857142855
+      },
+      {
+        "word": "김명우",
+        "value": 0.4081632653061224
+      },
+      {
+        "word": "이채훈",
+        "value": 0.4081632653061224
+      },
+      {
+        "word": "사람",
+        "value": 0.3061224489795918
+      },
+      {
+        "word": "청년",
+        "value": 0.3061224489795918
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "기사",
+        "value": 0.3106575963718822
+      },
+      {
+        "word": "이채훈",
+        "value": 0.20802154195011338
+      },
+      {
+        "word": "김명우",
+        "value": 0.18017998866213153
+      },
+      {
+        "word": "사람",
+        "value": 0.14912131519274377
+      },
+      {
+        "word": "아내",
+        "value": 0.1181193310657596
+      }
+    ]
+  }
+}

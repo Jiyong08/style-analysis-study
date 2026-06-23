@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1935_산골_김유정_tagged.txt",
+    "author": "김유정",
+    "title": "산골",
+    "year": "1935",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 11718,
+    "unique_morphemes": 2248,
+    "shannon_entropy": 8.9695835729654
+  },
+  "readability_metrics": {
+    "total_word_count": 5505,
+    "long_word_count": 1252,
+    "average_sentence_length_words": 14.60212201591512,
+    "long_word_ratio_pct": 22.742960944595822,
+    "lix_readability_score": 37.34508296051094
+  }
+}

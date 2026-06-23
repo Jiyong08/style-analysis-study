@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "2005_오란씨_배지영_tagged.txt",
+    "author": "배지영",
+    "title": "오란씨",
+    "year": "2005",
+    "is_excluded_from_display": true
+  },
+  "entropy_metrics": {
+    "total_morphemes": 27503,
+    "unique_morphemes": 3543,
+    "shannon_entropy": 8.762651928047609
+  },
+  "readability_metrics": {
+    "total_word_count": 12074,
+    "long_word_count": 3011,
+    "average_sentence_length_words": 8.917282127031019,
+    "long_word_ratio_pct": 24.937883054497266,
+    "lix_readability_score": 33.855165181528285
+  }
+}

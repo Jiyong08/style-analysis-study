@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1999_블랙 러시안_김경욱_tagged.txt",
+    "author": "김경욱",
+    "title": "블랙 러시안",
+    "year": "1999",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 11254,
+    "unique_morphemes": 1762,
+    "shannon_entropy": 8.29840821444369
+  },
+  "readability_metrics": {
+    "total_word_count": 4874,
+    "long_word_count": 1307,
+    "average_sentence_length_words": 8.781981981981982,
+    "long_word_ratio_pct": 26.81575707837505,
+    "lix_readability_score": 35.59773906035703
+  }
+}

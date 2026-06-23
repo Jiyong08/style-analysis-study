@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1959_탈각_이호철_tagged.txt",
+    "author": "이호철",
+    "title": "탈각",
+    "year": "1959",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 14751,
+    "unique_morphemes": 2331,
+    "shannon_entropy": 8.846119629419668
+  },
+  "readability_metrics": {
+    "total_word_count": 6270,
+    "long_word_count": 1704,
+    "average_sentence_length_words": 10.555555555555555,
+    "long_word_ratio_pct": 27.177033492822968,
+    "lix_readability_score": 37.73258904837852
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "2001_양철지붕 위에 사는 새_김한수_tagged.txt",
+    "author": "김한수",
+    "title": "양철지붕 위에 사는 새",
+    "year": "2001",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 26136,
+    "unique_morphemes": 4309,
+    "shannon_entropy": 9.115604917552512
+  },
+  "readability_metrics": {
+    "total_word_count": 11427,
+    "long_word_count": 3388,
+    "average_sentence_length_words": 16.25462304409673,
+    "long_word_ratio_pct": 29.649076748052856,
+    "lix_readability_score": 45.90369979214958
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1993_티타임의 모녀_박완서_tagged.txt",
+    "author": "박완서",
+    "title": "티타임의 모녀",
+    "year": "1993",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 195,
+    "density": 0.15918367346938775,
+    "average_clustering": 0.43113712362628775,
+    "transitivity": 0.3224155578300921
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "어머니",
+        "value": 0.44897959183673464
+      },
+      {
+        "word": "지훈이",
+        "value": 0.3877551020408163
+      },
+      {
+        "word": "옥상",
+        "value": 0.36734693877551017
+      },
+      {
+        "word": "사람",
+        "value": 0.36734693877551017
+      },
+      {
+        "word": "그때",
+        "value": 0.3469387755102041
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "어머니",
+        "value": 0.4187216553287982
+      },
+      {
+        "word": "지훈이",
+        "value": 0.35607993197278914
+      },
+      {
+        "word": "옥상",
+        "value": 0.20082199546485258
+      },
+      {
+        "word": "아버지",
+        "value": 0.11649659863945577
+      },
+      {
+        "word": "사람",
+        "value": 0.07128684807256234
+      }
+    ]
+  }
+}

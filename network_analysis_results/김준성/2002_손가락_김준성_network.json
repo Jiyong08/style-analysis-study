@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "2002_손가락_김준성_tagged.txt",
+    "author": "김준성",
+    "title": "손가락",
+    "year": "2002",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 1177,
+    "density": 0.9608163265306122,
+    "average_clustering": 0.9791836734693878,
+    "transitivity": 0.9991323210412147
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "손가락",
+        "value": 0.9999999999999999
+      },
+      {
+        "word": "억수",
+        "value": 0.9795918367346939
+      },
+      {
+        "word": "사람",
+        "value": 0.9795918367346939
+      },
+      {
+        "word": "정치",
+        "value": 0.9795918367346939
+      },
+      {
+        "word": "선거",
+        "value": 0.9795918367346939
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "손가락",
+        "value": 0.12765022675736962
+      },
+      {
+        "word": "정치",
+        "value": 0.09871031746031743
+      },
+      {
+        "word": "억수",
+        "value": 0.03309240362811791
+      },
+      {
+        "word": "문제",
+        "value": 0.013591269841269836
+      },
+      {
+        "word": "청중",
+        "value": 0.01054421768707483
+      }
+    ]
+  }
+}

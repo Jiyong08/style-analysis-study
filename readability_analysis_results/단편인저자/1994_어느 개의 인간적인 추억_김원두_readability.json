@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1994_어느 개의 인간적인 추억_김원두_tagged.txt",
+    "author": "김원두",
+    "title": "어느 개의 인간적인 추억",
+    "year": "1994",
+    "is_excluded_from_display": true
+  },
+  "entropy_metrics": {
+    "total_morphemes": 108874,
+    "unique_morphemes": 7585,
+    "shannon_entropy": 8.98977603144349
+  },
+  "readability_metrics": {
+    "total_word_count": 45008,
+    "long_word_count": 13449,
+    "average_sentence_length_words": 8.705609284332688,
+    "long_word_ratio_pct": 29.881354425879845,
+    "lix_readability_score": 38.58696371021253
+  }
+}

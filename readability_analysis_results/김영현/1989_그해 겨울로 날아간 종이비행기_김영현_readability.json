@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1989_그해 겨울로 날아간 종이비행기_김영현_tagged.txt",
+    "author": "김영현",
+    "title": "그해 겨울로 날아간 종이비행기",
+    "year": "1989",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 11588,
+    "unique_morphemes": 2258,
+    "shannon_entropy": 8.703255189239282
+  },
+  "readability_metrics": {
+    "total_word_count": 4989,
+    "long_word_count": 1355,
+    "average_sentence_length_words": 8.908928571428572,
+    "long_word_ratio_pct": 27.159751453197032,
+    "lix_readability_score": 36.06868002462561
+  }
+}

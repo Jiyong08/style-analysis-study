@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1957_불신 시대_박경리_tagged.txt",
+    "author": "박경리",
+    "title": "불신 시대",
+    "year": "1957",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 225,
+    "density": 0.1836734693877551,
+    "average_clustering": 0.6025704887246682,
+    "transitivity": 0.35489833641404805
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "진영",
+        "value": 0.9183673469387754
+      },
+      {
+        "word": "생각",
+        "value": 0.5510204081632653
+      },
+      {
+        "word": "아주머니",
+        "value": 0.5102040816326531
+      },
+      {
+        "word": "어머니",
+        "value": 0.44897959183673464
+      },
+      {
+        "word": "아이",
+        "value": 0.4081632653061224
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "진영",
+        "value": 0.9317602040816326
+      },
+      {
+        "word": "아주머니",
+        "value": 0.11564625850340135
+      },
+      {
+        "word": "문수",
+        "value": 0.07908163265306122
+      },
+      {
+        "word": "어머니",
+        "value": 0.07504251700680271
+      },
+      {
+        "word": "사람",
+        "value": 0.04251700680272109
+      }
+    ]
+  }
+}

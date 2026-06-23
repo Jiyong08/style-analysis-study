@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1993_사초를 꿈꾸며_채희윤_tagged.txt",
+    "author": "채희윤",
+    "title": "사초를 꿈꾸며",
+    "year": "1993",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 140,
+    "density": 0.11428571428571428,
+    "average_clustering": 0.5543394817742644,
+    "transitivity": 0.21598535692495424
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "아버지",
+        "value": 0.9387755102040816
+      },
+      {
+        "word": "어머니",
+        "value": 0.3061224489795918
+      },
+      {
+        "word": "자신",
+        "value": 0.24489795918367346
+      },
+      {
+        "word": "소리",
+        "value": 0.18367346938775508
+      },
+      {
+        "word": "목장",
+        "value": 0.16326530612244897
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "아버지",
+        "value": 0.9596088435374149
+      },
+      {
+        "word": "소리",
+        "value": 0.07482993197278912
+      },
+      {
+        "word": "어머니",
+        "value": 0.042091836734693876
+      },
+      {
+        "word": "의자",
+        "value": 0.0391156462585034
+      },
+      {
+        "word": "나무",
+        "value": 0.0017006802721088435
+      }
+    ]
+  }
+}

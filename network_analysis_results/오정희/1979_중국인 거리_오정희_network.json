@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1979_중국인 거리_오정희_tagged.txt",
+    "author": "오정희",
+    "title": "중국인 거리",
+    "year": "1979",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 273,
+    "density": 0.22285714285714286,
+    "average_clustering": 0.4557674843789395,
+    "transitivity": 0.3705214098456161
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "거리",
+        "value": 0.5714285714285714
+      },
+      {
+        "word": "소리",
+        "value": 0.42857142857142855
+      },
+      {
+        "word": "중국인",
+        "value": 0.42857142857142855
+      },
+      {
+        "word": "언덕",
+        "value": 0.4081632653061224
+      },
+      {
+        "word": "얼굴",
+        "value": 0.4081632653061224
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "거리",
+        "value": 0.24497590702947844
+      },
+      {
+        "word": "어머니",
+        "value": 0.1868622448979592
+      },
+      {
+        "word": "할머니",
+        "value": 0.1793999651142508
+      },
+      {
+        "word": "중국인",
+        "value": 0.13217447235304375
+      },
+      {
+        "word": "아이",
+        "value": 0.130031179138322
+      }
+    ]
+  }
+}

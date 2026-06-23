@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1989_벌레_김영현_tagged.txt",
+    "author": "김영현",
+    "title": "벌레",
+    "year": "1989",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 12142,
+    "unique_morphemes": 2167,
+    "shannon_entropy": 8.584415452965018
+  },
+  "readability_metrics": {
+    "total_word_count": 5261,
+    "long_word_count": 1433,
+    "average_sentence_length_words": 10.356299212598426,
+    "long_word_ratio_pct": 27.23816764873598,
+    "lix_readability_score": 37.59446686133441
+  }
+}

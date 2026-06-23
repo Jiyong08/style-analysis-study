@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1937_아랑의 정조_박종화_tagged.txt",
+    "author": "박종화",
+    "title": "아랑의 정조",
+    "year": "1937",
+    "is_excluded_from_display": true
+  },
+  "entropy_metrics": {
+    "total_morphemes": 8573,
+    "unique_morphemes": 1682,
+    "shannon_entropy": 8.514553937889229
+  },
+  "readability_metrics": {
+    "total_word_count": 3780,
+    "long_word_count": 714,
+    "average_sentence_length_words": 8.235294117647058,
+    "long_word_ratio_pct": 18.88888888888889,
+    "lix_readability_score": 27.124183006535947
+  }
+}

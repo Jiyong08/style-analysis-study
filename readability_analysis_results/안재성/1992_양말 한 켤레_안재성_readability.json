@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1992_양말 한 켤레_안재성_tagged.txt",
+    "author": "안재성",
+    "title": "양말 한 켤레",
+    "year": "1992",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 13908,
+    "unique_morphemes": 2392,
+    "shannon_entropy": 8.692276500613753
+  },
+  "readability_metrics": {
+    "total_word_count": 6003,
+    "long_word_count": 1664,
+    "average_sentence_length_words": 8.919762258543834,
+    "long_word_ratio_pct": 27.719473596535067,
+    "lix_readability_score": 36.6392358550789
+  }
+}

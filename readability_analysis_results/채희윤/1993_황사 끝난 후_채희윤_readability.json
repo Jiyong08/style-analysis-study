@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1993_황사 끝난 후_채희윤_tagged.txt",
+    "author": "채희윤",
+    "title": "황사 끝난 후",
+    "year": "1993",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 30991,
+    "unique_morphemes": 4467,
+    "shannon_entropy": 9.157224061520605
+  },
+  "readability_metrics": {
+    "total_word_count": 13514,
+    "long_word_count": 4041,
+    "average_sentence_length_words": 9.516901408450705,
+    "long_word_ratio_pct": 29.902323516353412,
+    "lix_readability_score": 39.41922492480412
+  }
+}

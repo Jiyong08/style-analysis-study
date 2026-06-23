@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1964_타인의 땅_이호철_tagged.txt",
+    "author": "이호철",
+    "title": "타인의 땅",
+    "year": "1964",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 379,
+    "density": 0.3093877551020408,
+    "average_clustering": 0.47160245133936074,
+    "transitivity": 0.4337637494021999
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "상국",
+        "value": 0.5714285714285714
+      },
+      {
+        "word": "혼자",
+        "value": 0.5714285714285714
+      },
+      {
+        "word": "거리",
+        "value": 0.5510204081632653
+      },
+      {
+        "word": "사람",
+        "value": 0.5102040816326531
+      },
+      {
+        "word": "아이",
+        "value": 0.5102040816326531
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "상국",
+        "value": 0.26601473922902497
+      },
+      {
+        "word": "사람",
+        "value": 0.16123866213151924
+      },
+      {
+        "word": "상섭",
+        "value": 0.1451955782312925
+      },
+      {
+        "word": "원산",
+        "value": 0.07947845804988661
+      },
+      {
+        "word": "아들",
+        "value": 0.05625
+      }
+    ]
+  }
+}

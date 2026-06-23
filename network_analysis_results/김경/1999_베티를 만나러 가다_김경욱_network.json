@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1999_베티를 만나러 가다_김경욱_tagged.txt",
+    "author": "김경욱",
+    "title": "베티를 만나러 가다",
+    "year": "1999",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 319,
+    "density": 0.26040816326530614,
+    "average_clustering": 0.6140282127852217,
+    "transitivity": 0.6602379235760635
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "베티",
+        "value": 0.6530612244897959
+      },
+      {
+        "word": "커피",
+        "value": 0.5714285714285714
+      },
+      {
+        "word": "아비",
+        "value": 0.5510204081632653
+      },
+      {
+        "word": "자신",
+        "value": 0.5306122448979591
+      },
+      {
+        "word": "동쪽",
+        "value": 0.5306122448979591
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "자신",
+        "value": 0.32004548031333746
+      },
+      {
+        "word": "베티",
+        "value": 0.27651643990929703
+      },
+      {
+        "word": "프리지아",
+        "value": 0.0860685941043084
+      },
+      {
+        "word": "사람",
+        "value": 0.07876275510204082
+      },
+      {
+        "word": "동쪽",
+        "value": 0.058327259475218655
+      }
+    ]
+  }
+}

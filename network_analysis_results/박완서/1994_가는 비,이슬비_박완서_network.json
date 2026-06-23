@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1994_가는 비,이슬비_박완서_tagged.txt",
+    "author": "박완서",
+    "title": "가는 비,이슬비",
+    "year": "1994",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 243,
+    "density": 0.1983673469387755,
+    "average_clustering": 0.524319810152841,
+    "transitivity": 0.38604930847865304
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "수자",
+        "value": 0.7755102040816326
+      },
+      {
+        "word": "찬우",
+        "value": 0.6122448979591836
+      },
+      {
+        "word": "남자",
+        "value": 0.42857142857142855
+      },
+      {
+        "word": "자신",
+        "value": 0.3877551020408163
+      },
+      {
+        "word": "생각",
+        "value": 0.3877551020408163
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "수자",
+        "value": 0.8035714285714286
+      },
+      {
+        "word": "찬우",
+        "value": 0.16142290249433106
+      },
+      {
+        "word": "소리",
+        "value": 0.07738095238095238
+      },
+      {
+        "word": "어머니",
+        "value": 0.07525510204081633
+      },
+      {
+        "word": "남자",
+        "value": 0.0419501133786848
+      }
+    ]
+  }
+}

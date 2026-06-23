@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "file_name": "1972_표구된 휴지_이범선_tagged.txt",
+    "author": "이범선",
+    "title": "표구된 휴지",
+    "year": "1972",
+    "is_excluded_from_display": false
+  },
+  "entropy_metrics": {
+    "total_morphemes": 2454,
+    "unique_morphemes": 722,
+    "shannon_entropy": 8.061482422443405
+  },
+  "readability_metrics": {
+    "total_word_count": 979,
+    "long_word_count": 209,
+    "average_sentence_length_words": 5.658959537572255,
+    "long_word_ratio_pct": 21.348314606741575,
+    "lix_readability_score": 27.00727414431383
+  }
+}

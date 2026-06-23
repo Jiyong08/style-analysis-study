@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "file_name": "1925_五夢女_이태준_tagged.txt",
+    "author": "이태준",
+    "title": "五夢女",
+    "year": "1925",
+    "is_excluded_from_display": false
+  },
+  "network_metrics": {
+    "nodes_count": 50,
+    "edges_count": 188,
+    "density": 0.15346938775510205,
+    "average_clustering": 0.5697617769552754,
+    "transitivity": 0.356951871657754
+  },
+  "centrality_metrics": {
+    "top_degree_centrality": [
+      {
+        "word": "오몽녀",
+        "value": 0.7755102040816326
+      },
+      {
+        "word": "참봉",
+        "value": 0.44897959183673464
+      },
+      {
+        "word": "순사",
+        "value": 0.3469387755102041
+      },
+      {
+        "word": "생선",
+        "value": 0.3469387755102041
+      },
+      {
+        "word": "주재소",
+        "value": 0.32653061224489793
+      }
+    ],
+    "top_betweenness_centrality": [
+      {
+        "word": "오몽녀",
+        "value": 0.833971088435374
+      },
+      {
+        "word": "참봉",
+        "value": 0.28847789115646255
+      },
+      {
+        "word": "주재소",
+        "value": 0.11522108843537414
+      },
+      {
+        "word": "금돌이",
+        "value": 0.07759353741496598
+      },
+      {
+        "word": "순사",
+        "value": 0.06802721088435373
+      }
+    ]
+  }
+}
