@@ -202,6 +202,17 @@ document.addEventListener("DOMContentLoaded", () => {
         updateAllChartsTheme();
     });
 
+    // 창 크기 변경 및 전체화면(F11) 전환 시 차트 리사이즈 보장
+    function resizeAllCharts() {
+        Object.keys(charts).forEach(key => {
+            if (charts[key]) {
+                charts[key].resize();
+            }
+        });
+    }
+    window.addEventListener("resize", resizeAllCharts);
+    document.addEventListener("fullscreenchange", resizeAllCharts);
+
     // 6. 가이드 생성 및 검색 기능
     function renderGuide(filterText = "") {
         guideList.innerHTML = "";

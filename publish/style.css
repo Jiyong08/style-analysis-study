@@ -180,6 +180,8 @@ body.light-theme .nav-item.active {
 /* 2. 메인 콘텐츠 */
 .main-content {
     flex-grow: 1;
+    display: flex;
+    flex-direction: column;
     margin-left: var(--sidebar-width);
     margin-right: var(--right-panel-width);
     padding: 2.5rem;
@@ -371,13 +373,24 @@ body.light-theme .nav-item.active {
 /* 6. 차트 컨테이너 */
 .canvas-container {
     position: relative;
-    height: 350px;
+    flex: 1;
+    min-height: max(350px, calc(100vh - 520px));
     width: 100%;
     margin-top: 1.5rem;
 }
 
 .canvas-container.compact {
-    height: 250px;
+    min-height: max(250px, calc(100vh - 600px));
+}
+
+.canvas-container.compare-canvas {
+    min-height: max(500px, calc(100vh - 450px));
+}
+
+.canvas-container canvas {
+    position: absolute;
+    top: 0;
+    left: 0;
 }
 
 .chart-desc {
@@ -589,8 +602,31 @@ body.light-theme .nav-item.active {
 }
 
 .tab-content.active {
-    display: block;
+    display: flex;
+    flex-direction: column;
+    flex: 1;
     animation: fadeIn var(--transition-normal);
+}
+
+.tab-content.active > .grid-2:last-child,
+.tab-content.active > .grid-3:last-child,
+.tab-content.active > .card:last-child {
+    flex: 1;
+}
+
+.interactive-chart-card,
+#basic-tab .grid-2 > .card,
+#modern-tab .grid-2 > .card,
+#author-details-container > .card,
+#author-details-container .grid-2 > div,
+#compare-tab > .card,
+.compare-chart-area {
+    display: flex;
+    flex-direction: column;
+}
+
+#author-details-container .grid-2 {
+    flex: 1;
 }
 
 @keyframes fadeIn {
